@@ -1,0 +1,211 @@
+<html>
+
+<head>
+    <title>2d With Jquery</title>
+    
+    <!--<script type="text/javascript" src="js/jquery.min.js"></script>-->
+    <script src="https://ajax.googleapis.com/…/l…/jquery/1.12.2/jquery.min.js"></script>
+    <link href="css/app.css" rel="stylesheet"></link>
+    <script>
+        var u_last = "https://marketdata.set.or.th/mkt/marketsummary.do… tr td:eq(1)";
+        var u_val = "https://marketdata.set.or.th/mkt/marketsummary.do… tr td:eq(7)";
+        function getData() {
+            $("#last").load(u_last);
+            $("#value").load(u_val);
+        }
+        setInterval(getData, 5000);
+
+        function liveData() {
+            var getLast = document.getElementById("last").innerHTML;
+            var getVal = document.getElementById("value").innerHTML;
+            var x;
+            x = getVal.length;
+            console.log(getVal);
+            if (x == 17) {
+                var getLastNum = getLast.slice(11, 12);
+                var getValNum = getVal.slice(8, 9);
+                var setVal = document.getElementById("live-data");
+                setVal.innerHTML = getLastNum + "" + getValNum;
+            } else if (x == 18) {
+                var getLastNum = getLast.slice(11, 12);
+                var getValNum = getVal.slice(9, 10);
+                var setVal = document.getElementById("live-data");
+                setVal.innerHTML = getLastNum + "" + getValNum;
+            } else {
+                console.log("There was a problem to show live data");
+            }
+        }
+        setInterval(liveData, 1000);
+    </script>
+</head>
+
+<body>
+    <div class="main">
+        <button class="live-data" id="live-data"></button>
+        <table class="value">
+<tr>
+<tr>
+                <th class="text-val">Set</th>
+                <th id="last"></th>
+            </tr>
+<tr>
+                <th class="text-val">Value</th>
+                <th id="value"></th>
+            </tr>
+</tr>
+</table>
+</div>
+<!-- <script type="text/javascript" src="js/app.js"></script> -->
+
+</body>
+<script>
+    var u_last = "https://marketdata.set.or.th/mkt/marketsummary.do… tr td:eq(1)";
+    var u_val = "https://marketdata.set.or.th/mkt/marketsummary.do… tr td:eq(7)";
+    function getData() {
+        $("#last").load(u_last);
+        $("#value").load(u_val);
+    }
+    setInterval(getData, 5000);
+
+    function liveData() {
+        var getLast = document.getElementById("last").innerHTML;
+        var getVal = document.getElementById("value").innerHTML;
+        var x;
+        x = getVal.length;
+        console.log(getVal);
+        if (x == 17) {
+            var getLastNum = getLast.slice(11, 12);
+            var getValNum = getVal.slice(8, 9);
+            var setVal = document.getElementById("live-data");
+            setVal.innerHTML = getLastNum + "" + getValNum;
+        } else if (x == 18) {
+            var getLastNum = getLast.slice(11, 12);
+            var getValNum = getVal.slice(9, 10);
+            var setVal = document.getElementById("live-data");
+            setVal.innerHTML = getLastNum + "" + getValNum;
+        } else {
+            console.log("There was a problem to show live data");
+        }
+    }
+    setInterval(liveData, 1000);
+</script>
+<style>
+    div.main {
+        padding: 5px;
+        border-radius: 10px;
+        border: 1px solid #ddd;
+    }
+
+    button.live-data {
+        width: 100px;
+        height: 106px;
+        border: none;
+        outline: none;
+        font-size: 30pt;
+        font-family: cursive;
+        border-radius: 10px;
+        border: 1px solid red;
+    }
+
+    table.value {
+        float: right;
+        width: 230px;
+        padding: 8px;
+        border: 1px solid red;
+    }
+
+    table.value .text-val {
+        width: 50px;
+        text-align: left;
+    }
+
+    table.value th {
+        padding: 5px;
+        text-align: left;
+        height: 40px;
+        border-radius: 10px;
+        border: 1px solid #123456;
+    }
+
+    #last,
+    #value {
+        font-size: 10pt;
+    }
+</style>
+
+</html>
+
+<!-- ----------
+js/app.js
+=======
+var u_last = "https://marketdata.set.or.th/mkt/marketsummary.do… tr td:eq(1)";
+var u_val = "https://marketdata.set.or.th/mkt/marketsummary.do… tr td:eq(7)";
+function getData(){
+$("#last").load(u_last);
+$("#value").load(u_val);
+}
+setInterval(getData, 5000);
+
+function liveData(){
+var getLast = document.getElementById("last").innerHTML;
+var getVal = document.getElementById("value").innerHTML;
+var x;
+x = getVal.length;
+console.log(getVal);
+if ( x == 17 ) {
+var getLastNum = getLast.slice(11, 12);
+var getValNum = getVal.slice(8, 9);
+var setVal = document.getElementById("live-data");
+setVal.innerHTML = getLastNum+""+getValNum;
+} else if ( x == 18) {
+var getLastNum = getLast.slice(11, 12);
+var getValNum = getVal.slice(9, 10);
+var setVal = document.getElementById("live-data");
+setVal.innerHTML = getLastNum+""+getValNum;
+} else {
+console.log("There was a problem to show live data");
+}
+}
+setInterval(liveData, 1000);
+-------
+css/app.css
+=========
+div.main {
+padding: 5px;
+border-radius: 10px;
+border: 1px solid #ddd;
+}
+
+button.live-data {
+width: 100px;
+height: 106px;
+border: none;
+outline: none;
+font-size: 30pt;
+font-family: cursive;
+border-radius: 10px;
+//border: 1px solid red;
+}
+
+table.value {
+float: right;
+width: 230px;
+padding: 8px;
+//border: 1px solid red;
+}
+
+table.value .text-val {
+width: 50px;
+text-align:left;
+}
+table.value th {
+padding: 5px;
+text-align: left;
+height: 40px;
+border-radius: 10px;
+border: 1px solid #123456;
+}
+
+#last,#value {
+font-size: 10pt;
+} -->
