@@ -1,4 +1,3 @@
-<ptha>
 {
     "useI": true,
     "useX": true,
@@ -367,4 +366,3 @@
         }
     ]
 }
-</ptha>
