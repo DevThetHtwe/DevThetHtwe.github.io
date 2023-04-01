@@ -1,0 +1,370 @@
+<ptha>
+{
+    "useI": true,
+    "useX": true,
+    "useP": true,
+    "version": "2.0.5",
+    "api": "sUXXV3Or9NuFB6oKjtf6NaEOj5l8o0UzkSdyXYKLExFpG43Yx9K8PuO9fTvoEYc8VnHoSXuGG7qBpBd9YeB1a9HH6b8b1rt82emvU5T7Z6a7O/MPPOczMP+BPFsGcISMiSb7qpUJ2KSFxwaY2tOp9mzVJDlZmOpFjHS0C6Z7WxprLQ8OtBK3LQB+PydUK1Y3",
+    "pwd": "5FTGJiS6+qz8XadQmqlaKJ9vbqzS0e8T",
+    "pwd_desc": "5FTGPSS6+tXds3uHm3iysSPG12Qh6GD4/VCOhHYRnWW/wzt1CSkaVPWkvYN38VMRM+TADn5SS14eyAKogneWzxuKMwvUmhKfEG2VtcJh3NN4FVQ4pju67m5KTO0j7UVEGV2nNm0E7QY=",
+    "dl_desc": "Update app to use latest features.",
+    "f": "sUXXV3Or9NuFB6oHm+KoLImflQHW7Cqtm/Od1yXm4xU=",
+    "t": "sUXXV3Or9NuFB6pDm+KoLMfvrNRItr0oAiwg6VIHicw8DQtMGRSwNw==",
+    "dl": [
+        {
+            "title": "Playstore",
+            "url": "https://play.google.com/store/apps/details?id=com.zkr.mm"
+        }
+    ],
+    "src": [
+        {
+            "a": "Movies",
+            "b": "movies",
+            "c": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSrv1amWnJ511TxyMCtz5owaNLv5oGIlLlGS0wHICS3e85V-oOz6sZe-BCpM4WGpw-SPyJ0wbwmlY7iURg-a8uXXQAOPERL8CrjMOX2U5xV-oHrMhaTKxSlmQl-yjbetNV9zl1X2iVljL0q4WudDjZaRinLTuUJOZr2f3Knsa0EV3eoivB-AflirUh/s320/movies.png",
+            "d": "sUXXV3Or9NuFB6pAs7z6NdTx0+xp6vF4Ce8vLZk3eAvdArQ+t7wQeW4OUHDI5NIxHFqz7mvggAeTQ/hIEjxiqXFLrfwb+/CLTa6k8xm+AIr8xcWnKy3md3hF4FzwcjGY",
+            "e": 0
+        },
+        {
+            "a": "CM Movies",
+            "b": "movies",
+            "c": "https://i.imgur.com/mBoFeU4.png",
+            "d": "sUXXV3Or9NuFB6pAs7z6NdTx0+xp6vF4Ce8vLZk3eAvdArQ+t7wQeW4OUHDI5NIxHFqz7mvhjwd6LT1uXTtbbl7vrAdnPMUPf1FU7RHJ760lgwuWo3uXfDxQJJS+tGCA",
+            "e": 0
+        },
+        {
+            "a": "TV Shows",
+            "b": "series",
+            "c": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhY9Bfe8xUmtQJq8EUtFNdZ9us9dQRPAFqIk24541VR-oevtn7f97RFB7kmQMqY73o1ynxoI_YMMU3aLKB4xuu_oWE94ocPF4bxmxO-apygNZ2ndgPfTpifzL3sK9jO4GfcEscxr3QdA6kyRc2pvXNi6Tgav_CFNg-HV_gr5JwXL54a7kWYt3ZcsB3P/s320/series.png",
+            "d": "sUXXV3Or9NuFB6pAs7z6NdTx0+xp6vF4Ce8vLZk3eAvdArQ+t7wQeW4OUHDI5NIxHFqz7muph0VZlGKmH4DFhd4r8DT9zrepoUP39eY0OPJqUx7TvCUZVWGQ/LLz2QsM",
+            "e": 0
+        },
+        {
+            "a": "Live",
+            "b": "live",
+            "c": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWfNkd_io_b4W2IUNqexrBZ2WHUrofUbXTI5ibHjt3XagWDva1USHs9WMBGZzYGVUqV_o9xhfRPGflgr6QT_p6XPE2kjGfvBEK86Mg0heuuVP9K0WI9PJvw0uuCf9oCoMVpAmj45WFRk4RWE8iFeZRke4SnxVviz3UT77IOllOSVr4VAeIE3xpr3_q/s320/live.png",
+            "d": "sUXXV3Or9NuFB6pAs7z6NdTx0+xp6vF4Ce8vLZk3eAvdArQ+t7wQeW4OUHDI5NIxHFqz7mupk1tvI/P9DLGNvCTduhJIY9utSfC+n2yI107GiU+RCMGzJ8oRmnK2zTiF",
+            "e": 1
+        },
+        {
+            "a": "Adult",
+            "b": "adult",
+            "c": "https://i.imgur.com/6x202ps.png",
+            "d": "sUXXV3Or9NuFB6pAs7z6NdTx0+xp6vF4Ce8vLZk3eAvdArQ+t7wQeW4OUHDI5NIxHFqz7muppgQMSOfwZdJ8+f5xrkSzhG39FB6DQIa+5Ko7dXe2CMDCARVpG7Z/EXl5",
+            "e": 0
+        },
+        {
+            "a": "Adult Premium",
+            "b": "adult",
+            "c": "https://i.imgur.com/NBfpMcT.png",
+            "d": "sUXXV3Or9NuFB6pAs7z6NdTx0+xp6vF4Ce8vLZk3eAvdArQ+t7wQeW4OUHDI5NIxHFqz7mvhl0UvaP417xOlaGSI4j6DqP1T9OLiwGVXi4lF+fbmX0fY9cSvbAs9dorG",
+            "e": 0
+        },
+        {
+            "a": "Local XXX",
+            "b": "adult",
+            "c": "https://i.imgur.com/H6iUlRS.png",
+            "d": "sUXXV3Or9NuFB6pAs7z6NdTx0+xp6vF4Ce8vLZk3eAvdArQ+t7wQeW4OUHDI5NIxHFqz7mvhqgdvIq+BZzOLbC+5dU9OhDZb57AJ2vg7dkFAnpMr//UnxRXAjcYW6HrL",
+            "e": 0
+        },
+        {
+            "a": "Local X Premium",
+            "b": "adult",
+            "c": "https://i.imgur.com/kCKHjEK.png",
+            "d": "sUXXV3Or9NuFB6pAs7z6NdTx0+xp6vF4Ce8vLZk3eAvdArQ+t7wQeW4OUHDI5NIxHFqz7mvgnwe+WYSXJrFrQDsrWxSst58pQpLhpLAb+8UmxRc9RNxsOGVlqTM7RyZy",
+            "e": 0
+        },
+        {
+            "a": "Sports",
+            "b": "sports",
+            "c": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEge-nyiuHcYB5NbUlrCHBDQMQnIR8KzHygdHLtq35fO7EmrB9jvQjKYG-UPcNIz2ztx9tMVO1XrwkIHX3MjzcBcRAXoOsZQFEfIKcv3zp9y9Yg5TXBNWVoJfGNh3i6nUmRSS1I4GbNBDqnLI4N-nhLgDN2PrCrGA2V_Cgc7hQMwvTzXC-EM_ApEzvsZ/s320/sports.png",
+            "d": "sUXXV3Or9NuFB6pAs7z6NdTx0+xp6vF4Ce8vLZk3eAvdArQ+t7wQeW4OUHDI5NIxHFqz7mupqUzIurzuLXpvn0m7hgw/bZzL3sovaABjNBMcgK2E0istHqeTg9WR7kmD",
+            "e": 2
+        },
+        {
+            "a": "XBooks",
+            "b": "adult",
+            "c": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNIJ0QEsygJ1OsbbG5I5g7uUCOukERJVsQPiiPqfZdDAx0MvGknx3SyYNnbvuB6ddGPz0oOWNJUs32FximmbzTbfEPjH-O5qhAS3D-zoC3GzZR_Kp1ZgQDRqu_qexEmXAqqVre-xbhsYajOCqWUOdm-VQNNtBntPezNgem21AFTqP3q5JGcvCGrVBd/s320/book2.png",
+            "d": "sUXXV3Or9NuFB6pAs7z6NdTx0+xp6vF4Ce8vLZk3eAvdArQ+t7wQeW4OUHDI5NIxHFqz7mvgqVjk44+ffqSHv5tI62s/mkNxl/nSYjWmss4r4cfdL00krr+/4nusYwvT",
+            "e": 3
+        },
+        {
+            "a": "xTok",
+            "b": "adult",
+            "c": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaSF3gNF_5gnRsohC2J7OQvsVysYacBasbG9IlkTO1LPfJSzHBC0esSrVWOEbU2jZvje646FqPIBahSjIdSPB4QHwgJNfXBwZo7ArqPWycRT8d2j4qW8nqAIPw_f9zluliTJzSZx6xqERgW6Ar-RVpbCcF_Ks-i5BXbvxIaFFgnN7jCGXGTHml7xjJ/s320/site2.png",
+            "d": "sUXXV3Or9NuFB6oettjtLaIeqTYtZM+B/v+SqC0er8s=",
+            "e": 404
+        },
+        {
+            "a": "Football Live",
+            "b": "sports",
+            "c": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaSF3gNF_5gnRsohC2J7OQvsVysYacBasbG9IlkTO1LPfJSzHBC0esSrVWOEbU2jZvje646FqPIBahSjIdSPB4QHwgJNfXBwZo7ArqPWycRT8d2j4qW8nqAIPw_f9zluliTJzSZx6xqERgW6Ar-RVpbCcF_Ks-i5BXbvxIaFFgnN7jCGXGTHml7xjJ/s320/site2.png",
+            "d": "sUXXV3Or9NuFB6pHjdipcxEU+irGFAGt2wKqUZ3ZlUutOm1l0Ta7Vw==",
+            "e": 404
+        },
+        {
+            "a": "xTik",
+            "b": "adult",
+            "c": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaSF3gNF_5gnRsohC2J7OQvsVysYacBasbG9IlkTO1LPfJSzHBC0esSrVWOEbU2jZvje646FqPIBahSjIdSPB4QHwgJNfXBwZo7ArqPWycRT8d2j4qW8nqAIPw_f9zluliTJzSZx6xqERgW6Ar-RVpbCcF_Ks-i5BXbvxIaFFgnN7jCGXGTHml7xjJ/s320/site2.png",
+            "d": "sUXXV3Or9NuFB6pHssfxcIOeSy1vzzQ30HRMs6FV3rQ=",
+            "e": 404
+        }
+    ],
+    "users": [
+        {
+            "name": "VIP USER",
+            "id": "8d520a66dcac904b",
+            "duration": 1,
+            "startDate": "01-04-2023"
+        },
+        {
+            "name": "Kwee Koy",
+            "id": "9ad673643a77c174",
+            "duration": 3,
+            "startDate": "24-03-2023"
+        },
+        {
+            "name": "S LENG",
+            "id": "0e9ed65d71aed086",
+            "duration": 5,
+            "startDate": "26-03-2023"
+        },
+        {
+            "name": "U Htay Naing Wing",
+            "id": "77604adadf80b0d9",
+            "duration": 1,
+            "startDate": "25-03-2023"
+        },
+        {
+            "name": "K Lay",
+            "id": "e9ab43a2f6858cc1",
+            "duration": 1,
+            "startDate": "25-03-2023"
+        },
+        {
+            "name": "Nyein Min Phyo",
+            "id": "7ef5151b15f541cb",
+            "duration": 3,
+            "startDate": "23-03-2023"
+        },
+        {
+            "name": "Ko Ko",
+            "id": "3626f34d14892970",
+            "duration": 3,
+            "startDate": "21-03-2023"
+        },
+        {
+            "name": "Ko Naing",
+            "id": "7fbfb313ca615423",
+            "duration": 5,
+            "startDate": "20-03-2023"
+        },
+        {
+            "name": "Cho Cho",
+            "id": "321ca9a26ec8ffd8",
+            "duration": 1,
+            "startDate": "19-03-2023"
+        },
+        {
+            "name": "VIP User",
+            "id": "bde4107f186f5452",
+            "duration": 1,
+            "startDate": "19-03-2023"
+        },
+        {
+            "name": "Ye Kyaw Aung",
+            "id": "c75f2f926345608e",
+            "duration": 3,
+            "startDate": "19-03-2023"
+        },
+        {
+            "name": "Thet Paing",
+            "id": "8e508f64e513191c",
+            "duration": 3,
+            "startDate": "17-03-2023"
+        },
+        {
+            "name": "Ko Ko Chit",
+            "id": "82a9c5cc1923cd44",
+            "duration": 1,
+            "startDate": "17-03-2023"
+        },
+        {
+            "name": "Car King",
+            "id": "acec6b93596b1b7a",
+            "duration": 1,
+            "startDate": "16-03-2023"
+        },
+        {
+            "name": "Ko Phyoe",
+            "id": "5b9804fb3b2d006b",
+            "duration": 1,
+            "startDate": "16-03-2023"
+        },
+        {
+            "name": "Oakkar Tun",
+            "id": "82cf419530938d26",
+            "duration": 2,
+            "startDate": "16-03-2023"
+        },
+        {
+            "name": "Chi Pha",
+            "id": "a440412f5b7cd65a",
+            "duration": 2,
+            "startDate": "14-03-2023"
+        },
+        {
+            "name": "Zin Oo Khaing",
+            "id": "3d0b337bedec809a",
+            "duration": 1,
+            "startDate": "14-03-2023"
+        },
+        {
+            "name": "Envar",
+            "id": "ad54c37e52031a2c",
+            "duration": 5,
+            "startDate": "14-03-2023"
+        },
+        {
+            "name": "ManU Fan Lay",
+            "id": "567da5492b378422",
+            "duration": 1,
+            "startDate": "13-03-2023"
+        },
+        {
+            "name": "Saw Daik Oo",
+            "id": "c207bb9471783894",
+            "duration": 2,
+            "startDate": "12-03-2023"
+        },
+        {
+            "name": "Eobard Thawne",
+            "id": "3c53d35f006c913f",
+            "duration": 1,
+            "startDate": "12-03-2023"
+        },
+        {
+            "name": "Ww Ww",
+            "id": "0a167ad052e82f23",
+            "duration": 1,
+            "startDate": "12-03-2023"
+        },
+        {
+            "name": "Zin Chit",
+            "id": "fc7da7796969f192",
+            "duration": 2,
+            "startDate": "12-03-2023"
+        },
+        {
+            "name": "God Father",
+            "id": "d7387d3181191130",
+            "duration": 1,
+            "startDate": "11-03-2023"
+        },
+        {
+            "name": "Iron Bob",
+            "id": "338437752e2735cc",
+            "duration": 1,
+            "startDate": "09-03-2023"
+        },
+        {
+            "name": "Wai Zin",
+            "id": "39d921707578668b",
+            "duration": 1,
+            "startDate": "08-03-2023"
+        },
+        {
+            "name": "Mon Stars",
+            "id": "ce0fd24a68bebca6",
+            "duration": 2,
+            "startDate": "08-03-2023"
+        },
+        {
+            "name": "Swam Pyayt Sone",
+            "id": "6179a718b15a6bf7",
+            "duration": 1,
+            "startDate": "08-03-2023"
+        },
+        {
+            "name": "Vip User",
+            "id": "7a06b9ee70ed0d43",
+            "duration": 2,
+            "startDate": "08-03-2023"
+        },
+        {
+            "name": "Myint Zaw",
+            "id": "d254684737c09361",
+            "duration": 1,
+            "startDate": "07-03-2023"
+        },
+        {
+            "name": "Ko Aung",
+            "id": "6699d16412735aa2",
+            "duration": 2,
+            "startDate": "06-03-2023"
+        },
+        {
+            "name": "Aung Myo Khaing",
+            "id": "fc56be07b95427ed",
+            "duration": 1,
+            "startDate": "06-03-2023"
+        },
+        {
+            "name": "ASD",
+            "id": "8c0d39590f96bcc1",
+            "duration": 12,
+            "startDate": "06-03-2023"
+        },
+        {
+            "name": "Ywetthit Wei",
+            "id": "44328fc08094e716",
+            "duration": 2,
+            "startDate": "06-03-2023"
+        },
+        {
+            "name": "Htet Nay",
+            "id": "9c589889f481bbf6",
+            "duration": 2,
+            "startDate": "03-03-2023"
+        },
+        {
+            "name": "Lin Lin",
+            "id": "bdd51f82c7f9da00",
+            "duration": 2,
+            "startDate": "03-03-2023"
+        },
+        {
+            "name": "Admin Debug",
+            "id": "b4406acc612a4a93tt",
+            "duration": 120,
+            "startDate": "06-03-2023"
+        },
+        {
+            "name": "Super Admin",
+            "id": "4767a53e560a6692tt",
+            "duration": 120,
+            "startDate": "06-03-2023"
+        },
+        {
+            "name": "WP",
+            "id": "b036c1228ea29165",
+            "duration": 3600,
+            "startDate": "15-03-2023"
+        }
+    ],
+    "priceDesc": "",
+    "pricelist": [
+        {
+            "amount": "2000 MMK",
+            "subscription": "1 MONTH"
+        },
+        {
+            "amount": "5000 MMK",
+            "subscription": "3 MONTHS"
+        },
+        {
+            "amount": "8000 MMK",
+            "subscription": "5 MONTHS"
+        }
+    ]
+}
+</ptha>
