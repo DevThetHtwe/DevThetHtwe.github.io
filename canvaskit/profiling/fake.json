@@ -2,6 +2,40 @@
     "data": [
         {
             "p": false,
+            "title": "Now and Ever",
+            "img": {
+                "potrait": true,
+                "url": "https://upload.wikimedia.org/wikipedia/en/9/91/Now_and_Ever.jpg"
+            },
+            "desc": "Now and Ever is a 2019 Burmese romantic-drama film starring Zenn Kyi and Paing Phyo Thu. The film produced and distributed by Central Base Production premiered in Myanmar on October 31, 2019. The soundtrack of the film released on November 15, 2019.",
+            "year": "2019",
+            "rating": "",
+            "duration": "",
+            "ongoing": false,
+            "srcs": [],
+            "genre": [
+                ""
+            ]
+        },
+        {
+            "p": false,
+            "title": "Stranger's House",
+            "img": {
+                "potrait": false,
+                "url": "https://wpengine-myanmore.s3.amazonaws.com/uploads/2019/08/Strangers-House.jpg"
+            },
+            "desc": "Stranger's House is a 2019 Burmese thriller film starring Lwin Moe, Htun Eaindra Bo and Phway Phway. The film produced and distributed by Good Old Days Production premiered in Myanmar on August 1, 2019.",
+            "year": "2019",
+            "rating": "",
+            "duration": "",
+            "ongoing": false,
+            "srcs": [],
+            "genre": [
+                ""
+            ]
+        },
+        {
+            "p": false,
             "title": "JUL-035",
             "img": {
                 "potrait": true,
