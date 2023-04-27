@@ -102,6 +102,23 @@
                 "Comedy",
                 "Romance"
             ]
+        },
+        {
+            "p": false,
+            "title": "I'm Rose, Darling",
+            "img": {
+                "potrait": true,
+                "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/I%27m_Rose%2C_Darling.jpeg/220px-I%27m_Rose%2C_Darling.jpeg"
+            },
+            "desc": "I'm Rose, Darling is a 2015 Burmese drama film directed by Wyne and starring Nay Toe and Phway Phway. It is one of the films that reached the highest-grossing film in Myanmar. This film was achieved Best Actress and Best Director Awards at Myanmar Motion Picture Academy Awards.",
+            "year": "",
+            "rating": "",
+            "duration": "",
+            "ongoing": false,
+            "srcs": [],
+            "genre": [
+                "Drama"
+            ]
         }
     ],
     "genres": [
