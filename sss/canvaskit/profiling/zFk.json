@@ -75,5 +75,23 @@
             "Actress",
             "About"
         ]
+    },
+    {
+        "title": "Khin Wint Wah",
+        "img": "https://pbs.twimg.com/media/Eqnoz42VgAA4laE.jpg",
+        "desc": "Khin Wint Wah is a Burmese actress, commercial model and beauty pageant title holder. She was crowned the Miss Supranational Myanmar 2013 and represented Myanmar at the Miss Supranational 2013 and won four continental titles.",
+        "cate": [
+            "Actress",
+            "About"
+        ]
+    },
+    {
+        "title": "Eaindra Kyaw Zin",
+        "img": "https://i.pinimg.com/736x/07/c1/13/07c1134852f75a98f999afef3fdf7bba.jpg",
+        "desc": "Eaindra Kyaw Zin is a three-time Myanmar Academy Award-winning Burmese actress and model. She is Myanmar's third highest-paid actress and an amateur painter. Now, being above 40, she still remains a popular actress in Myanmar.",
+        "cate": [
+            "Actress",
+            "About"
+        ]
     }
 ]
