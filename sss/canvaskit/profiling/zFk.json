@@ -87,10 +87,20 @@
     },
     {
         "title": "Eaindra Kyaw Zin",
-        "img": "https://i.pinimg.com/736x/07/c1/13/07c1134852f75a98f999afef3fdf7bba.jpg",
+        "img": "https://i.pinimg.com/736x/0f/b2/64/0fb264ff4a34cf1926db62d8d59b2cc6--fashion-styles-academy-awards.jpg",
         "desc": "Eaindra Kyaw Zin is a three-time Myanmar Academy Award-winning Burmese actress and model. She is Myanmar's third highest-paid actress and an amateur painter. Now, being above 40, she still remains a popular actress in Myanmar.",
         "cate": [
             "Actress",
+            "About"
+        ]
+    },
+    {
+        "title": "Chit Thu Wai",
+        "img": "https://assets.mycast.io/actor_images/actor-chit-thu-wai-89309_large.jpg?1589141127",
+        "desc": "Chit Thu Wai is a Burmese actress, singer and medical doctor. She has achieved fame and success as an actress and singer. In 2015, she represented Myanmar at the United Nations General Assembly as a Hand-washing Ambassador.",
+        "cate": [
+            "Actress",
+            "Singer",
             "About"
         ]
     }
