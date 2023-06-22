@@ -2,6 +2,45 @@
     "data": [
         {
             "p": false,
+            "title": "Hosto",
+            "img": {
+                "potrait": true,
+                "url": "https://m.media-amazon.com/images/M/MV5BOTFlMDc4MjktZjkzMy00NDA5LThiOWQtNGE5OGI3YmNmYTA0XkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_.jpg"
+            },
+            "desc": "ဂျပန်ပြည်ရောက် ဖိလစ်ပင်းမလေးတစ်ယောက် အကြောင်းကို နှိုက်နှိုက်ချွတ်ချွတ်ရှုစားကြရမှာဖြစ်ပါတယ်",
+            "year": "2023",
+            "rating": "",
+            "duration": "1h 35m",
+            "ongoing": false,
+            "srcs": [
+                {
+                    "name": "F-Server",
+                    "url": "https://www.mediafire.com/file/pqpme95yyr82rse/[Zkar]+Hosto.mp4/file",
+                    "size": "747 MB",
+                    "quality": "HD",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "F-Server",
+                    "url": "https://archive.org/download/zkar-hosto/%5BZkar%5D%20Hosto.mp4",
+                    "size": "747 MB",
+                    "quality": "HD",
+                    "direct": true,
+                    "dl": false,
+                    "wb": false,
+                    "srt": ""
+                }
+            ],
+            "genre": [
+                "Philippines",
+                "MMSub"
+            ]
+        },
+        {
+            "p": false,
             "title": "IPX-956",
             "img": {
                 "potrait": false,
