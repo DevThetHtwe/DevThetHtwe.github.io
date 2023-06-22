@@ -88,7 +88,7 @@
                     "size": "759 MB",
                     "quality": "HD",
                     "direct": false,
-                    "dl": true,
+                    "dl": false,
                     "wb": false,
                     "srt": ""
                 }
