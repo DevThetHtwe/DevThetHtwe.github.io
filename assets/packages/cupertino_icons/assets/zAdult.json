@@ -2,6 +2,34 @@
     "data": [
         {
             "p": false,
+            "title": "IPX-956",
+            "img": {
+                "potrait": false,
+                "url": "https://img3.javmost.cx/images/IPX-956.webp"
+            },
+            "desc": "စတိုင်းဆိုင်မှာ ပစ္စည်းခိုးတာ security ဘဲကြီးကမိသွားပြီး အခန်းထဲခေါ်စစ်ခံလိုက်ရတဲ့ ဂျပန်မလေး .. ဘယ်လိုတွေတောင် အစစ်ခံရမယ်ဆိုတာကတော့ ...",
+            "year": "",
+            "rating": "",
+            "duration": "",
+            "ongoing": false,
+            "srcs": [
+                {
+                    "name": "F-Server",
+                    "url": "https://www.mediafire.com/file/nlke965mwrj7it3/%255BZkar%255D_IPX-956.mp4/file",
+                    "size": "789 MB",
+                    "quality": "HD",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                }
+            ],
+            "genre": [
+                "Japan"
+            ]
+        },
+        {
+            "p": false,
             "title": "STARS-574",
             "img": {
                 "potrait": false,
@@ -82,6 +110,16 @@
             "duration": "1h 29m",
             "ongoing": false,
             "srcs": [
+                {
+                    "name": "Dir-A",
+                    "url": "https://archive.org/download/zkar-shkd-741/%5BZkar%5D%20SHKD-741.mp4",
+                    "size": "759 MB",
+                    "quality": "HD",
+                    "direct": true,
+                    "dl": false,
+                    "wb": false,
+                    "srt": ""
+                },
                 {
                     "name": "F-Server",
                     "url": "https://www.mediafire.com/file/5j9zctogzunq2oj/%255BZkar%255D_SHKD-741.mp4/file",
@@ -21655,6 +21693,16 @@
             "duration": "2h 30m",
             "ongoing": false,
             "srcs": [
+                {
+                    "name": "Dir-A",
+                    "url": "https://archive.org/download/jul-990/JUL-990.mp4",
+                    "size": "1.41 GB",
+                    "quality": "HD",
+                    "direct": true,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                },
                 {
                     "name": "F-Server",
                     "url": "https://www.mediafire.com/file/luvk7bqaq8kqs6y",
