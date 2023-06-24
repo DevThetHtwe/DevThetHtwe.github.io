@@ -2,6 +2,37 @@
     "data": [
         {
             "p": false,
+            "title": "Immoral Tales",
+            "img": {
+                "potrait": true,
+                "url": "https://www.themoviedb.org/t/p/original/qCNawir3KI2rnr6f8BAXxA6rWOF.jpg"
+            },
+            "desc": "ပြင်သစ်သူ အချောလေးတွေ ဘယ်လောက်လက်ဆက်ပြီး\r\nကျော့ရှင်းနေတယ်ဆိုတာ ဒီဇာတ်ကားလေးကသက်သေပါပဲ\r\nဇာတ်ကားဆိုပေမဲ့ လူပြောများတဲ့ တဏှာလောဘသားတွေအကြောင်းကို\r\nသုံးပိုင်းခွဲပြီး စီစဉ်ထားတာဖြစ်ပါတယ်တပိုင်းချင်းစီမှာ တယောက်ချင်းစီရဲ့ အလှပတွေ\r\nသေချာငွေကုန်ကြေးကျခံရိုက်ကူးထားတာဖြစ်ပြီး\r\nဖေါ်ချွတ်ခန်းတွေအရမ်းများပြီး ကြည့်လို့ကောင်းတဲ့\r\nဇာတ်ကားတစ်ကားဖြစ်လို့DS Fans တွေ\r\nလက်ထဲထည့်ပေးလိုက်ပါတယ်",
+            "year": "1973",
+            "rating": "5.6",
+            "duration": "2h 5m",
+            "ongoing": false,
+            "srcs": [
+                {
+                    "name": "F-Server",
+                    "url": "https://www.mediafire.com/file/665s202sgijjveh",
+                    "size": "2.33 GB",
+                    "quality": "HD",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                }
+            ],
+            "genre": [
+                "US",
+                "Franch",
+                "CM",
+                "MMSub"
+            ]
+        },
+        {
+            "p": false,
             "title": "PRED-415",
             "img": {
                 "potrait": false,
