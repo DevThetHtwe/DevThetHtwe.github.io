@@ -1,2 +1,2 @@
-The current date is: Sun 06/25/2023 
+The current date is: Mon 06/26/2023 
 Enter the new date: (mm-dd-yy) 
