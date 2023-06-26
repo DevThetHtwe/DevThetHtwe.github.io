@@ -2,6 +2,114 @@
     "data": [
         {
             "p": false,
+            "title": "The Fourth Mother",
+            "img": {
+                "potrait": true,
+                "url": "https://i.imgur.com/LWM1BKM.jpg"
+            },
+            "desc": "အွန်းမီဟာ ရည်းစားဖြစ်သူ ယောင်းဂျယ်ရဲ့အိမ်ကို အလည်လိုက်သွားတဲ့အခါ ယောင်းဂျယ်ရဲ့ဦးလေးဖြစ်သူကို သဘောကျမိသွားပါတယ်ဦးလေးဖြစ်သူနဲ့တွေ့ခွင့်ရဖို့ အွန်းမီဟာ ယောင်းဂျယ်တို့ တူအရီးနှစ်ယောက်ကိုအိမ်ကို ဖိတ်လိုက်ပါတယ် ..ဒါပေမယ့် ဦးလေးဖြစ်သူ ပါမလာဘဲ ယောင်းဂျယ်တစ်ယောက်တည်း လာခဲ့တဲ့အခါ အွန်းမီအမေကို တွေ့ပြီး\r\nထူးခြားတဲ့ခံစားချက်မျိုးကို ခံစားမိသွားပါတယ်\r\nသားအမိနှစ်ယောက်နဲ့ တူအရီးနှစ်ယောက်တို့ရဲ့ လေးပွင့်ဆိုင်ဇာတ်လမ်းလေးကဘယ်လိုဖြစ်သွားမလဲဆိုတာ ကြည့်ရှုလိုက်ကြပါဦး",
+            "year": "2020",
+            "rating": "",
+            "duration": "1h 17m",
+            "ongoing": false,
+            "srcs": [
+                {
+                    "name": "Dir-A",
+                    "url": "https://archive.org/download/zkar-the-fourth-mother-hd/%5BZkar%5D%20The%20Fourth%20Mother-HD.mp4",
+                    "size": "504 MB",
+                    "quality": "HD",
+                    "direct": true,
+                    "dl": false,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "F-Server",
+                    "url": "https://www.mediafire.com/file/cvybr6jgrj3m2ix/[Zkar]+The+Fourth+Mother-HD.mp4/file",
+                    "size": "504 MB",
+                    "quality": "HD",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "F-Server",
+                    "url": "https://www.mediafire.com/file/8gjgmsusbymkuro",
+                    "size": "1.36 GB",
+                    "quality": "FHD",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                }
+            ],
+            "genre": [
+                "Korea",
+                "MMSub"
+            ]
+        },
+        {
+            "p": false,
+            "title": "Stalkers",
+            "img": {
+                "potrait": true,
+                "url": "https://m.media-amazon.com/images/M/MV5BOWIyNTQ0YTAtMzdlYy00Y2Q3LTg4YWYtNTM0YWJlYmUzMGU0XkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_FMjpg_UX1000_.jpg"
+            },
+            "desc": "Sexy Comedy Thriller အမျိုးအစားဖြစ်ပြီး Vivamax ရဲ့အစဉ်အလာမပျက်ရင်သိမ့်တုန်ပြကွက်တွေ၊ မင်းသမီးအချောအလှလေးတွေနဲ့ ရှုစားကြရမှာပါ။",
+            "year": "2023",
+            "rating": "6.9",
+            "duration": "4 Eps",
+            "ongoing": false,
+            "srcs": [
+                {
+                    "name": "F-Server [EP-1]",
+                    "url": "https://www.mediafire.com/file/hev4hh2661u2r3j",
+                    "size": "685 MB",
+                    "quality": "HD",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "F-Server [EP-2]",
+                    "url": "https://www.mediafire.com/file/om98ptxxw8r2ohl",
+                    "size": "599 MB",
+                    "quality": "HD",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "F-Server [EP-3]",
+                    "url": "https://www.mediafire.com/file/kpmf22yex6bn9lv",
+                    "size": "524 MB",
+                    "quality": "HD",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "F-Server [EP-4]",
+                    "url": "https://www.mediafire.com/file/xtwc6aerr9tldzt",
+                    "size": "515 MB",
+                    "quality": "HD",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                }
+            ],
+            "genre": [
+                "Philippines",
+                "MMSub"
+            ]
+        },
+        {
+            "p": false,
             "title": "EBOD-982",
             "img": {
                 "potrait": false,
