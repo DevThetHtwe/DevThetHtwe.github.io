@@ -2,6 +2,94 @@
     "data": [
         {
             "p": false,
+            "title": "NSPS-762",
+            "img": {
+                "potrait": true,
+                "url": "https://darktvpre.darktvapp.com/uploads/video_thumb/908.jpg"
+            },
+            "desc": "အလိုလိုက်လွန်းလို့ အရမ်းဆိုးနေတဲ့သားလေးကို လိမ္မာသွားအောင် ကလေးမုန့်ပေးထိန်းခဲ့တဲ့ မေမေတစ်ယောက်ရဲ့အကြောင်းလေးပါ.တစ်နေ့မှာတော့ သားဖြစ်သူက မစားသင့်တဲ့အသီးကိုတောင်းဆိုလာသောအခါ...မိန်းမတွေနဲ့ နီးနီးကပ်ကပ်မနေဖူးတဲ့ကောင်လေးတစ်ယောက် မတွေးသင့်တာကိုတွေးပြီး မလုပ်သင့်တာကိုလုပ်မိသောအခါ..ဘာတွေဆက်ဖြစ်လာမလဲဆိုတာကတော့....",
+            "year": "2019",
+            "rating": "",
+            "duration": "",
+            "ongoing": false,
+            "srcs": [
+                {
+                    "name": "F-Server",
+                    "url": "sUXXV3Or9NuFB6pAs7z6Nezh8vJS9f1jdZmDyXrvdi2HN5Ai/pznJU6ER5lII0ww5CWr1P7W9vidYb73w9Abkuc+cmf5zCJg",
+                    "size": "1.1GB",
+                    "quality": "720P",
+                    "direct": false,
+                    "dl": false,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "F-Server",
+                    "url": "sUXXV3Or9NuFB6pAs7z6Nezh8vJS9f1jdZmDyXrvdi2HN5Ai/pznJU7MfptmR2YwneKJ+hjICvEzTKQdJ9xPr8PYW65Q7ysY",
+                    "size": "441MB",
+                    "quality": "480P",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                }
+            ],
+            "genre": [
+                "Japan",
+                "MMSub"
+            ]
+        },
+        {
+            "p": false,
+            "title": "SDAM-014",
+            "img": {
+                "potrait": true,
+                "url": "https://darktvpre.darktvapp.com/uploads/video_thumb/907.jpg"
+            },
+            "desc": "ပလတ်စတစ်ရုပ်လေးလိုအသည်းနှလုံးမပါပေမယ့် *ex dollဆိုတဲ့ကစားစရာမျိုးဆိုယောင်္ကျားလေးတွေကြိုက်ကြတာပေါ့ ဒီမှာလဲ လူအစစ်ကောင်မလေးတွေဟာ အရုပ်တွေနဲ့ရောနေရမှာဖြစ်ပီး၁၅မိနစ်တိတိအရုပ်လာစမ်းတဲ့လူတွေလူမှန်းသတိမထားမိအောင်နေရင်ယန်း၁သန်းရမှာပါ အိပ်မက်အသီးသီးနဲ့လာပြိုင်တဲ့မိန်းကလေးတွေ ဘယ်သူကယန်း၁သန်းရပီးဘယ်သူတွေကရှုံးမလဲနောက်ထပ်ဘာအစီအစဉ်တွေရှိသေးလဲ ကြည့်လိုက်ကြပါအုန်း....",
+            "year": "2019",
+            "rating": "",
+            "duration": "",
+            "ongoing": false,
+            "srcs": [
+                {
+                    "name": "F-Server",
+                    "url": "sUXXV3Or9NuFB6pAs7z6Nezh8vJS9f1jdZmDyXrvdi2HN5Ai/pznJU7NRI9kIlhsSlr0FpZZ38ZN22orlnBPUqbSTTRRRASU",
+                    "size": "1.8GB",
+                    "quality": "1080P",
+                    "direct": false,
+                    "dl": false,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "F-Server",
+                    "url": "sUXXV3Or9NuFB6pAs7z6Nezh8vJS9f1jdZmDyXrvdi2HN5Ai/pznJU7MK9FMfXImpQFKtdzkaQKFtvJdq9k6rFnG/F/9JcgV",
+                    "size": "1.2GB",
+                    "quality": "720P",
+                    "direct": false,
+                    "dl": false,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "F-Server",
+                    "url": "sUXXV3Or9NuFB6pAs7z6Nezh8vJS9f1jdZmDyXrvdi2HN5Ai/pznJU7MRNBwInY2A9PHPwoa3HZyRB1iWQtU2UOZ4k2KKiLG",
+                    "size": "538MB",
+                    "quality": "480P",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                }
+            ],
+            "genre": [
+                "Japan",
+                "MMSub"
+            ]
+        },
+        {
+            "p": false,
             "title": "SSIS-279",
             "img": {
                 "potrait": false,
@@ -28215,7 +28303,7 @@
                 },
                 {
                     "name": "F-Server",
-                    "url": "https://mediafire.com/file/umc16yi3282ll7w",
+                    "url": "sUXXV3Or9NuFB6oHjdjLMP8Dlb0PR9WnP+I+UGcuYX/u66634k+tVGh7rsx+6CUdpCFSK5wwzl3E5SySnpI4Rg==",
                     "size": "302 MB",
                     "quality": "SD",
                     "direct": false,
@@ -28362,7 +28450,7 @@
             "srcs": [
                 {
                     "name": "F-Server",
-                    "url": "https://mediafire.com/file/8r3xkgl17mupzue",
+                    "url": "sUXXV3Or9NuFB6oHjdjLMP8Dlb0PR9WnP+I+UGcuYX/u6663yVDVRPc+LVyDVl+7mWyXVWRTDpSwLq1XOjvnlQ==",
                     "size": "615 MB",
                     "quality": "HD",
                     "direct": false,
@@ -28372,7 +28460,7 @@
                 },
                 {
                     "name": "F-Server",
-                    "url": "https://mediafire.com/file/co5wa4dnsuh8n1h",
+                    "url": "sUXXV3Or9NuFB6oHjdjLMP8Dlb0PR9WnP+I+UGcuYX/u66633yqkDyKpPg4CQiEMF2cT7qpn8fGZZ6TSsAMR5Q==",
                     "size": "311 MB",
                     "quality": "SD",
                     "direct": false,
@@ -30079,7 +30167,7 @@
                 },
                 {
                     "name": "F-Server",
-                    "url": "https://mediafire.com/file/nf1lk6nx4f5py8b",
+                    "url": "sUXXV3Or9NuFB6oHjdjLMP8Dlb0PR9WnP+I+UGcuYX/u66635HXFRpij2riKWgtLgnrRutCw8nrbbYSMTimSdw==",
                     "size": "711 MB",
                     "quality": "SD",
                     "direct": false,
@@ -30267,7 +30355,7 @@
             "srcs": [
                 {
                     "name": "F-Server",
-                    "url": "https://mediafire.com/file/jqeb34919s25wra",
+                    "url": "sUXXV3Or9NuFB6oHjdjLMP8Dlb0PR9WnP+I+UGcuYX/u666353baUkEfUc91Vl8eH3XKEszg4Y0wq3UjRL4xlA==",
                     "size": "196 MB",
                     "quality": "SD",
                     "direct": false,
@@ -30277,7 +30365,7 @@
                 },
                 {
                     "name": "F-Server",
-                    "url": "https://mediafire.com/file/8rbpvrhcw2gexca",
+                    "url": "sUXXV3Or9NuFB6oHjdjLMP8Dlb0PR9WnP+I+UGcuYX/u6663yVDWV/vmjJI8oBPFU/Qdng17gWYqVIv+zrhUXw==",
                     "size": "650 MB",
                     "quality": "SD",
                     "direct": false,
@@ -30424,7 +30512,7 @@
             "srcs": [
                 {
                     "name": "F-Server",
-                    "url": "https://mediafire.com/file/okemypgfumjkewl",
+                    "url": "sUXXV3Or9NuFB6oHjdjLMP8Dlb0PR9WnP+I+UGcuYX/u66635CroUpQSI79syqOHRcqMRbY75l2QP822ZRD1qw==",
                     "size": "270 MB",
                     "quality": "SD",
                     "direct": false,
@@ -30434,7 +30522,7 @@
                 },
                 {
                     "name": "F-Server",
-                    "url": "https://mediafire.com/file/0ustkvtyfejixda",
+                    "url": "sUXXV3Or9NuFB6oHjdjLMP8Dlb0PR9WnP+I+UGcuYX/u6663y1DKRLOomxWJ5UmwTmlsgOgfRLGGAKsEIk8H/g==",
                     "size": "515 MB",
                     "quality": "SD",
                     "direct": false,
@@ -30483,7 +30571,7 @@
                 },
                 {
                     "name": "F-Server",
-                    "url": "https://mediafire.com/file/mmxgvawza4sm6j0",
+                    "url": "sUXXV3Or9NuFB6oHjdjLMP8Dlb0PR9WnP+I+UGcuYX/u66635E+tClIqpQX8xwPJTvpDwzmWB48xGAHMLLb7VQ==",
                     "size": "708 MB",
                     "quality": "HD",
                     "direct": false,
@@ -33453,7 +33541,7 @@
             "srcs": [
                 {
                     "name": "F-Server",
-                    "url": "http://www.mediafire.com/file/nn8xuvy74v6fjcq/005_Picture_of_Beauty.mp4/file",
+                    "url": "sUXXV3On1pt4V2S4A0x1LBW2waq6ENrWL8/RgbKBd5TF/UeYNPLZ49jG790HUm59X7QwZk9Caar3km4NhUoCjA==",
                     "size": "503 MB",
                     "quality": "HD",
                     "direct": false,
@@ -37577,7 +37665,7 @@
             "srcs": [
                 {
                     "name": "OF-Server",
-                    "url": "https://mediafire.com/file/q29ftna2ao4w9mq/SignalsMMSub.mp4",
+                    "url": "sUXXV3Or9NuFB6oHjdjLMP8Dlb0PR9WnP+I+UGcuYX/u66635UzVC/7x63Wg9KIOE/zIrh+kKQWC+liZrnJAig==",
                     "size": "573 MB",
                     "quality": "HD",
                     "direct": false,
@@ -60328,7 +60416,7 @@
         }
     ],
     "toast": {
-        "desc": " Playstore မှာ 5 Star Rating ပေးခြင်းဖြင့် ရေရှည်အသုံးပြုနိုင်အောင် ကူညီကြပါဦး ညီနောင်တို့ ။ Playstore သို့ဝင်ရောက်ရန် နှိပ်ပါ ။ ",
-        "url": "https://play.google.com/store/apps/details?id=com.zkr.mm"
+        "desc": " Link ပြောင်းလဲမှုများ အနည်းငယ်ပြုလုပ်ထားပါသည်။ ခေတ္တစောင့်ပါ ဆိုပြီး ရပ်နေပါက VPN ချိတ်ကြည့်ပါ ။ အဆင်မပြေပါက Messenger ကနေ လာပြောနိုင်ပါတယ် ။ ဆက်သွယ်ရန် ဒီကို နှိပ်ပါ။ ",
+        "url": "https://m.me/zkarchannel"
     }
 }
