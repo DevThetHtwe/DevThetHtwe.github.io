@@ -2,6 +2,84 @@
     "data": [
         {
             "p": false,
+            "title": "STAR-995",
+            "img": {
+                "potrait": true,
+                "url": "https://darktvpre.darktvapp.com/uploads/video_thumb/909.jpg"
+            },
+            "desc": "လီလီဆိုတဲ့လုပ်ငန်းရှင်မမကြီးမှာသူ့ကိုအရမ်းစွဲလန်းနေတဲ့ယိုရီဆိုတဲ့အတွင်းရေးမှူးရှိတာပေါ့..တအိမ်ထဲလဲတူတူနေပီးနှစ်ယောက်ကGLအတွဲမျိုးပေါ့ .လီလီဘာခိုင်းခိုင်းလုပ်မယ့်ယိုရီဟာ ရင်းနှီးမြုပ်နှံသူယာမဒါကိုရန်ပုံငွေထည့်တဲ့အတွက် ယိုရီကိုထိုးကျွေးလိုက်ပါတယ် ယောင်္ကျားတယောက်နဲ့မနေဖူးတဲ့ယိုရီတယောက် ဘယ်လိုပြောင်းလဲလာမလဲရှုစားကြပါအုန်း.... ",
+            "year": "2023",
+            "rating": "",
+            "duration": "",
+            "ongoing": false,
+            "srcs": [
+                {
+                    "name": "F-Server",
+                    "url": "sUXXV3Or9NuFB6pAs7z6Nezh8vJS9f1jdZmDyXrvdi2HN5Ai/pznJU6ERNFNI1A3jKxCDBuqLtxvMjtARVzY6zaO0bvuUHhg",
+                    "size": "1.2GB",
+                    "quality": "720P",
+                    "direct": false,
+                    "dl": false,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "F-Server",
+                    "url": "sUXXV3Or9NuFB6pAs7z6Nezh8vJS9f1jdZmDyXrvdi2HN5Ai/pznJU6Efo9zR3Vu4PRbnEbLCGDosWdDscHSiPtqI47SlLbu",
+                    "size": "578MB",
+                    "quality": "480P",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                }
+            ],
+            "genre": [
+                "Japan",
+                "MMSub"
+            ]
+        },
+        {
+            "p": false,
+            "title": "Tayuan",
+            "img": {
+                "potrait": true,
+                "url": "https://m.media-amazon.com/images/M/MV5BOTljOTZmM2ItZTZlNi00N2E5LTgzYjctYTBhZjU5MjVkNmM5XkEyXkFqcGdeQXVyNDQ4NjgyNzg@._V1_.jpg"
+            },
+            "desc": "18 နှစ်အထက်အခန်းတွေ ခပ်များများနဲ့ အချစ်ဟာသဇာတ်ကားကောင်းလေးတစ်ကားဖြစ်ပါတယ်။ ဇာတ်လမ်းလေးကြည့်ကောင်းသလို မင်းသမီးလေးကလည်း အထူးတလည် မိတ်ဆက်ပေးစရာမလိုတဲ့အတွက် အားလုံး အကြိုက်တွေ့ကြမှာပါ။",
+            "year": "2023",
+            "rating": "7.7",
+            "duration": "1h 42m",
+            "ongoing": false,
+            "srcs": [
+                {
+                    "name": "F-Server",
+                    "url": "sUXXV3Or9NuFB6pAs7z6Nezh8vJS9f1jdZmDyXrvdi2HN5Ai/pznJU7MX9NkfTIm7xJ9YLdpJk1AFc5xUpb9Vd+JEFWEnPMH",
+                    "size": "822 MB",
+                    "quality": "HD",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "Dir-A",
+                    "url": "https://archive.org/download/tayuanzkar/%5BZkar%5D%20Tayuan-720.mp4",
+                    "size": "822 MB",
+                    "quality": "HD",
+                    "direct": true,
+                    "dl": false,
+                    "wb": false,
+                    "srt": ""
+                }
+            ],
+            "genre": [
+                "Philippines",
+                "MMSub"
+            ]
+        },
+        {
+            "p": false,
             "title": "SSIS-512",
             "img": {
                 "potrait": false,
