@@ -42,6 +42,16 @@
                     "dl": true,
                     "wb": false,
                     "srt": ""
+                },
+                {
+                    "name": "Download Only",
+                    "url": "sUXXV3Or9NuFB6oZtsjfNaViA5vtfTmOXsK6GiV05X0+55IRGD4sKDBq3x4O3CsXzOCo6bOxm7m2bRYEwSCMdg==",
+                    "size": "Auto",
+                    "quality": "Auto",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
                 }
             ],
             "genre": [
