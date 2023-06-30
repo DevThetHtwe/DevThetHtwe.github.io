@@ -63,11 +63,11 @@
             "ongoing": false,
             "srcs": [
                 {
-                    "name": "MMS",
-                    "url": "https://msub.com/jux-446-mmsub-japan-censored/",
-                    "size": "Auto",
-                    "quality": "Auto",
-                    "direct": false,
+                    "name": "Dir-A",
+                    "url": "sUXXV3Or9NuFB6obtOLXLxTCLv/LAE8wHfERtXwKACVOahEW2Dbae58lcMYlBOsfFqXC7IGYe3RGmz7fJKQM0edAOSIqmW8H24BtEzCLVAk=",
+                    "size": "964 MB",
+                    "quality": "HD",
+                    "direct": true,
                     "dl": false,
                     "wb": false,
                     "srt": ""
@@ -89,6 +89,16 @@
                     "quality": "SD",
                     "direct": false,
                     "dl": true,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "MMS",
+                    "url": "https://msxb.com/jux-446-mmsub-japan-censored/",
+                    "size": "Auto",
+                    "quality": "Auto",
+                    "direct": false,
+                    "dl": false,
                     "wb": false,
                     "srt": ""
                 }
@@ -376,16 +386,6 @@
             "ongoing": false,
             "srcs": [
                 {
-                    "name": "MMS",
-                    "url": "https://msub.com/?movies=a-man-who-loved-a-prostitute-mmsub",
-                    "size": "Auto",
-                    "quality": "Auto",
-                    "direct": false,
-                    "dl": false,
-                    "wb": false,
-                    "srt": ""
-                },
-                {
                     "name": "F-Server",
                     "url": "sUXXV3Or9NuFB6pAs7z6Nezh8vJS9f1jdZmDyXrvdi2HN5Ai/pznJU7MQJpmSGUljWpHeFGPqFOPem+KJmOXnIJ5dKIrKFZA",
                     "size": "600 MB",
@@ -406,11 +406,21 @@
                     "srt": ""
                 },
                 {
-                    "name": "F-Server",
+                    "name": "Dir-A",
                     "url": "https://archive.org/download/zkar-hi-h/%5BZkar%5DAmWlaP.mp4",
                     "size": "600 MB",
                     "quality": "720p",
                     "direct": true,
+                    "dl": false,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "MMS",
+                    "url": "https://msub.com/?movies=a-man-who-loved-a-prostitute-mmsub",
+                    "size": "Auto",
+                    "quality": "Auto",
+                    "direct": false,
                     "dl": false,
                     "wb": false,
                     "srt": ""
@@ -61765,7 +61775,7 @@
         }
     ],
     "toast": {
-        "desc": " Link ပြောင်းလဲမှုများ အနည်းငယ်ပြုလုပ်ထားပါသည်။ ခေတ္တစောင့်ပါ ဆိုပြီး ရပ်နေပါက VPN ချိတ်ကြည့်ပါ ။ အဆင်မပြေပါက Messenger ကနေ လာပြောနိုင်ပါတယ် ။ ဆက်သွယ်ရန် ဒီကို နှိပ်ပါ။ ",
+        "desc": " ခေတ္တစောင့်ပါ ဆိုပြီး ရပ်နေပါက VPN ချိတ်ကြည့်ပါ ။ လိုင်းကောင်းမှသာ မထစ်ပဲ တိုက်ရိုက်ကြည့်လို့ အဆင်ပြေပါမယ် ။ စိတ်မရှည်သူများက Download ဆွဲပြီးမှသာကြည့်ပါ ။ အဆင်မပြေပါက Messenger ကနေ လာပြောနိုင်ပါတယ် ။ ဆက်သွယ်ရန် ဒီကို နှိပ်ပါ။ ",
         "url": "https://m.me/zkarchannel"
     }
 }
