@@ -2,6 +2,55 @@
     "data": [
         {
             "p": false,
+            "title": "colorless",
+            "img": {
+                "potrait": true,
+                "url": "https://m.media-amazon.com/images/M/MV5BMGU2ZmFmNGMtODU2YS00YTFiLTk0OWQtZmRjYjE1ZTc5OTJjXkEyXkFqcGdeQXVyMTIyNjcwNTg@._V1_FMjpg_UX1000_.jpg"
+            },
+            "desc": "ဒီတစ်​ခေါက် မိတ်ဆက်​ပေးမယ့်ဇာတ်ကား​​လေးက​တော့ 2019 မှာထွက်ရှိထားတဲ့ ဂျပန် အချစ်ရိုမန့်ဒရမ်မာ ဇာတ်လမ်းလေး  Colorless ​​ပဲဖြစ်ပါတယ်။\r\nအချစ်ရိုမန့်ဆိုပေမယ့် ဇာတ်ဝင်ခန်းတွေကိုပေါ်ပေါ်ထင်ထင်ရိုက်ကူးထားလို့ မိသားစုနဲ့တော့ကြည့်လို့မရပါဘူး…",
+            "year": "2019",
+            "rating": "6.4",
+            "duration": "2h 1m",
+            "ongoing": false,
+            "srcs": [
+                {
+                    "name": "F-Server",
+                    "url": "sUXXV3Or9NuFB6pAs7z6Nezh8vJS9f1jdZmDyXrvdi2HN5Ai/pznJU7MW9dMWEhs52JcpmM6dw+U9gQRncZn+s0bM+XHtdrs",
+                    "size": "684 MB",
+                    "quality": "HD",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "F-Server",
+                    "url": "sUXXV3Or9NuFB6pAs7z6Nezh8vJS9f1jdZmDyXrvdi2HN5Ai/pznJU7MYtJNV2YrZO+mjTCgiacvRwDEIWqkxgFnef/fZ73/",
+                    "size": "1.50 GB",
+                    "quality": "FHD",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "Dir-A",
+                    "url": "sUXXV3Or9NuFB6obtOLXLxTCLv/LAE8wHfERtXwKACVOahEW2Dbae58lcMYwYMEHpdindtFcCbG6kmN4d8ab1cOo85wgewalEcgUIGT57lBYEvS6dQprUg==",
+                    "size": "684 MB",
+                    "quality": "HD",
+                    "direct": true,
+                    "dl": false,
+                    "wb": false,
+                    "srt": ""
+                }
+            ],
+            "genre": [
+                "Japan",
+                "MMSub"
+            ]
+        },
+        {
+            "p": false,
             "title": "IPX-738",
             "img": {
                 "potrait": false,
