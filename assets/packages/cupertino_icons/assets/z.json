@@ -2,6 +2,45 @@
     "data": [
         {
             "p": false,
+            "title": "Knock Knock",
+            "img": {
+                "potrait": true,
+                "url": "https://m.media-amazon.com/images/M/MV5BYTQ3MzhlZjQtNWMxOS00NTEzLTgzOWYtNTI3MjhmZGU0ZDM2XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg"
+            },
+            "desc": "Matrix မင်းသားကြီး Keanu Reeves အဓိကပါဝင်သရုပ်ဆောင်ထားတဲ့ Mystery, Thriller အမျိုးအစား ဇာတ်ကားဖြစ်ပါတယ်။\r\nဇာတ်လမ်းအကျဉ်းကိုပြောလိုက်ရင် ပေါ့သွားမှာစိုးတဲ့အတွက် မဖော်ပြတော့ပါ။\r\nKnock  ဆိုတာ တံခါးခေါက်သံ လို့ဆိုရမှာဖြစ်ပြီး “တချို့တံခါးတွေက လုံးဝမဖွင့်သင့်ဘူး”\r\n“ Some doors should never be opened ” လို့ ခေါင်းတည်ထားပါတယ်။\r\nအိမ်ထောင်ရှင်ယောင်္ကျားတွေကြည့်သင့်တဲ့ ဇာတ်ကားဖြစ်ပြီး တချို့အခန်းတွေက Nudity အပြောအဆိုပြကွက်တွေပါနေလို့ မိသားစုနဲ့တော့မကြည့်သင့်ပါ။",
+            "year": "2015",
+            "rating": "4.9",
+            "duration": "1h 36m",
+            "ongoing": false,
+            "srcs": [
+                {
+                    "name": "F-Server",
+                    "url": "sUXXV3Or9NuFB6pAs7z6Nezh8vJS9f1jdZmDyXrvdi2HN5Ai/pznJU7MKtZkInZpKlmEu2MCWCjwzH20FmTsFlbXPV/tDtD4",
+                    "size": "853 MB",
+                    "quality": "HD",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "Dir-A",
+                    "url": "sUXXV3Or9NuFB6obtOLXLxTCLv/LAE8wHfERtXwKACVOahEW2Dbae58lcMYdBboGGHeZ0D9cS0Zhg+sqhW3eNdcnxhs8pUAF",
+                    "size": "853 MB",
+                    "quality": "HD",
+                    "direct": true,
+                    "dl": false,
+                    "wb": false,
+                    "srt": ""
+                }
+            ],
+            "genre": [
+                "US",
+                "MMSub"
+            ]
+        },
+        {
+            "p": false,
             "title": "The World of Adultery",
             "img": {
                 "potrait": true,
@@ -62,6 +101,16 @@
             "duration": "",
             "ongoing": false,
             "srcs": [
+                {
+                    "name": "Dir-A",
+                    "url": "sUXXV3Or9NuFB6obtOLXLxTCLv/LAE8wHfERtXwKACVOahEW2Dbae58lcMYeYN0Y/v+uomQmg3vc/GhUWdmPJTUR0A5n/nXGxRZCZrOn9Xs=",
+                    "size": "1.2GB",
+                    "quality": "720P",
+                    "direct": true,
+                    "dl": false,
+                    "wb": false,
+                    "srt": ""
+                },
                 {
                     "name": "F-Server",
                     "url": "sUXXV3Or9NuFB6pAs7z6Nezh8vJS9f1jdZmDyXrvdi2HN5Ai/pznJU7MJpRnWENqEsHTu55tqK7Je42lULi2ZNVhSSBpx49r",
