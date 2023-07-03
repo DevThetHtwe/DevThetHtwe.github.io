@@ -35,8 +35,8 @@
                 },
                 {
                     "name": "Dir-A",
-                    "url": "sUXXV3Or9NuFB6obtOLXLxTCLv/LAE8wHfERtXwKACVOahEW2Dbae59AZNMyY+gNTXRmkPvpfAP4LWIbjs96WpcM9RTpBBaK",
-                    "size": "1.17 GB",
+                    "url": "sUXXV3Or9NuFB6obtOLXLxTCLv/LAE8wHfERtXwKACVOahEW2Dbae51Tc8cyZLZCi4shUtjcJ/J9OEue13zsvA==",
+                    "size": "541 MB",
                     "quality": "HD",
                     "direct": true,
                     "dl": false,
@@ -79,6 +79,16 @@
                     "quality": "FHD",
                     "direct": false,
                     "dl": true,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "Dir-A",
+                    "url": "sUXXV3Or9NuFB6obtOLXLxTCLv/LAE8wHfERtXwKACVOahEW2Dbae59AZNMyY+gNTXRmkPvpfAP4LWIbjs96WpcM9RTpBBaK",
+                    "size": "1.70 GB",
+                    "quality": "HD",
+                    "direct": true,
+                    "dl": false,
                     "wb": false,
                     "srt": ""
                 }
