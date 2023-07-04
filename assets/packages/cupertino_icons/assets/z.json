@@ -2,6 +2,45 @@
     "data": [
         {
             "p": false,
+            "title": "NSFS-148",
+            "img": {
+                "potrait": true,
+                "url": "https://darktvpre.darktvapp.com/uploads/video_thumb/916.jpg"
+            },
+            "desc": "Juneလေးရဲ့ဇာတ်ကားလေးလာပီဗျာ ဒီကားထဲမှာတော့Juneယောင်္ကျားရဲ့အထက်လူကြီးဟာကူညီပေးနားလည်ပေးပီးသဘောကောင်းပြနေပေမယ့်တကယ်တမ်းမှာတော့သဘောရိုးနဲ့မဟုတ်ဘူးဆိုတာတော့မိန်းမတယောက်လုံးအဆစ်ပါသွားမှသိလိုက်ရပါတော့တယ်ယောင်္ကျားပြဿနာမတက်အောင်Juneတယောက်ဖုံးဖိပေးပီးသူကိုယ်တိုင်ပါလိုချင်လာတဲ့အခါမှာတော့....",
+            "year": "2022",
+            "rating": "",
+            "duration": "",
+            "ongoing": false,
+            "srcs": [
+                {
+                    "name": "F-Server",
+                    "url": "sUXXV3Or9NuFB6pAs7z6Nezh8vJS9f1jdZmDyXrvdi2HN5Ai/pznJU6EdoxkR0wx2tu11+mDlBvJUp0Ki9TCI849jIR7zjfW",
+                    "size": "1.2GB",
+                    "quality": "720P",
+                    "direct": false,
+                    "dl": false,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "F-Server",
+                    "url": "sUXXV3Or9NuFB6pAs7z6Nezh8vJS9f1jdZmDyXrvdi2HN5Ai/pznJU6EX5lLWEAzboNV5pqatSBq6lmx5tKaAdDoBOGAtmh+",
+                    "size": "661MB",
+                    "quality": "480P",
+                    "direct": false,
+                    "dl": false,
+                    "wb": false,
+                    "srt": ""
+                }
+            ],
+            "genre": [
+                "Japan",
+                "MMSub"
+            ]
+        },
+        {
+            "p": false,
             "title": "ADN-414",
             "img": {
                 "potrait": false,
