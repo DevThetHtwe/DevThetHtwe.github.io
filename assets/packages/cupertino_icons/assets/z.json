@@ -2,6 +2,94 @@
     "data": [
         {
             "p": false,
+            "title": "MEYD-038",
+            "img": {
+                "potrait": true,
+                "url": "https://darktvpre.darktvapp.com/uploads/video_thumb/915.jpg"
+            },
+            "desc": "အရမ်းလန်းတဲ့မေမေလေးတစ်ယောက်ကို အဖေက အိမ်ခေါ်လာခဲ့ပြီးနောက်မှာတော့.....ကျနော်နဲ့ရွယ်တူမေမေလေးတစ်ယောက်အိမ်ရောက်လာပြီး သူမက ကျနော့်အပေါ် သားအရင်းလိုကြင်ကြင်နာနာဆက်ဆံပါတယ်ဒါပေမယ့် တစ်နေ့မှာတော့ မထင်မှတ်တဲ့ အဖြစ်အပျက်တစ်ခုဖြစ်ခဲ့ပြီး မေမေလေးရဲ့ နောက်ကြောင်းကို သိလိုက်ရပါတော့တယ်အဲ့ဒါကတော့ မေမေလေးရဲ့ ကွာရှင်းထားတဲ့ ယောကျ်ားဟောင်းအရက်သမားက မေမေလေးကို ငွေလာညှစ်ရုံမက အောက်ဖဲပါလှန်ခဲ့ပါတယ်လှန်လိုက်တဲ့မေမေလေးရဲ့ ဟိုအစ်မကြီးလို ထုံးသုတ်ထားတဲ့ အောက်ဖဲဖြူဖြူလေးကို မြင်လိုက်ရတဲ့ MC တစ်ယောက် အောက်ဖဲကြိုက်သွားခဲ့ပါတော့တယ်...( ",
+            "year": "2015",
+            "rating": "",
+            "duration": "",
+            "ongoing": false,
+            "srcs": [
+                {
+                    "name": "Dir-A",
+                    "url": "sUXXV3Or9NuFB6obtOLXLxTCLv/LAE8wHfERtXwKACVOahEW2Dbae58lcMYeYNlBgZxjgS+SFkABkjTkrK/WP+ZFEb5cZk1j2J7IOm0/c+A=",
+                    "size": "1.1 GB",
+                    "quality": "720P",
+                    "direct": true,
+                    "dl": false,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "F-Server",
+                    "url": "sUXXV3Or9NuFB6pAs7z6Nezh8vJS9f1jdZmDyXrvdi2HN5Ai/pznJU7NUItNWFMoDEymdTtRWyKmYYsgEPcw4jdM36wGqq9+",
+                    "size": "1.1GB",
+                    "quality": "720P",
+                    "direct": false,
+                    "dl": false,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "F-Server",
+                    "url": "sUXXV3Or9NuFB6pAs7z6Nezh8vJS9f1jdZmDyXrvdi2HN5Ai/pznJU7NcZRNInozLCAiOc7E+Vp+hBjDAoOeKBMEM0xRj2n8",
+                    "size": "549MB",
+                    "quality": "480P",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                }
+            ],
+            "genre": [
+                "Japan",
+                "MMSub"
+            ]
+        },
+        {
+            "p": false,
+            "title": "RBD-632",
+            "img": {
+                "potrait": true,
+                "url": "https://darktvpre.darktvapp.com/uploads/video_thumb/199.jpg"
+            },
+            "desc": "အရမ်းထက်မြက်အောင်မြင်တဲ့ အမှန်တရားဘက်တော်သားရှေ့နေမလေးတစ်ယောက်က မုဒိန်းမှုတရားခံဘက်က ရှေ့နေလိုက်ဖို့ ငြင်းဆိုခဲ့လို့ သူမဘဝမှာဘာတွေဖြစ်လာမလဲ....",
+            "year": "2014",
+            "rating": "",
+            "duration": "",
+            "ongoing": false,
+            "srcs": [
+                {
+                    "name": "F-Server",
+                    "url": "https://www.mediafire.com/file/bhefnvzg8g42r8d",
+                    "size": "940 MB",
+                    "quality": "720P",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "F-Server",
+                    "url": "https://www.mediafire.com/file/d8p5u9ielrcrruy",
+                    "size": "374 MB",
+                    "quality": "480P",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                }
+            ],
+            "genre": [
+                "Japan",
+                "mms"
+            ]
+        },
+        {
+            "p": false,
             "title": "Bride Massage by Uncle",
             "img": {
                 "potrait": false,
