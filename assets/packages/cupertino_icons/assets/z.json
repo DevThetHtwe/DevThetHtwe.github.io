@@ -2,6 +2,55 @@
     "data": [
         {
             "p": false,
+            "title": "SAME-009",
+            "img": {
+                "potrait": false,
+                "url": "https://pics.dmm.co.jp/digital/video/same00009/same00009pl.jpg"
+            },
+            "desc": "ယောကျာ်းကမဘုပေးလိုရေပူစမ်းသွားရင်ရုံးကဦးလေးတွေနဲ့အဖွဲလိုက်အဘုခံတဲ့ကောင်မလေး",
+            "year": "2022",
+            "rating": "",
+            "duration": "2h",
+            "ongoing": false,
+            "srcs": [
+                {
+                    "name": "F-Server",
+                    "url": "sUXXV3Or9NuFB6pAs7z6Nezh8vJS9f1jdZmDyXrvdi2HN5Ai/pznJU7MdpZKIkcoTgVrDb4UGC2BsqKrWhJ7196wkWvy+OJu",
+                    "size": "685 MB",
+                    "quality": "SD",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "F-Server",
+                    "url": "sUXXV3Or9NuFB6pAs7z6Nezh8vJS9f1jdZmDyXrvdi2HN5Ai/pznJU7NU5lKVFRuCNumBnk45Q2XbZPhdvV1XBrS/Nbm35wo",
+                    "size": "1.39 GB",
+                    "quality": "HD",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "Dir-A",
+                    "url": "sUXXV3Or9NuFB6obtOLXLxTCLv/LAE8wHfERtXwKACVOahEW2DbbOh50eqtTd8je+0vADgsTpQC+C8k4yMMYsw5pzu2RoOwj40C6d5Tcv24CWJsSxMXO9apsYlvlpx/td3bnZDRNhZ39rYJICZCZrA==",
+                    "size": "1.39 GB",
+                    "quality": "HD",
+                    "direct": true,
+                    "dl": false,
+                    "wb": false,
+                    "srt": ""
+                }
+            ],
+            "genre": [
+                "Japan",
+                "MMSub"
+            ]
+        },
+        {
+            "p": false,
             "title": "ATID-470",
             "img": {
                 "potrait": false,
