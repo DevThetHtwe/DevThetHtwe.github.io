@@ -2,6 +2,55 @@
     "data": [
         {
             "p": false,
+            "title": "MIMK-082",
+            "img": {
+                "potrait": true,
+                "url": "https://darktvpre.darktvapp.com/uploads/video_thumb/920.jpg"
+            },
+            "desc": "အမေနဲ့သားအင်းစက်ကားလေးဖြစ်ပီး ဒီဇာတ်လမ်းမှာတော့ သားကအိမ်သီးသန့်ခွဲနေပါတယ် အမေကသန့်ရှင်းရေးလာလာလုပ်ပေးတိုင်း အမေကိုအစပိုင်းလက်နဲ့ဘဲခိုင်းရင်းကနေ နောက်ပိုင်းတဖြည်းဖြည်းအဆင့်တက်ပီး မအေကိုစားဖိုထိကြံတဲ့ကားလေးပါ မင်းသမီးကအိုဗာဆိုက်မဟုတ်ဘဲရုပ်ကဆွဲဆောင်မှုရှိပြီးသူ့ဟာသူကြည့်ကောင်းပါတယ် မင်းသမီးနဲ့တင်ကြည့်ရတန်တဲ့ကားလေးပါ...( ",
+            "year": "2021",
+            "rating": "",
+            "duration": "",
+            "ongoing": false,
+            "srcs": [
+                {
+                    "name": "Dir-A",
+                    "url": "sUXXV3Or9NuFB6obtOLXLxTCLv/LAE8wHfERtXwKACVOahEW2DbbOhx0XKtTd8je5heUcTMtH1tGuaT0UUXXsKVMZYCMqenc",
+                    "size": "1GB",
+                    "quality": "720P",
+                    "direct": true,
+                    "dl": false,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "F-Server",
+                    "url": "sUXXV3Or9NuFB6pAs7z6Nezh8vJS9f1jdZmDyXrvdi2HN5Ai/pznJU7MW9NnakAo24ElxDpRHq/J52Wq+lpy0b1FkAbeXLKw",
+                    "size": "1GB",
+                    "quality": "720P",
+                    "direct": false,
+                    "dl": false,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "F-Server",
+                    "url": "sUXXV3Or9NuFB6pAs7z6Nezh8vJS9f1jdZmDyXrvdi2HN5Ai/pznJU7NWJJII0gt3nyluq9HyLN379D3ri9j74UB9dGtYkEq",
+                    "size": "545MB",
+                    "quality": "480P",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                }
+            ],
+            "genre": [
+                "Japan",
+                "MMSub"
+            ]
+        },
+        {
+            "p": false,
             "title": "JUFE-476",
             "img": {
                 "potrait": false,
