@@ -2,6 +2,84 @@
     "data": [
         {
             "p": false,
+            "title": "JUL-437",
+            "img": {
+                "potrait": true,
+                "url": "https://darktvpre.darktvapp.com/uploads/video_thumb/919.jpg"
+            },
+            "desc": "ရုံးမှာအားနေမှားပီးလူကြီးအဆူခံရလို အားငယ်နေတတ်တဲ့ရုကို သန့်ရှင်းရေး၀န်ထမ်းဖြူဖြူဖွေးဖွေးရေဆေးငါးကြီးယူကိုက ဘယ်လိုတွေအားပေးကူညီသွားမလဲကြည့်လိုက်ကြပါအုန်း...",
+            "year": "2020",
+            "rating": "",
+            "duration": "",
+            "ongoing": false,
+            "srcs": [
+                {
+                    "name": "Dir-A",
+                    "url": "sUXXV3Or9NuFB6obtOLXLxTCLv/LAE8wHfERtXwKACVOahEW2DbbfVsZdn1+Wmyn/7iQPeMDVZMyUtnDYFiL/0HL1cRUZrZ2",
+                    "size": "1GB",
+                    "quality": "720P",
+                    "direct": true,
+                    "dl": false,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "F-Server",
+                    "url": "sUXXV3Or9NuFB6pAs7z6Nezh8vJS9f1jdZmDyXrvdi2HN5Ai/pznJU6EfopzIjs10gfeIt76iwrdsOZ9pCUHwJ3Jq4T9HH2v",
+                    "size": "1GB",
+                    "quality": "720P",
+                    "direct": false,
+                    "dl": false,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "F-Server",
+                    "url": "sUXXV3Or9NuFB6pAs7z6Nezh8vJS9f1jdZmDyXrvdi2HN5Ai/pznJU7NRJZMfVhq64wkpoMjCOTqAP4j8S6GMMC7TXP5BFFJ",
+                    "size": "553MB",
+                    "quality": "480P",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                }
+            ],
+            "genre": [
+                "Japan",
+                "MMSub"
+            ]
+        },
+        {
+            "p": false,
+            "title": "An Honest Living",
+            "img": {
+                "potrait": true,
+                "url": "https://darktvpre.darktvapp.com/uploads/video_thumb/918.jpg"
+            },
+            "desc": "အရမ်းချမ်းသာတဲ့ သူဌေးကြီးတစ်ယောက်မှာ ငယ်ငယ်တည်းက အရမ်းအလိုလိုက်ထားတဲ့ တစ်ဦးတည်းသောသားလေးတစ်ယောက်ရှိပါတယ် သူဟာ အိမ်မှာရှိတဲ့အိမ်ဖော်မချောချောလေးကို လိုက်စလေ့ရှိပြီး ဒါကိုမခံချင်တဲ့ အိမ်ဖော်မလေးက သူဌေးကြီးကိုသွားတိုင်ခဲ့ပါတယ် ဒီအကြောင်းကိုပြန် သိသွားတဲ့ သားဖြစ်သူက အိမ်ဖော်မလေးကို ဘယ်လိုနည်းလမ်းတွေနဲ့ အပြစ်ပေးမလဲဆိုတာကတော့...",
+            "year": "2019",
+            "rating": "",
+            "duration": "",
+            "ongoing": false,
+            "srcs": [
+                {
+                    "name": "F-Server",
+                    "url": "sUXXV3Or9NuFB6pAs7z6Nezh8vJS9f1jdZmDyXrvdi2HN5Ai/pznJU7MRItMWGptV19lSE6ixZ2cQiIIVQXcMAXBpWh8Wmgm",
+                    "size": "346MB",
+                    "quality": "720P",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                }
+            ],
+            "genre": [
+                "US",
+                "MMSub"
+            ]
+        },
+        {
+            "p": false,
             "title": "BONY-034",
             "img": {
                 "potrait": false,
