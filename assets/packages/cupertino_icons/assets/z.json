@@ -2,6 +2,35 @@
     "data": [
         {
             "p": false,
+            "title": "MDYD-727",
+            "img": {
+                "potrait": true,
+                "url": "https://darktvpre.darktvapp.com/uploads/video_thumb/922.jpg"
+            },
+            "desc": "ဟောင်းပေမယ့် ကောင်းနေဆဲဖြစ်တဲ့ ဒရာမာ အခင်းဆုံး မမ Julia ကားလေးကိုတင်ဆက်ပေးလိုက်ပါတယ်။ ဇာတ်လမ်းကတော့ အကြွေးတွေအများကြီးတင်နေတဲ့ Julia ရဲ့ယောက်ျားဟာ ကိုယ့်ကိုယ်ကို ဇီဝိန်ချုပ် လိုက်ပါတယ်။ အသုဘ နေ့မှာပဲ အကြွေးရှင်ဘဲကြီးလိုက်လာကာ ပေးမှာလား မပေးဘူးလားဆိုကာ ပွဲကြမ်းတာကိုခံလိုက်ရတဲ့အခါမှာ သူမအကြံတစ်ခုရသွားခဲ့တယ်။ အဲ့အကြံက ဘာအကြံလဲ ဘယ်လိုမျိုးသူက လှည့်ကွက်တွေဖန်တီးသွားမလဲဆိုတာကြည့်ရမှာပဲဖြစ်ပါတယ်။...( ",
+            "year": "2012",
+            "rating": "",
+            "duration": "",
+            "ongoing": false,
+            "srcs": [
+                {
+                    "name": "F-Server",
+                    "url": "sUXXV3Or9NuFB6pAs7z6Nezh8vJS9f1jdZmDyXrvdi2HN5Ai/pznJU7MeddKSEdscKkTVQ+nLlfX+2YVQShU9+8mTiDfQo/N",
+                    "size": "619MB",
+                    "quality": "480P",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                }
+            ],
+            "genre": [
+                "Japan",
+                "MMSub"
+            ]
+        },
+        {
+            "p": false,
             "title": "SNIS-441",
             "img": {
                 "potrait": false,
