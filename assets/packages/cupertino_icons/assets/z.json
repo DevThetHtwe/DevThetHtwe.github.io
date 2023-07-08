@@ -2,6 +2,113 @@
     "data": [
         {
             "p": false,
+            "title": "Layover HookUp",
+            "img": {
+                "potrait": true,
+                "url": "https://i.ibb.co/qgfxbSK/1.png"
+            },
+            "desc": "ခေတ်သစ် Sinderella လေးရဲ့ အလှအပတွေကို မိမွေးဖမွေးအတိုင်း ရှုစားရမယ့်ဇာတ်လမ်းလေး",
+            "year": "",
+            "rating": "",
+            "duration": "",
+            "ongoing": false,
+            "srcs": [
+                {
+                    "name": "F-Server",
+                    "url": "sUXXV3Or9NuFB6pAs7z6Nezh8vJS9f1jdZmDyXrvdi2HN5Ai/pznJU6EfpBMSGZpug3ZZtrnjltdoPq7cjRYCvvgaXaL3Tlq",
+                    "size": "304 MB",
+                    "quality": "HD",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                }
+            ],
+            "genre": [
+                "US",
+                "MMSub"
+            ]
+        },
+        {
+            "p": false,
+            "title": "All You for Babe",
+            "img": {
+                "potrait": true,
+                "url": "https://i.ibb.co/4FgXzJ0/2.png"
+            },
+            "desc": "ကိုမဲကြီးနဲ့ အဖြူမလေးတို့ရဲ့ ဇာတ်ကြမ်းလေး ..",
+            "year": "",
+            "rating": "",
+            "duration": "",
+            "ongoing": false,
+            "srcs": [
+                {
+                    "name": "F-Server",
+                    "url": "sUXXV3Or9NuFB6pAs7z6Nezh8vJS9f1jdZmDyXrvdi2HN5Ai/pznJU7MappKalAugfkVKB64XJDp3GEqYv6e0ZxrrHj43i/t",
+                    "size": "403 MB",
+                    "quality": "HD",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                }
+            ],
+            "genre": [
+                "US",
+                "MMSub"
+            ]
+        },
+        {
+            "p": false,
+            "title": "ADN-472",
+            "img": {
+                "potrait": true,
+                "url": "https://darktvpre.darktvapp.com/uploads/video_thumb/921.jpg"
+            },
+            "desc": "ဒီတခါမှာတော့ Iroha natsumeဇာတ်ကားလေးဖြစ်ပီး သူ့ယောင်္ကျားကိုလက်မထပ်ခင်ကကတိတခုတောင်းထားတာရှိပါတယ်. အာ့ကတော့လက်ထပ်ပီးတာနဲ့နေ့တိုင်းတူတူနေရမယ်ဆိုတဲ့ကတိပါဘဲ ဒီလိုနဲ့ယောင်္ကျားတောင်လက်လျှော့ထားရတဲ့အထန်မမတိုအိမ်ကို ယောက္ခထီးရောက်ရှိလာပီးနောက်ပိုင်းအဖေကြားမှာစိုးလိုနှစ်ပတ်လောက်ရှောင်ထားရတဲ့Irohaတယောက် အိမ်မှာခဏလာနေတဲ့ယောက္ခထီးကိုဆွဲစားပါတော့တယ်...( ",
+            "year": "2023",
+            "rating": "",
+            "duration": "",
+            "ongoing": false,
+            "srcs": [
+                {
+                    "name": "Dir-A",
+                    "url": "sUXXV3Or9NuFB6obtOLXLxTCLv/LAE8wHfERtXwKACVOahEW2Dbae7BtZ8YkTcYDG/KnbxPl357VIKnftTZFwgXvd0ygXZRVzm1jhC84Gz6EJlbJWSXXIxl0CFnvEh3gO8b1mrjfHgM=",
+                    "size": "1GB",
+                    "quality": "720P",
+                    "direct": true,
+                    "dl": false,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "F-Server",
+                    "url": "sUXXV3Or9NuFB6pAs7z6Nezh8vJS9f1jdZmDyXrvdi2HN5Ai/pznJU7MVJBzVEsoixOkUKQjPrlno1D03tqKel7hHywJFxwL",
+                    "size": "1GB",
+                    "quality": "720P",
+                    "direct": false,
+                    "dl": false,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "F-Server",
+                    "url": "sUXXV3Or9NuFB6pAs7z6Nezh8vJS9f1jdZmDyXrvdi2HN5Ai/pznJU7NWJFLektuvz5wbPZNk14C6vH+9MGfZ1yg2fvhlXOx",
+                    "size": "559MB",
+                    "quality": "480P",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                }
+            ],
+            "genre": [
+                "Japan",
+                "MMSub"
+            ]
+        },
+        {
+            "p": false,
             "title": "MIMK-082",
             "img": {
                 "potrait": true,
@@ -4518,7 +4625,7 @@
                     "size": "949 MB",
                     "quality": "HD",
                     "direct": true,
-                    "dl": false,
+                    "dl": true,
                     "wb": false,
                     "srt": ""
                 },
@@ -4528,7 +4635,7 @@
                     "size": "374 MB",
                     "quality": "SD",
                     "direct": true,
-                    "dl": false,
+                    "dl": true,
                     "wb": false,
                     "srt": ""
                 }
