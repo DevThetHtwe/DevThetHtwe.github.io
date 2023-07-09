@@ -2,6 +2,84 @@
     "data": [
         {
             "p": false,
+            "title": "PFES-018",
+            "img": {
+                "potrait": true,
+                "url": "https://darktvpre.darktvapp.com/uploads/video_thumb/924.jpg"
+            },
+            "desc": "သမီးရည်းစားနှစ်ယောက် အတူတူနေရတာအဆင်မပြေတဲ့အတွက် စိတ်ပိုင်းဆိုင်ရာဆွေးနွေးပေးတဲ့ဆေးခန်းဆီသွားပါတယ် ဒါပေမယ့်အဘိုးကြီးကသာမန်အဆင့်မဟုတ်ဘဲ စိတ်ကိုကြိုက်သလိုစေခိုင်းနိုင်ပီးအချိန်ပါရပ်နိုင်တဲ့levelတခုကိုရောက်ရှိနေတဲ့အခါမှာတော့ ရည်းစားတယောက်လုံးပါသွားပီးကောင်လေးခမျာကျန်ရစ်ဖြစ်ခဲ့ရတဲ့ဇာတ်လမ်းလေးပါ...( ",
+            "year": "2021",
+            "rating": "",
+            "duration": "",
+            "ongoing": false,
+            "srcs": [
+                {
+                    "name": "Dir-A",
+                    "url": "sUXXV3Or9NuFB6obtOLXLxTCLv/LAE8wHfERtXwKACVOahEW2Dbae58lcMYwY84MiDKbnR5WvFKrhUEbNAJl5TMZ0I/10zec",
+                    "size": "1.5GB",
+                    "quality": "720P",
+                    "direct": true,
+                    "dl": false,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "F-Server",
+                    "url": "sUXXV3Or9NuFB6pAs7z6Nezh8vJS9f1jdZmDyXrvdi2HN5Ai/pznJU7NcdBzfmFs6GcNTS0pljYAGCo3twY/dfafGulxoz++",
+                    "size": "1.5GB",
+                    "quality": "720P",
+                    "direct": false,
+                    "dl": false,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "F-Server",
+                    "url": "sUXXV3Or9NuFB6pAs7z6Nezh8vJS9f1jdZmDyXrvdi2HN5Ai/pznJU7MYptkfU9qs0+dvBqEueM8c+qGqIrQHBOOVg3Eo8ix",
+                    "size": "681MB",
+                    "quality": "480P",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                }
+            ],
+            "genre": [
+                "Japan",
+                "MMSub"
+            ]
+        },
+        {
+            "p": false,
+            "title": "Step-By-Step",
+            "img": {
+                "potrait": true,
+                "url": "https://darktvpre.darktvapp.com/uploads/video_thumb/923.jpg"
+            },
+            "desc": "ဖြေးဖြေးလေးနဲ့ ငြိမ့်ငြိမ့်လေး(Uncensored)အညွှန်းမရေးတော့ဘူးဗျာ...ဒေါင်းကြည့်လိုက်တော့...( ",
+            "year": "2023",
+            "rating": "",
+            "duration": "",
+            "ongoing": false,
+            "srcs": [
+                {
+                    "name": "F-Server",
+                    "url": "sUXXV3Or9NuFB6pAs7z6Nezh8vJS9f1jdZmDyXrvdi2HN5Ai/pznJU6EepBKamprzrxZhkjZobKlYnzNZb73fZUn4mqHso4x",
+                    "size": "362MB",
+                    "quality": "720P",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                }
+            ],
+            "genre": [
+                "US",
+                "MMSub"
+            ]
+        },
+        {
+            "p": false,
             "title": "HMN-396",
             "img": {
                 "potrait": false,
