@@ -50,6 +50,84 @@
             ]
         },
         {
+            "p": true,
+            "title": "ATID-557",
+            "img": {
+                "potrait": true,
+                "url": "https://darktvpre.darktvapp.com/uploads/video_thumb/926.jpg"
+            },
+            "desc": "ငယ်ချစ်ဦးဆိုတာ ပထမဆုံးအချစ်လဲဖြစ်သလိုလွဲကိုလွဲတဲ့ကံဇာတာကြီးကလဲပါနေတာဘဲမဟုတ်လား ခုတခေါက်မှာတော့ MCတယောက်ဟာလဲ ငယ်ချစ်ဦးဟာအကိုနဲ့ယူသွားတဲ့အချိန်မှာကြေကွဲလူငယ်လေးဖြစ်ပီး သူကြိုက်ရတဲ့လူအိမ်ပေါ်ပါတက်နေလာတဲ့ချိန်မှာတော့ မြိုတက်ပီးအလုပ်သွားလုပ်ပါတယ် သူနဲ့ရွယ်တူတွေအိမ်ထောင်ကျလဲသူကတော့ခုထိလူပျိုလေးဘဲပေါ့ဒီလိုနဲ့ နှစ်တွေကြာပီးနောက်ပိုင်းတနေ့မှာတော့အိမ်ကိုပြန်လာခဲ့ချိန်မှတော့သူမေ့နေပီလိုထင်တဲ့ငယ်ချစ်ဦးကိုမြင်တဲ့အခါ အရင်ကမေတ္တာတွေလဲပြန်လည်နိုးထလိုလာပါတော့တယ် ဒီလိုနဲ့ဘာဆက်ဖြစ်မလဲဆိုတာကိုတော့  ",
+            "year": "2023",
+            "rating": "",
+            "duration": "",
+            "ongoing": false,
+            "srcs": [
+                {
+                    "name": "F-Server",
+                    "url": "sUXXV3Or9NuFB6pAs7z6Nezh8vJS9f1jdZmDyXrvdi2HN5Ai/pznJU7NetBMVEAnJ4p3K4SGjVUd4BAKFJT/ZRzpYzrUk+C9",
+                    "size": "1GB",
+                    "quality": "720P",
+                    "direct": false,
+                    "dl": false,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "F-Server",
+                    "url": "sUXXV3Or9NuFB6pAs7z6Nezh8vJS9f1jdZmDyXrvdi2HN5Ai/pznJU7MatVKfTts46hiMFBdh6YqO+tRzNbxX76A3r5FkBiU",
+                    "size": "553MB",
+                    "quality": "480P",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                }
+            ],
+            "genre": [
+                "Japan",
+                "MMSub",
+                "Decensored"
+            ]
+        },
+        {
+            "p": true,
+            "title": "PRED-403",
+            "img": {
+                "potrait": false,
+                "url": "https://img3.javmost.cx/images/PRED-403.webp"
+            },
+            "desc": "မောင်ဇော်ဆိုတာ စော်တွေကတပတ်ကြာအောင်မတွဲပဲ ပစ်ထားခံနေရတဲ့ စော်ပစ်ကောင်လေးဖြစ်ပါတယ် အကြောင်းကတော့ တစ်ချီ နှစ်ချီနဲ့ မရပဲ အဖုတ်ကြမ်းလို့ဖြစ်ပါတယ်\r\nတစ်နေ့မှာဆရာမလေးက အလုပ်များလွန်းလို့အိပ်ရေးပျက်ပြီး လမ်းလယ်မှာမူးလဲသွားပါတယ် ဒါကိုမောင်ဇော်ကကူပြီး အိမ်ထိပို့ကာရှယ်တီးပါတော့မည်\r\nမင်းသမီးနာမည် Karen Yuzuriha",
+            "year": "",
+            "rating": "",
+            "duration": "",
+            "ongoing": false,
+            "srcs": [
+                {
+                    "name": "F-Server",
+                    "url": "sUXXV3Or9NuFB6pAs7z6Nezh8vJS9f1jdZmDyXrvdi2HN5Ai/pznJU7MQ5RLSG4oMSNsloEbGuN2EhoqviVDIYZHgmjlnO/M",
+                    "size": "1.67 GB",
+                    "quality": "HD",
+                    "direct": false,
+                    "dl": false,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "F-Server",
+                    "url": "sUXXV3Or9NuFB6pAs7z6Nezh8vJS9f1jdZmDyXrvdi2HN5Ai/pznJU7NQJFzfnIms1ZpmhfMRbGtRUkidVZjZIx1n9IRtH00",
+                    "size": "605 MB",
+                    "quality": "SD",
+                    "direct": false,
+                    "dl": false,
+                    "wb": false,
+                    "srt": ""
+                }
+            ],
+            "genre": [
+                ""
+            ]
+        },
+        {
             "p": false,
             "title": "The Devil At My Door",
             "img": {
