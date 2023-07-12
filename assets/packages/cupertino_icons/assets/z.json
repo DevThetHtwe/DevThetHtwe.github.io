@@ -50,7 +50,7 @@
             ]
         },
         {
-            "p": true,
+            "p": false,
             "title": "ATID-557",
             "img": {
                 "potrait": true,
