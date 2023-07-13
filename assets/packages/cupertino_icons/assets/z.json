@@ -1,6 +1,123 @@
 {
     "data": [
         {
+            "p": true,
+            "title": "MEYD-479",
+            "img": {
+                "potrait": true,
+                "url": "https://darktvpre.darktvapp.com/uploads/video_thumb/197.jpg"
+            },
+            "desc": "အေးမိစံ တောင်းဆိုထားကြသူများအတွက် Eimi လေးအခုလို ၀၀ကစ်ကစ်လေးဖြစ်မလာခင်က ထွက်ခဲ့တဲ့ ဇာတ်လမ်းလေးကို ဘာသာပြန်တင်ဆက်ပေးလိုက်ပါတယ်.ဆေးလိပ်အရမ်းသောက်လို့ အိပ်ရာထဲမှာစွမ်းဆောင်ရည်မရှိတော့တဲ့ ယောကျ်ားကြောင့် မပျော်မရွှင်ဖြစ်နေတဲ့ အေးမိစံလေးကို ယောက္ခထီးက အလိုက်ကန်းဆိုးမသိစွာနဲ့ ကလေးယူခိုင်းနေပါတယ် အဖြစ်မှန်ကိုသိသွားတဲ့ ယောက္ခထီးက Eimi လေးကို မိမိမြေးလေး လွယ်နိုင်ရေးအတွက် စိတ်နှစ်ကိုယ်နှစ် အစွမ်းကုန် ကူညီအားထုတ်ပေးခဲ့ပါတော့တယ်.....",
+            "year": "2019",
+            "rating": "",
+            "duration": "",
+            "ongoing": false,
+            "srcs": [
+                {
+                    "name": "F-Server",
+                    "url": "sUXXV3Or9NuFB6pAs7z6Nezh8vJS9f1jdZmDyXrvdi2HN5Ai/pznJU7NdpdmV0huSavS2sc4cZOMIuQth5l3njPpwf5c0qqw",
+                    "size": "980MB",
+                    "quality": "720P",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "F-Server",
+                    "url": "sUXXV3Or9NuFB6pAs7z6Nezh8vJS9f1jdZmDyXrvdi2HN5Ai/pznJU7NfZtnIlA3H1RPiHlZnZ9C9lDKPDgvA46u1oabotXa",
+                    "size": "441MB",
+                    "quality": "480P",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                }
+            ],
+            "genre": [
+                "Japan",
+                "MMSub"
+            ]
+        },
+        {
+            "p": false,
+            "title": "ADN-131",
+            "img": {
+                "potrait": true,
+                "url": "https://darktvpre.darktvapp.com/uploads/video_thumb/195.jpg"
+            },
+            "desc": "အဝှာမပြုရတာ ကြာတဲ့ အိမ်ရှင်မတစ်ယောက်ရဲ့ ပေါက်ကွဲသံစဉ်လေးပါပိုက်ဆံအရမ်းချမ်းသာပေမယ့် အာသဝေါကုန်ခမ်းနေတဲ့ ယောကျ်ားနဲ့ ၈နှစ်မြောက် ရွှေရတုမှာတော့ သူမရဲ့စိတ်တွေလုံးဝကို ပေါက်ကွဲလာပါတယ် ယောကျ်ားဖြစ်သူက ဟိုကိစ္စစိတ်မဝင်စားသလောက် သူမက အရမ်းထန်နေတတ်ပြိး ရွှေပုံပေါ်မှာနေပေမယ့် သူမမပျော်တော့ပါ အဲ့အချိန်မှာပဲ ခပ်ချောချောကွန်ပျူတာပြင်ဆရာတစ်ယောက် အိမ်ကိုရောက်လာခဲ့ပြီး အလုပ်ကိစ္စထက်ဘောင်ကျော်ကာ ပါဆင်နယ်မေးခွန်းတွေမေးမိရင်းကနေ ပါဆင်နယ်ကိစ္စတွေကိုပါ လုပ်ဖြစ်လာပါတော့တယ်.....",
+            "year": "2017",
+            "rating": "",
+            "duration": "",
+            "ongoing": false,
+            "srcs": [
+                {
+                    "name": "F-Server",
+                    "url": "sUXXV3Or9NuFB6pAs7z6Nezh8vJS9f1jdZmDyXrvdi2HN5Ai/pznJU7NedZmWFtsl3CnoA6fnkUv7EY6n9Q3HHqrApDi1Wpl",
+                    "size": "972MB",
+                    "quality": "720P",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "F-Server",
+                    "url": "sUXXV3Or9NuFB6pAs7z6Nezh8vJS9f1jdZmDyXrvdi2HN5Ai/pznJU7NXJBzI3IxtdzQVQupZ491WRKvZTbjZTpSj5jA/ECK",
+                    "size": "384MB",
+                    "quality": "480P",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                }
+            ],
+            "genre": [
+                "Japan",
+                "MMSub"
+            ]
+        },
+        {
+            "p": false,
+            "title": "RCTD-129",
+            "img": {
+                "potrait": true,
+                "url": "https://darktvpre.darktvapp.com/uploads/video_thumb/210.jpg"
+            },
+            "desc": "မိန်းကလေးထောင်မှာ ထောင်စောင့်ကောင်မလေးနဲ့ ထောင်က ကောင်မလေး ၂ယောက် သရီးဆမ်းတဲံ GL ကားလေးဖြစ်ပြီး DJ ဘယ်လိုပွတ်သလဲ လင်ကွင်း ၂ချပ်ဘယ်လိုတီးသလဲဆိုတာကို မသိသေးတဲ့ အထူးလေ့လာသင့်တဲ့ကားလေးပါ.......",
+            "year": "2022",
+            "rating": "",
+            "duration": "",
+            "ongoing": false,
+            "srcs": [
+                {
+                    "name": "F-Server",
+                    "url": "sUXXV3Or9NuFB6pAs7z6Nezh8vJS9f1jdZmDyXrvdi2HN5Ai/pznJU7MJ45KelgtaJsKVxll5KhPstkUwLdd15UP5y6jGxWd",
+                    "size": "875MB",
+                    "quality": "720P",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "F-Server",
+                    "url": "sUXXV3Or9NuFB6pAs7z6Nezh8vJS9f1jdZmDyXrvdi2HN5Ai/pznJU7MK4hwSEwnKH4B1aiMKYcxTlj4jpSxPkuldf56glSB",
+                    "size": "385MB",
+                    "quality": "480P",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                }
+            ],
+            "genre": [
+                "Japan",
+                "MMSub"
+            ]
+        },
+        {
             "p": false,
             "title": "PRED-458",
             "img": {
