@@ -2,6 +2,55 @@
     "data": [
         {
             "p": false,
+            "title": "MOND-245",
+            "img": {
+                "potrait": true,
+                "url": "https://darktvpre.darktvapp.com/uploads/video_thumb/929.jpg"
+            },
+            "desc": "အလုပ်ကသူဌေးမမနဲ့အလုပ်ကမထုံတတ်တေးကောင်လေးနဲ့အလုပ်အပြင်သွားရပီးအလုပ်ကိစ္စခရီးထွက်ရတာပေါ့ ညနေကျတိုကျိုပြန်မရတော့ဘဲ ရှိတဲ့ဟိုတယ်မှာဘဲနှစ်ယောက်သားတခန်းထဲတည်းလိုက်ရတယ် MCကအူတူတူအတတပေမယ့်ကြည့်ကောင်းတဲ့ကောင်လေးနဲ့လက်အောက်ငယ်သားအပေါ်ငဲ့တတ်တဲ့ဘောစိမမတိုရဲ့အချစ်ဇာတ်လမ်းလေးပေါ့ဗျာ...( ",
+            "year": "2023",
+            "rating": "",
+            "duration": "",
+            "ongoing": false,
+            "srcs": [
+                {
+                    "name": "Dir-A",
+                    "url": "sUXXV3Or9NuFB6obtOLXLxTCLv/LAE8wHfERtXwKACVOahEW2Dbae58lcMYwY8ZEz204OWRHmGCW4z2fhHMsD7m8kDrxzh44RKUBa5YIzIo=",
+                    "size": "1.3 GB",
+                    "quality": "720P",
+                    "direct": true,
+                    "dl": false,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "F-Server",
+                    "url": "sUXXV3Or9NuFB6pAs7z6Nezh8vJS9f1jdZmDyXrvdi2HN5Ai/pznJU7NdppnV1g1eJ0QxMwOVjXTNoyZX37NQ3Kif0ISkSg7",
+                    "size": "1.2 GB",
+                    "quality": "720P",
+                    "direct": false,
+                    "dl": false,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "F-Server",
+                    "url": "sUXXV3Or9NuFB6pAs7z6Nezh8vJS9f1jdZmDyXrvdi2HN5Ai/pznJU7NXJNkekQ3FGr2IXUz2BCLPoAQ407IX9om5TNHvIH3",
+                    "size": "619MB",
+                    "quality": "480P",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                }
+            ],
+            "genre": [
+                "Japan",
+                "MMSub"
+            ]
+        },
+        {
+            "p": false,
             "title": "SHKD-546",
             "img": {
                 "potrait": false,
