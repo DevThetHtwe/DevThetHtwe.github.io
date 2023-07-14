@@ -2,6 +2,45 @@
     "data": [
         {
             "p": false,
+            "title": "Future Century Amazons",
+            "img": {
+                "potrait": true,
+                "url": "https://m.media-amazon.com/images/M/MV5BNzA0ZWQzNDYtZDI0MS00NjQwLWIyYmYtMTAxYWRjZjg3ODcxXkEyXkFqcGdeQXVyNDI3NzQxODA@._V1_.jpg"
+            },
+            "desc": "ဝမ်းဒါးဝူးမန်းထဲက အမေဇွန်ကျွန်းလေးပေါ်မှာ ငါများရောက်သွားရက်တော့\r\nမချောဆယ်ယောက်ကိုယ်တစ်ယောက်ဖြစ်ရချည်သေးဆိုပြီး စိတ်ကူးယဉ်ဖူးတဲ့\r\nညိုကီတွေအတွက် အနာဂတ်က အမေဇွန်စီးတီးလို့ခေါ်တဲ့ မိန်းမတွေချည်းရှိတဲ့\r\nမြို့လေးကို အခြေပြုတင်ဆက်ထားတဲ့ဇာတ်လမ်းလေးပါ",
+            "year": "2017",
+            "rating": "",
+            "duration": "1h 16m",
+            "ongoing": false,
+            "srcs": [
+                {
+                    "name": "F-Server",
+                    "url": "sUXXV3Or9NuFB6pAs7z6Nezh8vJS9f1jdZmDyXrvdi2HN5Ai/pznJU6EU9dwImY26QFugLzx4OZmO3V8kQ7LnxadDCEpQt/e",
+                    "size": "372 MB",
+                    "quality": "HD",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "Dir-A",
+                    "url": "sUXXV3Or9NuFB6obtOLXLxTCLv/LAE8wHfERtXwKACVOahEW2Dbae58lcMYwYNUeXryCnxARz4EJNCZHrQ/NLoUUmDLULBQRfDfYOn4snWprDVYxvMIX0NGiX3WAsnvN",
+                    "size": "372 MB",
+                    "quality": "HD",
+                    "direct": true,
+                    "dl": false,
+                    "wb": false,
+                    "srt": ""
+                }
+            ],
+            "genre": [
+                "US",
+                "MMSub"
+            ]
+        },
+        {
+            "p": false,
             "title": "WAAA-032",
             "img": {
                 "potrait": false,
@@ -21546,7 +21585,7 @@
             "srcs": [
                 {
                     "name": "F-Server",
-                    "url": "sUXXV3Or9NuFB6pAs7z6Nezh8vJS9f1jdZmDyXrvdi2HN5Ai/pznJU6EUI5Lfm41i+TgGiz89S5qYXPdgSb431tqTQb6Dpqqiw+Zti804jR9ozR0KjR1STT1xqCcKb+l6DOGx5oFgtaUzUisKrbK1Q==",
+                    "url": "https://archive.org/download/zkar-h-j/%5BZkar%5DH%26J.mp4",
                     "size": "926 MB",
                     "quality": "HD",
                     "direct": false,
