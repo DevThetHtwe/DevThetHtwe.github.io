@@ -2,6 +2,84 @@
     "data": [
         {
             "p": false,
+            "title": "JUQ-237",
+            "img": {
+                "potrait": true,
+                "url": "https://darktvpre.darktvapp.com/uploads/video_thumb/932.jpg"
+            },
+            "desc": "ကျောင်းမှာဘယ်အသင်း၀င်လို၀င်ရမလဲမသိဘဲကြောင်ပျောက်နေချိန် ဆရာမလေးရဲ့အလှတွေမှာမြောပီး Mcတယောက်ရေကူးအသင်းမှာပါ၀င်ဖိုဆုံးဖြတ်လိုက်ပါတော့တယ် အသင်း၀င်ပီးမှဆရာမကအိမ်ထောင်နဲ့မှန်းသိလိုက်ရတော့MCတယောက်ဆရာမရဲ့အချစ်ကိုဘယ်လိုရအောင်ယူမလဲဆိုတာတော့.......( ",
+            "year": "2023",
+            "rating": "",
+            "duration": "",
+            "ongoing": false,
+            "srcs": [
+                {
+                    "name": "F-Server",
+                    "url": "sUXXV3Or9NuFB6pAs7z6Nezh8vJS9f1jdZmDyXrvdi2HN5Ai/pznJU7NXNJLR3VvOmlnyrh6U99Vx+6UC3v62KU2Xsb/uqL5",
+                    "size": "1GB",
+                    "quality": "720P",
+                    "direct": false,
+                    "dl": false,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "F-Server",
+                    "url": "sUXXV3Or9NuFB6pAs7z6Nezh8vJS9f1jdZmDyXrvdi2HN5Ai/pznJU7NftBKekAvi6C0BBe7vOF01nBG9WlL7nKleSYXfc6R",
+                    "size": "555MB",
+                    "quality": "480P",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                }
+            ],
+            "genre": [
+                "Japan",
+                "MMSub"
+            ]
+        },
+        {
+            "p": false,
+            "title": "Biography-Of-A-Virgin",
+            "img": {
+                "potrait": true,
+                "url": "https://darktvpre.darktvapp.com/uploads/video_thumb/930.jpg"
+            },
+            "desc": "နောက်ထပ်ကောင်းတဲ့ Pt ဇာတ်လမ်းလေးတပုပ်ပါဘဲ ဇာတ်လမ်းကအများကြီးပြောပြစရာမရှိတာမို့ ကိုဟာကိုဒေါင်းပီးကြည့်လိုက်ကြပါ ",
+            "year": "2022",
+            "rating": "",
+            "duration": "",
+            "ongoing": false,
+            "srcs": [
+                {
+                    "name": "F-Server",
+                    "url": "sUXXV3Or9NuFB6pAs7z6Nezh8vJS9f1jdZmDyXrvdi2HN5Ai/pznJU7MYpVNVzswFjBqfTj4qb9QTknCzYDtVXghnhsTOTsW",
+                    "size": "451MB",
+                    "quality": "720P",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "F-Server",
+                    "url": "sUXXV3Or9NuFB6pAs7z6Nezh8vJS9f1jdZmDyXrvdi2HN5Ai/pznJU6EVJNwSG4toiWOMOMe4aJRNV4zZUdvfCSNcd/QLn5C",
+                    "size": "451MB",
+                    "quality": "720P",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                }
+            ],
+            "genre": [
+                "US",
+                "MMSub"
+            ]
+        },
+        {
+            "p": false,
             "title": "HND-557",
             "img": {
                 "potrait": true,
@@ -36469,7 +36547,8 @@
                 }
             ],
             "genre": [
-                "US"
+                "US",
+                "MMSub"
             ]
         },
         {
