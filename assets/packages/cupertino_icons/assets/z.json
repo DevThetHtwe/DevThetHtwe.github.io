@@ -2,6 +2,45 @@
     "data": [
         {
             "p": false,
+            "title": "Bewitching Attraction",
+            "img": {
+                "potrait": true,
+                "url": "https://www.themoviedb.org/t/p/w500/hcmCNsrKBfBal0pPtpwdeLkO5TB.jpg"
+            },
+            "desc": "ဇာတ်လမ်းကတော့ ပရော်ဖက်ဆာ မမကြီးရဲ့\r\nဘဲများနဲ့အရှုပ်တော်ပုံလေးပဲဖြစ်ပါတယ်ပရော်ဖက်ဆာမမကြီးက လှလဲလှတယ် ပညာလဲတတ်တယ်\r\nကောက်ကြောင်းလေးကလည်း လှသလို\r\nပွင့်လင်းတတ်တဲ့ အလှပဂေးတစ်ယောက်ပါမမကြီးရဲ့ဘဝမှာ လုပ်ဖော်ကိုင်ဖက် ဘာညာ ခင်လို့တွဲတာ\r\nစသည်ဖြင့် ငယ်ငယ်တုန်းက ကျောင်းသူဘဝမှာတင်\r\nညီအကို နှစ်ယောက်ကို ပြိုင်တွဲပစ်တာတို့ ဘာတို့\r\nလုံးဝကို သိပ်ကြမ်းတဲ့ မမပါ\r\nမမတစ်ယောက် နောက်ဆုံးသူ့အရှုပ်တွေက နောက်ကိုအရိပ်လိုလိုက်တာတဲ့အခါမှာတော့",
+            "year": "2016",
+            "rating": "",
+            "duration": "",
+            "ongoing": false,
+            "srcs": [
+                {
+                    "name": "Dir-A",
+                    "url": "sUXXV3Or9NuFB6obtOLXLxTCLv/LAE8wHfERtXwKACVOahEW2Dbae58lcMYwYMUYBCuUP742zW7iWlt8aw2Ap1Hiu+jgbL378RW/e9urxzwYSlm5p90sEgQHGK7IWDG2NRtQWlYpCP3YhL/KsmVZ8ToqP65lo0Hxrxaxiwm8mOg=",
+                    "size": "596 MB",
+                    "quality": "HD",
+                    "direct": true,
+                    "dl": false,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "F-Server",
+                    "url": "https://www.mediafire.com/file/3lxjf3e7w8g1m7i",
+                    "size": "596 MB",
+                    "quality": "HD",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                }
+            ],
+            "genre": [
+                "Japan",
+                "MMSub"
+            ]
+        },
+        {
+            "p": false,
             "title": "MIDV-383",
             "img": {
                 "potrait": false,
@@ -15,7 +54,7 @@
             "srcs": [
                 {
                     "name": "F-Server",
-                    "url": "https://www.mediafire.com/file/erwjps7coqk3pew",
+                    "url": "sUXXV3Or9NuFB6pAs7z6Nezh8vJS9f1jdZmDyXrvdi2HN5Ai/pznJU7MRJpNInIoJX1p69yStQZZlLl2D3VKV00CXU+C0FtH",
                     "size": "621 MB",
                     "quality": "SD",
                     "direct": false,
@@ -25,11 +64,21 @@
                 },
                 {
                     "name": "F-Server",
-                    "url": "https://www.mediafire.com/file/yse2d4os2sku55b",
+                    "url": "sUXXV3Or9NuFB6pAs7z6Nezh8vJS9f1jdZmDyXrvdi2HN5Ai/pznJU7NfplzREg0Ozgjk06lrV892RWxVZkAU+eyGwerThZg",
                     "size": "1.31 GB",
                     "quality": "HD",
                     "direct": false,
                     "dl": true,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "Dir-A",
+                    "url": "sUXXV3Or9NuFB6obtOLXLxTCLv/LAE8wHfERtXwKACVOahEW2Dbae58lcMYwYNUOUmNMyljRqziqx1GrEsdpDsB+xkvz8yQOO5xCP3OrcSiCk9Q7nVhYmA==",
+                    "size": "1.31 GB",
+                    "quality": "HD",
+                    "direct": true,
+                    "dl": false,
                     "wb": false,
                     "srt": ""
                 }
@@ -69,6 +118,16 @@
                     "quality": "HD",
                     "direct": false,
                     "dl": true,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "Dir-A",
+                    "url": "sUXXV3Or9NuFB6obtOLXLxTCLv/LAE8wHfERtXwKACVOahEW2Dbae58lcMYwYNUOUmNMyljRqziqx1GrEsdpDsZF5GHp9FhNL5VGSgC3FPw=",
+                    "size": "1.6 GB",
+                    "quality": "HD",
+                    "direct": true,
+                    "dl": false,
                     "wb": false,
                     "srt": ""
                 }
