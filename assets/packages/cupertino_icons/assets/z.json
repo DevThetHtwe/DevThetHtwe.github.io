@@ -2,13 +2,151 @@
     "data": [
         {
             "p": false,
+            "title": "NHDTB-087",
+            "img": {
+                "potrait": true,
+                "url": "https://darktvpre.darktvapp.com/uploads/video_thumb/938.jpg"
+            },
+            "desc": "တောင်းပန်ရင်း -ျင်ခံလာတောင်းပန်တဲ့ကောင်မလေးတွေကို MC က -ျင်ကြီး -ျလွှတ်တဲ့ ဇာတ်လမ်းလေးပဲဖြစ်ပါတယ် .အေနယ်ကားတောင်းဆိုထားသူများအတွက် သောက်ရမ်းထန်တဲ့ MC ရဲ့ အခန်းကို&nbsp; လာတောင်းပန်သမျှကောင်မလေးတွေ ဘယ်လိုအဖြစ်မျိုးကြုံသွားသလဲဆိုတာ ကြည့်လိုက်ကြဖို့ပဲ ပြောချင်ပါတယ်......( ",
+            "year": "2018",
+            "rating": "",
+            "duration": "",
+            "ongoing": false,
+            "srcs": [
+                {
+                    "name": "F-Server",
+                    "url": "sUXXV3Or9NuFB6pAs7z6Nezh8vJS9f1jdZmDyXrvdi2HN5Ai/pznJU6EWNZMSGVtAe0Wa5/DqJHM5LqsXjiBGwj/jEVRXvmZ",
+                    "size": "1.2 GB",
+                    "quality": "720P",
+                    "direct": false,
+                    "dl": false,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "F-Server",
+                    "url": "sUXXV3Or9NuFB6pAs7z6Nezh8vJS9f1jdZmDyXrvdi2HN5Ai/pznJU7MXJBwflRpfN+m1KKrF88MCBt2ehfSbMcJ/FomsWPd",
+                    "size": "417 MB",
+                    "quality": "480P",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "F-Server",
+                    "url": "sUXXV3Or9NuFB6pAs7z6Nezh8vJS9f1jdZmDyXrvdi2HN5Ai/pznJU7NeopnSGZupIPNIQD/2PUdkinduDEfe1L433ExyCLs",
+                    "size": "1.2GB",
+                    "quality": "720P",
+                    "direct": false,
+                    "dl": false,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "F-Server",
+                    "url": "sUXXV3Or9NuFB6pAs7z6Nezh8vJS9f1jdZmDyXrvdi2HN5Ai/pznJU7NX5pKI2kl2c/dHCMJLtLaS8Qg+ZDfPz01dcNU0zwy",
+                    "size": "417MB",
+                    "quality": "480P",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                }
+            ],
+            "genre": [
+                "Japan",
+                "MMSub"
+            ]
+        },
+        {
+            "p": false,
+            "title": "DRTP-027",
+            "img": {
+                "potrait": true,
+                "url": "https://darktvpre.darktvapp.com/uploads/video_thumb/937.jpg"
+            },
+            "desc": "နွေရာသီမှာ ဘောင်းဘီတိုတိုလေးတွေ မလုံ့တလုံဝတ်ပြီး အိမ်ရှေ့မှာ အိပ်ပျော်နေတတ်တဲ့ ကျနော့်ရဲ့ အကိတ်မမက ကျနော့်ကို ရင်ဖိုစေပါတယ်.ကာလာတောက်တောက် ဇီးရိုးကွာတား ဘောင်းဘီတိုတိုကျပ်ကျပ်ကလေးက ကျနော့်အစ်မရဲ့ အလှတရားတွေကို နွေရာသီမှာ ပိုမိုထင်ပေါ်စေခဲ့လို့ ကျနော့်အကြည့်တွေကို ဘောင်းဘီတိုကနေမခွာနိုင်ခဲ့ပါဘူး အိမ်ရှေ့မှာ ဘရာမပါဘဲအိပ်နေတဲ့မမကို...( ",
+            "year": "2022",
+            "rating": "",
+            "duration": "",
+            "ongoing": false,
+            "srcs": [
+                {
+                    "name": "F-Server",
+                    "url": "sUXXV3Or9NuFB6pAs7z6Nezh8vJS9f1jdZmDyXrvdi2HN5Ai/pznJU7NQI1NI0dt4WcPbHDB+Ytakqoc+URVYWjbDUlNErHt",
+                    "size": "1.9GB",
+                    "quality": "1080P",
+                    "direct": false,
+                    "dl": false,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "F-Server",
+                    "url": "sUXXV3Or9NuFB6pAs7z6Nezh8vJS9f1jdZmDyXrvdi2HN5Ai/pznJU7NW9BkfkBrporPuZxmcaUwuEqeBMJct8Ai9tnAACFM",
+                    "size": "1.9GB",
+                    "quality": "1080P",
+                    "direct": false,
+                    "dl": false,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "F-Server",
+                    "url": "sUXXV3Or9NuFB6pAs7z6Nezh8vJS9f1jdZmDyXrvdi2HN5Ai/pznJU7MaotLRG4psUSTzr58gsjvMOtFKkLiIfFzuUrJXHyo",
+                    "size": "937MB",
+                    "quality": "720P",
+                    "direct": false,
+                    "dl": false,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "F-Server",
+                    "url": "sUXXV3Or9NuFB6pAs7z6Nezh8vJS9f1jdZmDyXrvdi2HN5Ai/pznJU7MYpJLekMlo5RLiV7SrmriM8KCSwjHGRaYJ4aH9BBv",
+                    "size": "937MB",
+                    "quality": "720P",
+                    "direct": false,
+                    "dl": false,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "F-Server",
+                    "url": "sUXXV3Or9NuFB6pAs7z6Nezh8vJS9f1jdZmDyXrvdi2HN5Ai/pznJU7MddJzInoloW+SISO+KyLeNBDCoZn+4TiOZnz9PyM9",
+                    "size": "371MB",
+                    "quality": "480P",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "F-Server",
+                    "url": "sUXXV3Or9NuFB6pAs7z6Nezh8vJS9f1jdZmDyXrvdi2HN5Ai/pznJU7MZpJNI0trlyt0WU8LJs9jMRAW/KA3EVaDzFqIc+kw",
+                    "size": "371MB",
+                    "quality": "480P",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                }
+            ],
+            "genre": [
+                "Japan",
+                "MMSub"
+            ]
+        },
+        {
+            "p": false,
             "title": "JUQ-143",
             "img": {
                 "potrait": false,
                 "url": "https://pics.pornfhd.com/mono/movie/adult/juq143/juq143pl.jpg"
             },
             "desc": "ယောက်ျားဖြစ်သူရဲ့ အစ်ကိုက ဝင်ဗျင်းတာခံလိုက်ရတဲ့ ဂျပန်မလေးအကြောင်းကို ရှုစားကြရမှာဖြစ်ပါတယ်",
-            "year": "2023", 
+            "year": "2023",
             "rating": "",
             "duration": "2h 30m",
             "ongoing": false,
@@ -31413,9 +31551,9 @@
             "ongoing": false,
             "srcs": [
                 {
-                    "name": "SP-Server",
-                    "url": "https://spb.zkr/57237/video/dvdes+543+a",
-                    "size": "1.47 GB",
+                    "name": "F-Server",
+                    "url": "sUXXV3Or9NuFB6pAs7z6Nezh8vJS9f1jdZmDyXrvdi2HN5Ai/pznJU7NR9JwR2Zu8PYlA5h2FgflTjYik+bbn/fK++cJ+q12",
+                    "size": "2 GB",
                     "quality": "",
                     "direct": false,
                     "dl": true,
