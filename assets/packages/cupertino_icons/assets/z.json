@@ -2,6 +2,45 @@
     "data": [
         {
             "p": false,
+            "title": "Young and Beautiful",
+            "img": {
+                "potrait": true,
+                "url": "https://www.themoviedb.org/t/p/w500/19ImjMts1JJ2UuvPU33kYSC8f39.jpg"
+            },
+            "desc": "အစ်ဇဘယ်လာတစ်ယောက် လှသွေးကြွယ်ချိန် ၁၇ နှစ်လောက်မှာ\r\nချစ်သူနဲ့ ရိုနေချင်ပေမယ့် ချစ်သူက အတူနေပြီးတာနဲ့ အရိုဇာတ်လမ်းက မြန်မြန်ပဲပွဲသိမ်းခဲ့ပါတယ်…ဒီအချိန်မှာ အစ်ဇဘယ်လာတစ်ယောက် သူ့ရဲ့ Secret Life ကို စတင်စမ်းသပ်ဖြစ်ပါတော့တယ်…Call Girl အဖြစ် အသက်ကြီးကြီးဘိုးတော်အများစုနဲ့ ချိန်းတွေ့ ပိုက်ဆံရှာပြီး ဘဝကိုရေစုံမျောနေပါတော့တယ်။ဒီထဲက ဘိုးတော်တစ်ပွေက သူနဲ့အတူနေရင်း နှလုံးအမောဖောက်ပြီးသေသွားတဲ့အခါမှာတော့…",
+            "year": "2013",
+            "rating": "6.7",
+            "duration": "1h 35m",
+            "ongoing": false,
+            "srcs": [
+                {
+                    "name": "F-Server",
+                    "url": "sUXXV3Or9NuFB6pAs7z6Nezh8vJS9f1jdZmDyXrvdi2HN5Ai/pznJU7MYdNzI0hsYZRtdvW0UkTUXybDBt0hHFfT8MuT2Cs6",
+                    "size": "938 MB",
+                    "quality": "HD",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "F-Server",
+                    "url": "sUXXV3Or9NuFB6pAs7z6Nezh8vJS9f1jdZmDyXrvdi2HN5Ai/pznJU6EfppmWFtqTqZcqan8BfuWkTMYvVhK9UNFmndEKq99",
+                    "size": "499 MB",
+                    "quality": "SD",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                }
+            ],
+            "genre": [
+                "US",
+                "MMSub"
+            ]
+        },
+        {
+            "p": false,
             "title": "HMN-286",
             "img": {
                 "potrait": false,
@@ -3133,7 +3172,7 @@
                 }
             ],
             "genre": [
-                "United States",
+                "US",
                 "MMSub"
             ]
         },
