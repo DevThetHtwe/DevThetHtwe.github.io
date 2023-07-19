@@ -2,6 +2,104 @@
     "data": [
         {
             "p": false,
+            "title": "The Love Machine",
+            "img": {
+                "potrait": true,
+                "url": "https://m.media-amazon.com/images/M/MV5BYjZmNzA3ODYtMjYyMy00NjFhLTgwYjQtNDE1NzI3NGMyNGMxXkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_FMjpg_UX1000_.jpg"
+            },
+            "desc": "လုံးကြီးပေါက်လှ အမေရိကန်ပျိုဖြူတွေရဲ့အလှကို အတိုင်းသား အားပါးတရခံစားကြည့်ရအောင် တင်ဆက်ပေးလိုက်ပါတယ်",
+            "year": "2016",
+            "rating": "",
+            "duration": "",
+            "ongoing": false,
+            "srcs": [
+                {
+                    "name": "Dir-A",
+                    "url": "sUXXV3Or9NuFB6obtOLXLxTCLv/LAE8wHfERtXwKACVOahEW2Dbae58lcMYfcMkD98tbVRTB70U3pbJd4e5gh0El+ikSyRpl4T2xa/6nFfcDzj3RaIxm72z656kjcO7Zg+K9Xy7ZkgM=",
+                    "size": "776 MB",
+                    "quality": "HD",
+                    "direct": true,
+                    "dl": false,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "Dir-A",
+                    "url": "sUXXV3Or9NuFB6obtOLXLxTCLv/LAE8wHfERtXwKACVOahEW2Dbae58lcMYfcMkD98tbVRTB70U3pbJd4e5gh0El+ikSyRpl4T2xa/6nFfcDzj3RaIxm72z645oTce6R1Gt+GDNu0Zk=",
+                    "size": "1.52 GB",
+                    "quality": "FHD",
+                    "direct": true,
+                    "dl": false,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "F-Server",
+                    "url": "sUXXV3Or9NuFB6pAs7z6Nezh8vJS9f1jdZmDyXrvdi2HN5Ai/pznJU6EU9FKfmZrxMCWA3ORYRSILs6J2VjUIB0qhUtPAZKz",
+                    "size": "776 MB",
+                    "quality": "HD",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "F-Server",
+                    "url": "sUXXV3Or9NuFB6pAs7z6Nezh8vJS9f1jdZmDyXrvdi2HN5Ai/pznJU6EXJNKV2Zvi7ml1kDUDGorKChO2sPmrKmgMu4Zbt5g",
+                    "size": "1.52 GB",
+                    "quality": "FHD",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                }
+            ],
+            "genre": [
+                "US",
+                "MMSub"
+            ]
+        },
+        {
+            "p": false,
+            "title": "Wild Orchid",
+            "img": {
+                "potrait": true,
+                "url": "https://m.media-amazon.com/images/M/MV5BM2RiYzk0YjUtYzY1Yy00YWRjLWIyZjItMGUxNzRmMzE0MDU0XkEyXkFqcGdeQXVyMjUxMTY3ODM@._V1_.jpg"
+            },
+            "desc": "",
+            "year": "1989",
+            "rating": "5.5",
+            "duration": "1h 57m",
+            "ongoing": false,
+            "srcs": [
+                {
+                    "name": "Dir-A",
+                    "url": "sUXXV3Or9NuFB6obtOLXLxTCLv/LAE8wHfERtXwKACVOahEW2Dbae58lcMYfcMkD98tbVRTB70U3pbJd4e5gipjyYeDpXivFJHp6VM4qnSaSt2c6OzyYIW4I6QXFR/+Q",
+                    "size": "1.2 GB",
+                    "quality": "HD",
+                    "direct": true,
+                    "dl": false,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "F-Server",
+                    "url": "sUXXV3Or9NuFB6pAs7z6Nezh8vJS9f1jdZmDyXrvdi2HN5Ai/pznJU7MetdkfVAongy1boElUlndCMk5072T4fSf3ii48ZDH",
+                    "size": "1.2 GB",
+                    "quality": "HD",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                }
+            ],
+            "genre": [
+                "US",
+                "MMSub"
+            ]
+        },
+        {
+            "p": false,
             "title": "JUY-738",
             "img": {
                 "potrait": false,
@@ -36,7 +134,7 @@
                 "potrait": true,
                 "url": "https://m.media-amazon.com/images/M/MV5BOGVlZjBiNzMtNTQxMi00ZWE3LWI1MmEtYzY0MmM2YjJkYWY4XkEyXkFqcGdeQXVyMjExMDIwNzA@._V1_FMjpg_UX1000_.jpg"
             },
-            "desc": "အန်နာဖရစ်ဆိုတာ နာမည်ကျော်မင်းသမီးတဦးဖြစ်ပြီး\r\nခန္ဓာကိုယ်အချိုးအစားနဲ့ မျက်နှာလေးက ဆွဲဆောင်နိုင်လွန်းသူလေးပါ…\r\nတနေ့မှာတော့ သူမရဲ့အောင်မြင်မှုတွေ အလှအပတွေကို ကျောခိုင်းပြီး\r\nလူ့ဘဝကနေ အပြီးပိုင်ထွက်ခွာခဲ့ရပါတယ်…..ဒီလိုနဲ့သူ့မရဲ့ခန္ဓာကိုယ်ကို\r\nရေခဲတိုက်မှာ ထားချိန် ရေခဲတိုက်ထဲခိုးဝင်လာတဲ့ လူငယ်သုံးယောက်က\r\nတွေ့ရှိသွားပြီး သူမရဲ့အလှအပကိုယစ်မူးကာ သွေးသားဆန္ဒအရမှားမိသွားပါတယ်….မထင်မှတ်ထားမိတာကတော့ အန်နာဟာ တကယ်ကိုသေဆုံးသွားတာမဟုတ်ပဲ\r\nခဏတာမျောနေတာကြောင့် ပြန်လည်ရှင်သန်လာချိန်မှာတော့…",
+            "desc": "အန်နာဖရစ်ဆိုတာ နာမည်ကျော်မင်းသမီးတဦးဖြစ်ပြီး ခန္ဓာကိုယ်အချိုးအစားနဲ့ မျက်နှာလေးက ဆွဲဆောင်နိုင်လွန်းသူလေးပါ…\r\nတနေ့မှာတော့ သူမရဲ့အောင်မြင်မှုတွေ အလှအပတွေကို ကျောခိုင်းပြီး လူ့ဘဝကနေ အပြီးပိုင်ထွက်ခွာခဲ့ရပါတယ်…..ဒီလိုနဲ့သူ့မရဲ့ခန္ဓာကိုယ်ကို ရေခဲတိုက်မှာ ထားချိန် ရေခဲတိုက်ထဲခိုးဝင်လာတဲ့ လူငယ်သုံးယောက်က တွေ့ရှိသွားပြီး သူမရဲ့အလှအပကိုယစ်မူးကာ သွေးသားဆန္ဒအရမှားမိသွားပါတယ်….မထင်မှတ်ထားမိတာကတော့ အန်နာဟာ တကယ်ကိုသေဆုံးသွားတာမဟုတ်ပဲ ခဏတာမျောနေတာကြောင့် ပြန်လည်ရှင်သန်လာချိန်မှာတော့…",
             "year": "2015",
             "rating": "",
             "duration": "",
