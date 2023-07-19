@@ -2,6 +2,113 @@
     "data": [
         {
             "p": false,
+            "title": "VENX-220",
+            "img": {
+                "potrait": true,
+                "url": "https://darktvpre.darktvapp.com/uploads/video_thumb/939.jpg"
+            },
+            "desc": "VENX 220 (Censored)စာလဲမကြိုးစား အားနေနှာဘူးဘဲထတတ်တဲ့သားက အမေကိုပါဘယ်လိုဒုက္ခပေးအုန်းမလဲကြည့်ရှုလိုက်ကြပါအုန်း( ",
+            "year": "2023",
+            "rating": "",
+            "duration": "",
+            "ongoing": false,
+            "srcs": [
+                {
+                    "name": "F-Server",
+                    "url": "sUXXV3Or9NuFB6pAs7z6Nezh8vJS9f1jdZmDyXrvdi2HN5Ai/pznJU6EV9dMSGo2OslqGyzzcNpUunA27ifXQgWlHa2T2qoa",
+                    "size": "798MB",
+                    "quality": "720P",
+                    "direct": false,
+                    "dl": false,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "F-Server",
+                    "url": "sUXXV3Or9NuFB6pAs7z6Nezh8vJS9f1jdZmDyXrvdi2HN5Ai/pznJU7MYotMSEdqByBBUJ5xqiTVhcG8TI3CJHLSYe5n18Br",
+                    "size": "284MB",
+                    "quality": "480P",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                }
+            ],
+            "genre": [
+                "Japan",
+                "MMSub"
+            ]
+        },
+        {
+            "p": false,
+            "title": "MEYD-546",
+            "img": {
+                "potrait": true,
+                "url": "https://darktvpre.darktvapp.com/uploads/video_thumb/92.jpg"
+            },
+            "desc": "မိန်းမကိုဆံပင်ညှပ်ထားမှန်းတောင်သတိမထားမိတော့တဲ့ ယောကျ်ားဖြစ်သူကို စိတ်ပြန်လည်လာအောင် အိမ်နေရင်း ဘီကီနီဝတ်နေရာမှ ယောကျ်ားကပြန်စိတ်မဝင်စားဘဲ ဘေးအိမ်က လူနဲ့ငြိသွားတဲ့ မစ္စဘီကီနီမလေးရဲ့အကြောင်းပါ",
+            "year": "2019",
+            "rating": "",
+            "duration": "",
+            "ongoing": false,
+            "srcs": [
+                {
+                    "name": "F-Server",
+                    "url": "sUXXV3Or9NuFB6pAs7z6Nezh8vJS9f1jdZmDyXrvdi2HN5Ai/pznJU6EX9NNem4nAtVNukJGUxvUP5Isg80Vwzm2RFX5xXmJ",
+                    "size": "1GB",
+                    "quality": "720P",
+                    "direct": false,
+                    "dl": false,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "F-Server",
+                    "url": "sUXXV3Or9NuFB6pAs7z6Nezh8vJS9f1jdZmDyXrvdi2HN5Ai/pznJU7MItNkWEtudI7FeuppYLbFgA+miP/ZAhvPx2Z8ztps",
+                    "size": "416MB",
+                    "quality": "480P",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                }
+            ],
+            "genre": [
+                "Japan",
+                "MMSub"
+            ]
+        },
+        {
+            "p": false,
+            "title": "RCT-752",
+            "img": {
+                "potrait": true,
+                "url": "https://darktvpre.darktvapp.com/uploads/video_thumb/81.jpg"
+            },
+            "desc": "ဒီဇာတ်လမ်းလေးကတော့ ကမ်းခြေမှာ အမေတွေနဲ့သားတွေ အုပ်စုဖွဲ့ပြီးဂိမ်းဆော့ကြတဲ့ ထူးခြားတဲ့အင်းဆက်ကားမျိုးပါ ",
+            "year": "2015",
+            "rating": "",
+            "duration": "",
+            "ongoing": false,
+            "srcs": [
+                {
+                    "name": "F-Server",
+                    "url": "sUXXV3Or9NuFB6pAs7z6Nezh8vJS9f1jdZmDyXrvdi2HN5Ai/pznJU7NRIpKRFdriacm3vKOsU+OlOh8YLOj3mkqJt4t6Z7T",
+                    "size": "630MB",
+                    "quality": "480P",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                }
+            ],
+            "genre": [
+                "Japan",
+                "MMSub"
+            ]
+        },
+        {
+            "p": false,
             "title": "DVDES-739",
             "img": {
                 "potrait": true,
