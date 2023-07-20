@@ -2,6 +2,123 @@
     "data": [
         {
             "p": false,
+            "title": "DVAJ-434",
+            "img": {
+                "potrait": true,
+                "url": "https://darktvpre.darktvapp.com/uploads/video_thumb/72.jpg"
+            },
+            "desc": "akari တို့မိဘတွေဟာနိုင်ငံခြားမှာပဲနေတဲ့အတွက်သူရဲ့မောင်နဲ့အတူ အဘွားဖြစ်သူရဲ့စောင့်ရှောက်မှုအောက်မှာနေကြပါတယ်...သူ့မောင်ဟာမတော်တဆမှုတစ်ခုကြောင့်လက်နှစ်ဖက်စလုံးကျိုးနေခဲ့ပါတယ်...တစ်ရက်မှာတော့ အဘွားဖြစ်သူကအပြင်ကိုသွားစရယရှိသဖြင့် akari အား သူ့မောင်အား စောင့်ရှောက်ဖို့မှာသွားခဲ့ပါတယ်...akari တစ်ယောက် သူ့မောင်အားခန္တာကိုယ်သန့်ရှင်းရေးလုပ်ပေးတဲ့အခါမှာ မမြင်သင့်တဲ့အရာကိုမြင်လိုက်ရတဲ့အခါမှာတော့...",
+            "year": "2020",
+            "rating": "",
+            "duration": "2h 26m",
+            "ongoing": false,
+            "srcs": [
+                {
+                    "name": "F-Server",
+                    "url": "http://www.mediafire.com/file/utm855a6zzgo3r5",
+                    "size": "1GB",
+                    "quality": "720P",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                }
+            ],
+            "genre": [
+                "Japan",
+                "Premium"
+            ]
+        },
+        {
+            "p": false,
+            "title": "JUY-587",
+            "img": {
+                "potrait": true,
+                "url": "https://darktvpre.darktvapp.com/uploads/video_thumb/71.jpg"
+            },
+            "desc": "Manami Kodo တို့လင်မယားဟာကုမ္ပဏီလေးတစ်ခုကိုဦးဆောင်လုပ်နေကြပါတယ် Manami Kodo တစ်ယောက်ညည့်နက်တဲ့အထိအလုပ်လုပ်ကိုင်ရတဲ့အတွက် ပင်ပန်းနွမ်းနယ်မှုတွေနဲ့ရင်ဆိုင်လာတဲ့အခါမှာတော့ သူတို့ကုမ္ပဏီနားက ဗျုးတီးစလွန်းတစ်ခုကိုသွားရောက်ပြီးတော့ အနားယူခဲ့ပါတယ်...အလုပ်တွေကလဲဆက်တိုက်လုပ်ရတဲ့အတွက် စလွန်းကိုခဏခဏရောက်ဖြစ်ပြီးတော့ တစ်နေ့မှာတော့သူ့ကိုအထူးနည်းလမ်းတွေနဲ့ဝန်ဆောင်မှုပေးလာတဲ့အခါမှာတော့...",
+            "year": "2018",
+            "rating": "",
+            "duration": "118m",
+            "ongoing": false,
+            "srcs": [
+                {
+                    "name": "F-Server",
+                    "url": "http://www.mediafire.com/file/mr27qwpbyfl2wl1",
+                    "size": "581MB",
+                    "quality": "480P",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                }
+            ],
+            "genre": [
+                "Japan",
+                "MMSub"
+            ]
+        },
+        {
+            "p": false,
+            "title": "VENX-102",
+            "img": {
+                "potrait": true,
+                "url": "https://darktvpre.darktvapp.com/uploads/video_thumb/70.jpg"
+            },
+            "desc": "နေ့စဉ်နဲ့အမျှ မှန်း(စိတ်ကူးယဉ်) ခဲ့ရတဲ့ မေမေလေးကို အဖေခရီးသွားတုန်း အဖေ့ဆီက ကြာကူလီလုပ်တဲ့ ကောင်ဆိုးလေးတစ်ယောက်အကြောင်းပါ.",
+            "year": "2021",
+            "rating": "",
+            "duration": "",
+            "ongoing": false,
+            "srcs": [
+                {
+                    "name": "F-Server",
+                    "url": "https://www.mediafire.com/file/sf5ky6jkzgm4we9",
+                    "size": "928MB",
+                    "quality": "720P",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "F-Server",
+                    "url": "https://www.mediafire.com/file/q8ru6dh9mj555ca",
+                    "size": "928MB",
+                    "quality": "720P",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "F-Server",
+                    "url": "https://www.mediafire.com/file/ymiqc4tfniuq0iv",
+                    "size": "398MB",
+                    "quality": "480P",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "F-Server",
+                    "url": "https://www.mediafire.com/file/qts9g6fpsea28o3",
+                    "size": "398MB",
+                    "quality": "480P",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                }
+            ],
+            "genre": [
+                "Japan",
+                "MMSub"
+            ]
+        },
+        {
+            "p": false,
             "title": "The Love Machine",
             "img": {
                 "potrait": true,
