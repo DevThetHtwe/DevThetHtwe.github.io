@@ -80,6 +80,85 @@
         },
         {
             "p": false,
+            "title": "SSIS-206",
+            "img": {
+                "potrait": true,
+                "url": "https://darktvpre.darktvapp.com/uploads/video_thumb/139.jpg"
+            },
+            "desc": "အကိတ်မင်းသမီးလေး aka asuka ရဲ့ လက်သမား ဘယ်လိုလုပ်ရမယ် ဘယ်အချိန်မှာလုပ်ရမယ်စတဲ့ လက်သမားလုပ်နည်းမျိုးစုံကို သင်ပေးတဲ့ဇာတ်ကားလေးပါ.",
+            "year": "2021",
+            "rating": "",
+            "duration": "",
+            "ongoing": false,
+            "srcs": [
+                {
+                    "name": "F-Server",
+                    "url": "https://www.mediafire.com/file/is1w3fdc1fy2ybe",
+                    "size": "1GB",
+                    "quality": "720P",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "F-Server",
+                    "url": "https://www.mediafire.com/file/pfvgpwi0id7i2gr",
+                    "size": "394MB",
+                    "quality": "480P",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                }
+            ],
+            "genre": [
+                "Japan",
+                "MMSub"
+            ]
+        },
+        {
+            "p": false,
+            "title": "Pacopacomama-072220-001",
+            "img": {
+                "potrait": true,
+                "url": "https://darktvpre.darktvapp.com/uploads/video_thumb/153.jpg"
+            },
+            "desc": "အခြေကြီးလှတဲ့ ကုမ္ပဏီပိုင်ရှင် သူဌေးမကြီးရဲ့ ကုမ္ပဏီကလူတွေနဲ့ နောက်ကွယ်က အဖြစ်သနှစ်လေးပါအပေါ်ယံ မာရေကျောရေ ရှိပြီး စည်းကမ်းကြီးလှတဲ့ သူမဟာ နောက်ကွယ်မှာတော့ ဖြစ်ချင်တိုင်းဖြစ်လို့နေပါတယ် ကုမ္ပဏီဝတ်စုံ ရှပ်အကျီင်္ရဲ့ အောက်မှာ ဘယ်သူမှမတွေးမိမယ့် ဆက်စီအတွင်းဝတ်မျိုးတွေ အမြဲတမ်းဝတ်ဆင်ထားတတ်ပြီး လူလစ်ရင်လစ်သလို ကုမ္ပဏီက လူတွေနဲ့ ကဲလေ့ရှိပါတယ်...",
+            "year": "2014",
+            "rating": "",
+            "duration": "",
+            "ongoing": false,
+            "srcs": [
+                {
+                    "name": "F-Server",
+                    "url": "https://www.mediafire.com/file/bbaaty9vfpt8w9t",
+                    "size": "826MB",
+                    "quality": "720P",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "F-Server",
+                    "url": "https://www.mediafire.com/file/0ol2l75gt7qeoxh",
+                    "size": "358MB",
+                    "quality": "480P",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                }
+            ],
+            "genre": [
+                "Japan",
+                "Uncensored",
+                "MMSub"
+            ]
+        },
+        {
+            "p": false,
             "title": "SSIS-645",
             "img": {
                 "potrait": false,
