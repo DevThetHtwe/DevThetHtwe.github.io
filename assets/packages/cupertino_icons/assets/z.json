@@ -2,6 +2,65 @@
     "data": [
         {
             "p": false,
+            "title": "My Father, Myself",
+            "img": {
+                "potrait": true,
+                "url": "https://m.media-amazon.com/images/M/MV5BMTBjY2VhZmUtNGNjYi00MmZiLWE5ZWEtNjRhZTc3YWQ5MGNhXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_.jpg"
+            },
+            "desc": "",
+            "year": "2022",
+            "rating": "",
+            "duration": "1h 43m",
+            "ongoing": false,
+            "srcs": [
+                {
+                    "name": "Dir-A",
+                    "url": "sUXXV3Or9NuFB6obtOLXLxTCLv/LAE8wHfERtXwKACVOahEW2DbaOVZXyL7wzFp5T9L6nnME8jyPIWRUm4ZJEy7vARPk5Gb8",
+                    "size": "1.7 GB",
+                    "quality": "FHD",
+                    "direct": true,
+                    "dl": false,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "F-Server",
+                    "url": "sUXXV3Or9NuFB6pAs7z6Nezh8vJS9f1jdZmDyXrvdi2HN5Ai/pznJU7MJ4hISFg28YBsxVhvEKLaqPMLBNb06tozfFN8zg0b",
+                    "size": "1.7 GB",
+                    "quality": "FHD",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "F-Server",
+                    "url": "sUXXV3Or9NuFB6pAs7z6Nezh8vJS9f1jdZmDyXrvdi2HN5Ai/pznJU7MetZIfWYqM06AjIbXchmhS425m0EHtU5uZdPoVY8G",
+                    "size": "713 MB",
+                    "quality": "FHD",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "CM",
+                    "url": "https://channelmyanmar.org/18-my-father-myself-2022/",
+                    "size": "Dl Only",
+                    "quality": "Download Only",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                }
+            ],
+            "genre": [
+                "Philippines",
+                "MMSub"
+            ]
+        },
+        {
+            "p": false,
             "title": "MIDV-238",
             "img": {
                 "potrait": false,
