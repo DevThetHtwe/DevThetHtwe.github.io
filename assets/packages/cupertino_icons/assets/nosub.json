@@ -2,6 +2,34 @@
     "data": [
         {
             "p": false,
+            "title": "pmc-434",
+            "img": {
+                "potrait": false,
+                "url": "https://madouqu.com/wp-content/uploads/2023/05/1685237281-778e3dbda54b28b.png"
+            },
+            "desc": "",
+            "year": "",
+            "rating": "",
+            "duration": "",
+            "ongoing": false,
+            "srcs": [
+                {
+                    "name": "F-Server",
+                    "url": "https://www.mediafire.com/file/xafcyjp5lonp9jk",
+                    "size": "346 MB",
+                    "quality": "HD",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                }
+            ],
+            "genre": [
+                "China"
+            ]
+        },
+        {
+            "p": false,
             "title": "pmtc-030",
             "img": {
                 "potrait": false,
