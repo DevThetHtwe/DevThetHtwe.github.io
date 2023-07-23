@@ -2,6 +2,35 @@
     "data": [
         {
             "p": false,
+            "title": "LenaAnderson",
+            "img": {
+                "potrait": true,
+                "url": "https://media.jpegworld.com/galleries/5/e/8/c/a/5e8cabf389c0f/14727-08.jpg"
+            },
+            "desc": "မတည့်အတူနေ သွေးမတော်သားမစပ်ကနေ အတည့်လွန်သွားသော ဇာတ်လမ်းလေး",
+            "year": "",
+            "rating": "",
+            "duration": "",
+            "ongoing": false,
+            "srcs": [
+                {
+                    "name": "F-Server",
+                    "url": "https://www.mediafire.com/file/mc2h5qtmbxogwv3",
+                    "size": "266 MB",
+                    "quality": "HD",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                }
+            ],
+            "genre": [
+                "US",
+                "MMSub"
+            ]
+        },
+        {
+            "p": false,
             "title": "WAAA-222",
             "img": {
                 "potrait": false,
@@ -37,7 +66,7 @@
                     "name": "F-Server",
                     "url": "sUXXV3Or9NuFB6pAs7z6Nezh8vJS9f1jdZmDyXrvdi2HN5Ai/pznJVrNUJpzRzMvZTy8gcYF/M/qHBF8WxMMcE01lQpHCUr/Y0do0g4Nptc=",
                     "size": "1.17 GB",
-                    "quality": "HD",
+                    "quality": "HD [PRO]",
                     "direct": true,
                     "dl": true,
                     "wb": false,
@@ -50,6 +79,35 @@
                     "quality": "HD",
                     "direct": true,
                     "dl": false,
+                    "wb": false,
+                    "srt": ""
+                }
+            ],
+            "genre": [
+                "Japan",
+                "MMSub"
+            ]
+        },
+        {
+            "p": false,
+            "title": "JUY-587",
+            "img": {
+                "potrait": true,
+                "url": "https://darktvpre.darktvapp.com/uploads/video_thumb/71.jpg"
+            },
+            "desc": "Manami Kodo တို့လင်မယားဟာကုမ္ပဏီလေးတစ်ခုကိုဦးဆောင်လုပ်နေကြပါတယ် Manami Kodo တစ်ယောက်ညည့်နက်တဲ့အထိအလုပ်လုပ်ကိုင်ရတဲ့အတွက် ပင်ပန်းနွမ်းနယ်မှုတွေနဲ့ရင်ဆိုင်လာတဲ့အခါမှာတော့ သူတို့ကုမ္ပဏီနားက ဗျုးတီးစလွန်းတစ်ခုကိုသွားရောက်ပြီးတော့ အနားယူခဲ့ပါတယ်...အလုပ်တွေကလဲဆက်တိုက်လုပ်ရတဲ့အတွက် စလွန်းကိုခဏခဏရောက်ဖြစ်ပြီးတော့ တစ်နေ့မှာတော့သူ့ကိုအထူးနည်းလမ်းတွေနဲ့ဝန်ဆောင်မှုပေးလာတဲ့အခါမှာတော့...",
+            "year": "2018",
+            "rating": "",
+            "duration": "118m",
+            "ongoing": false,
+            "srcs": [
+                {
+                    "name": "F-Server",
+                    "url": "https://www.mediafire.com/file/mr27qwpbyfl2wl1",
+                    "size": "581MB",
+                    "quality": "480P",
+                    "direct": false,
+                    "dl": true,
                     "wb": false,
                     "srt": ""
                 }
@@ -85,7 +143,7 @@
                 {
                     "name": "F-Server",
                     "url": "sUXXV3Or9NuFB6pAs7z6Nezh8vJS9f1jdZmDyXrvdi2HN5Ai/pznJU7NQIxIVEwp908Q3xnZjV6PXsK8LnaIBFtKcERgX3fY",
-                    "size": "1.17 GB",
+                    "size": "1.17 GB [PRO]",
                     "quality": "HD",
                     "direct": false,
                     "dl": true,
@@ -1399,38 +1457,9 @@
             "srcs": [
                 {
                     "name": "F-Server",
-                    "url": "http://www.mediafire.com/file/utm855a6zzgo3r5",
+                    "url": "https://www.mediafire.com/file/utm855a6zzgo3r5",
                     "size": "1GB",
                     "quality": "720P",
-                    "direct": false,
-                    "dl": true,
-                    "wb": false,
-                    "srt": ""
-                }
-            ],
-            "genre": [
-                "Japan",
-                "MMSub"
-            ]
-        },
-        {
-            "p": false,
-            "title": "JUY-587",
-            "img": {
-                "potrait": true,
-                "url": "https://darktvpre.darktvapp.com/uploads/video_thumb/71.jpg"
-            },
-            "desc": "Manami Kodo တို့လင်မယားဟာကုမ္ပဏီလေးတစ်ခုကိုဦးဆောင်လုပ်နေကြပါတယ် Manami Kodo တစ်ယောက်ညည့်နက်တဲ့အထိအလုပ်လုပ်ကိုင်ရတဲ့အတွက် ပင်ပန်းနွမ်းနယ်မှုတွေနဲ့ရင်ဆိုင်လာတဲ့အခါမှာတော့ သူတို့ကုမ္ပဏီနားက ဗျုးတီးစလွန်းတစ်ခုကိုသွားရောက်ပြီးတော့ အနားယူခဲ့ပါတယ်...အလုပ်တွေကလဲဆက်တိုက်လုပ်ရတဲ့အတွက် စလွန်းကိုခဏခဏရောက်ဖြစ်ပြီးတော့ တစ်နေ့မှာတော့သူ့ကိုအထူးနည်းလမ်းတွေနဲ့ဝန်ဆောင်မှုပေးလာတဲ့အခါမှာတော့...",
-            "year": "2018",
-            "rating": "",
-            "duration": "118m",
-            "ongoing": false,
-            "srcs": [
-                {
-                    "name": "F-Server",
-                    "url": "http://www.mediafire.com/file/mr27qwpbyfl2wl1",
-                    "size": "581MB",
-                    "quality": "480P",
                     "direct": false,
                     "dl": true,
                     "wb": false,
@@ -40491,7 +40520,7 @@
             "title": "Army Teen in Action",
             "img": {
                 "potrait": true,
-                "url": "http://crazyimg.com/images/2019/02/blc8ukv18yx3iaq9rak7.jpg"
+                "url": "https://crazyimg.com/images/2019/02/blc8ukv18yx3iaq9rak7.jpg"
             },
             "desc": "စစ်မေ အလန်းလေးက ရန်သူ့ဘက်က သုံ့ပန်းကို ပရော်ဖက်ရှင်နယ်ကျကျ နာမည်မေးနည်းနဲ့ မေးတဲ့ ဇာတ်ကားလေး တင်ဆက်ပေးလိုက်ပါတယ်. ဒီဇာတ်လမ်းလေးကိုကြည့်ပြီး နာမည် အမေးခံချင်သွားကြမှာတော့ အသေအချာပါပဲ. ",
             "year": "2019",
@@ -40777,7 +40806,7 @@
             "title": "DASD-900",
             "img": {
                 "potrait": false,
-                "url": "http://pics.dmm.co.jp/mono/movie/adult/dasd900/dasd900pl.jpg"
+                "url": "https://pics.dmm.co.jp/mono/movie/adult/dasd900/dasd900pl.jpg"
             },
             "desc": "ဟင်းချက်သင်တန်းဖွင့်ထားတဲ့ ဆရာမလေးက \r\nအိမ်ထောင်ရှင် ဦးလေးကြီးတစ်ယောက်ကို ဟင်းချက်သင်ပေးရာကနေ အထောင်းခံလိုက်ရတယ်\r\nမင်းသမီးနာမည် Akari Mitani",
             "year": "",
@@ -47728,7 +47757,7 @@
             "title": "SBNR-328",
             "img": {
                 "potrait": false,
-                "url": "http://pics.r18.com/digital/video/h_102sbnr00328/h_102sbnr00328pl.jpg"
+                "url": "https://pics.r18.com/digital/video/h_102sbnr00328/h_102sbnr00328pl.jpg"
             },
             "desc": "ဇာတ်လမ်းလေးကတော့အိမ်ထောင်ရှင်မိန်းကလေးတစ်ယောက်နဲ့အိမ်နီးနားချင်းအဖိုးကြီးတစ်ယောက်တို့ကိုဇာတ်အိမ်ပြုထားပါတယ်။အဖိုးကြီးကအသက်သာကြီးတာစိတ်ကနှာထနေတုန်းပဲတော်တော်ထန်တယ်ပေါ့။ဘာတွေဆက်ဖြစ်လာမလဲဆိုတာဇာတ်လမ်းမှာကိုယ်တိုင်ဝင်ကြည့်ပြီးရှု့စားကြပါ။",
             "year": "2021",
@@ -47956,7 +47985,7 @@
             "title": "JUQ-171",
             "img": {
                 "potrait": false,
-                "url": "http://pics.dmm.co.jp/mono/movie/adult/juq171/juq171pl.jpg"
+                "url": "https://pics.dmm.co.jp/mono/movie/adult/juq171/juq171pl.jpg"
             },
             "desc": "သူဌေးမက ၀န်ထမ်းကို အပြစ်ပေးတဲ့အနေနဲ့ စိတ်တိုပြီးတော့ သူနဲ့ လုပ်ခိုင်းတဲ့ကားလေး.",
             "year": "2023",
@@ -49950,7 +49979,7 @@
             "srcs": [
                 {
                     "name": "OF-Server",
-                    "url": "http://www.mediafire.com/file/9c7y9yym0xppn9k/%255BDark_TV_2%255D_JUL_241.mp4/file",
+                    "url": "https://www.mediafire.com/file/9c7y9yym0xppn9k/%255BDark_TV_2%255D_JUL_241.mp4/file",
                     "size": "752 MB",
                     "quality": "Sd",
                     "direct": false,
@@ -56910,7 +56939,7 @@
             "title": "MIAA-519",
             "img": {
                 "potrait": false,
-                "url": "http://pics.dmm.co.jp/mono/movie/adult/miaa519/miaa519pl.jpg"
+                "url": "https://pics.dmm.co.jp/mono/movie/adult/miaa519/miaa519pl.jpg"
             },
             "desc": "JAV မင်းသမီးတွေထဲ Mina Kitano ကို သတိထားမိနေတာကြာပါပြီ… ဖွံ့ထွားတဲ့အစိတ်အပိုင်းတွေအပြင် ဇာတ်လမ်းတိုင်းမှာ Horny ဖြစ်လွန်းပြီး တက်ကြွလွန်းတဲ့ သူ့ပုံစံက သူများတွေနဲ့ မတူကွဲထွက်နေတာမျိုးပါ…သူ့အထာကိုမြည်းစမ်းလို့ရအောင် တစ်ကားလောက်တင်ဆက်လိုက်ပါတယ်…ဇာတ်လမ်းကတော့…ဘားဆိုင်လေးမှာရုန်းကန်နေရတဲ့ ဆိုင်ရှင်သူဌေးခင်ဗျာ ကိုဗစ်ရဲ့ထုထောင်းမှုတွေကြောင့် ဆိုင်ကို လည်ပတ်အောင်မနည်းကြိုးစားနေရပါတယ်..\r\nဒါပေမဲ့ သူ့ရဲ့ဆိုင်ဝန်ထမ်းလေးကတော့ အမောပြေနှလုံးအေးလောက်စရာ အလှနဲ့ ကီတာနိုမီရာ လေးပါ..\r\nမီရာလေးက သူ့ရဲ့ဘောစ်တစ်ယောက် ဆိုင်ရဲ့ဖိအား အိမ်ကမိန်းမရဲ့ဖိအားတွေကြား ဗျာများနေတာ မကြည့်ရက်တော့ စိတ်အပန်းပြေလေး ဘယ်လိုတွေပြုစုပေးမလဲဆိုတာ…။\r\n\r\nစီးပွားပျက်ပေမဲ့ အချစ်မငတ်တဲ့ သူဌေးမင်းကို အားပေးကြည့်ရှုလို့ရပါပြီ",
             "year": "2021",
@@ -61074,7 +61103,7 @@
             "title": "Obscene House: Slave Wife",
             "img": {
                 "potrait": true,
-                "url": "http://photos.hancinema.net/photos/photo1158196.jpg"
+                "url": "https://photos.hancinema.net/photos/photo1158196.jpg"
             },
             "desc": "နယ်ဘက်က အိမ်ယာတစ်ခုစီ ပြောင်းရွှေ့လာသော ဇနီးမောင်နှံတစ်တွဲဟာအိမ်အသစ်က တိတ်ဆိတ်ပြီး အသံလုံတာကြောင့် သဘောကျနေပါတယ်…\r\nဒါပေမယ့် အရမ်းတိတ်ဆိတ်လွန်းတာကြောင့် လူနေတာရော ဟုတ်ရဲ့လားဆိုပြီး သံသယဝင်လာပါတော့တယ်…\r\nဒါ့အပြင် အိမ်ထဲမှာ ထူးဆန်းတဲ့ပစ္စည်းတွေ ရောက်နေတာမျိုးတစ်ယောက်ယောက်က အိမ်ထဲကို ဝင်နေတဲ့ သဲလွန်စတွေ တွေ့နေတာကြောင့် ထိန်းသိမ်းရေးရုံးကို သွားပြီးအကြောင်းကြားလိုက်ပါတယ်…\r\nထိန်းသိမ်းရေးမှုးပြောတဲ့အတိုင်း လုပ်ပေမယ့် ဘာမှမထူးခြားတာကြောင့် ကိုယ်တိုင်စုံစမ်းတဲ့အခါ ဘာတွေဆက်ဖြစ်လာမလဲဆိုတာ ဆက်လက်ကြည့်ရှုလိုက်ပါဦး…ဇာတ်လမ်းဘာညာနဲ့ လှပညက်ညောတဲ့အခန်းတွေပါတာမို့လို့မိသားစုနဲ့အတူမကြည့်သင့်ပါဘူး…",
             "year": "2020",
@@ -62524,7 +62553,7 @@
             "title": "BrattySis Messing With My Step Sister",
             "img": {
                 "potrait": true,
-                "url": "http://hidefporn.ws/uploads/posts/2018-05/1526050041_5951_hidefporn_ws.jpg"
+                "url": "https://hidefporn.ws/uploads/posts/2018-05/1526050041_5951_hidefporn_ws.jpg"
             },
             "desc": "အမြဲရန်ဖြစ်နေကြတဲ့‌ မောင်နှမ နှစ်ယောက်ရဲ့ အင်းဆက် ဇာတ်လမ်းလေးပါ .. ညီမက တအားချစ်ဖို့ကောင်းတော့ အစ်ကိုဖြစ်သူက အချိန်တိုင်းလိုက်စချင်နေတာ.. ဒီလိုနဲ့ပဲ...",
             "year": "2018",
@@ -63772,7 +63801,7 @@
             "title": "SBNR-305",
             "img": {
                 "potrait": false,
-                "url": "http://pics.r18.com/digital/video/h_102sbnr00305/h_102sbnr00305pl.jpg"
+                "url": "https://pics.r18.com/digital/video/h_102sbnr00305/h_102sbnr00305pl.jpg"
             },
             "desc": "သားဖြစ်သူ တာဝန်မကျေမှု . ချွေးမအပေါ် ဖောက်ပြန်မှုတွေကို ခန္ဓာနဲ့ ရင်းပြီး ပေးဆပ် အနစ်နာခံတဲ့ ယောက္ခထီးကြီးအကြောင်းကို ရှုစားကြရမှာပဲဖြစ်ပါတယ်.. ",
             "year": "2019",
@@ -64484,7 +64513,7 @@
             "title": "WHY SHOULD YOU HAVE ALL THE FUN",
             "img": {
                 "potrait": true,
-                "url": "http://images.xbiz.com/images/videos/269424_front.jpg/t/1665614833"
+                "url": "https://images.xbiz.com/images/videos/269424_front.jpg/t/1665614833"
             },
             "desc": "ဒေးဗစ်က ရေချိုးခန်းထဲမှာ မိထွေးကို ကံကောင်းပြီး ဗျင်းလိုက်ခွင့်ရခဲ့တဲ့အကြောင်းကို အချစ်ဆုံးသူငယ်ချင်းကို ပြောလိုက်မိရာကနေ ... သူငယ်ချင်းနဲ့ ပေါင်းပြီး ဘာတွေဆက်ဖြစ်မယ်ဆိုတာ.",
             "year": "",
