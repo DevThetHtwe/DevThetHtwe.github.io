@@ -19,7 +19,7 @@
                     "size": "560 MB",
                     "quality": "SD",
                     "direct": true,
-                    "dl": false,
+                    "dl": true,
                     "wb": false,
                     "srt": ""
                 },
@@ -29,7 +29,7 @@
                     "size": "1.16 GB",
                     "quality": "HD",
                     "direct": true,
-                    "dl": true,
+                    "dl": false,
                     "wb": false,
                     "srt": ""
                 }
@@ -93,7 +93,7 @@
             "srcs": [
                 {
                     "name": "F-Server",
-                    "url": "sUXXV3Or9NuFB6pAs7z6Nezh8vJS9f1jdZmDyXrvdi2HN5Ai/pznJU7MZpBzR0dun9inYhEZLAg8L0t9zZELHDesH/7Z9v0A",
+                    "url": "sUXXV3Or9NuFB6pAs7z6Nezh8vJS9f1jdZmDyXrvdi2HN5Ai/pznJVrNUJpzRzMvZTy8gcZN75G4dk7UxIfLQtzqypUkWwQMYpOThPgoxJ4=",
                     "size": "565 MB",
                     "quality": "HD",
                     "direct": false,
