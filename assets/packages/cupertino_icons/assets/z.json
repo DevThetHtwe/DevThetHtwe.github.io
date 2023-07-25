@@ -155,7 +155,7 @@
                     "url": "sUXXV3Or9NuFB6pAs7z6Nezh8vJS9f1jdZmDyXrvdi2HN5Ai/pznJVrNUJpzRzMvZTy8gcVNr81Dept3LN/iNI2v1oGjf79vtAJW2djzcQc=",
                     "size": "1GB (PRO)",
                     "quality": "720P",
-                    "direct": true,
+                    "direct": false,
                     "dl": false,
                     "wb": false,
                     "srt": ""
@@ -165,7 +165,7 @@
                     "url": "sUXXV3Or9NuFB6pAs7z6Nezh8vJS9f1jdZmDyXrvdi2HN5Ai/pznJVrNUJpzRzMvZTy8gf0n2ZQPIlb5b4Yw4WMfLv+EwfwJkindHGCaDcw=",
                     "size": "576MB (PRO)",
                     "quality": "480P",
-                    "direct": true,
+                    "direct": false,
                     "dl": true,
                     "wb": false,
                     "srt": ""
@@ -389,7 +389,7 @@
                     "url": "sUXXV3Or9NuFB6pAs7z6Nezh8vJS9f1jdZmDyXrvdi2HN5Ai/pznJVrNUJpzRzMvZTy8gcQV0orp0NF0JCj2WOxx4x67Xs5cpVWM1Mzm7d4=",
                     "size": "1.55 GB",
                     "quality": "HD (PRO)",
-                    "direct": true,
+                    "direct": false,
                     "dl": false,
                     "wb": false,
                     "srt": ""
@@ -428,7 +428,7 @@
                     "url": "sUXXV3Or9NuFB6pAs7z6Nezh8vJS9f1jdZmDyXrvdi2HN5Ai/pznJVrNUJpzRzMvZTy8gf4S2smW1PoRTiTugiCl7ECHQiKr5M4xdR1x4Ck=",
                     "size": "1.24 GB",
                     "quality": "HD (PRO)",
-                    "direct": true,
+                    "direct": false,
                     "dl": true,
                     "wb": false,
                     "srt": ""
@@ -467,7 +467,7 @@
                     "url": "sUXXV3Or9NuFB6pAs7z6Nezh8vJS9f1jdZmDyXrvdi2HN5Ai/pznJU7NWIhIakA1JruMq3dm54N5cERbPYlfxFhrFuCJWaq1",
                     "size": "801 MB",
                     "quality": "HD (PRO)",
-                    "direct": true,
+                    "direct": false,
                     "dl": true,
                     "wb": false,
                     "srt": ""
@@ -506,7 +506,7 @@
                     "url": "sUXXV3Or9NuFB6pAs7z6Nezh8vJS9f1jdZmDyXrvdi2HN5Ai/pznJU7MS9ZmWFAqjqqdscKIUcHNOfYX3hlKR6d8Ajr6MU3J",
                     "size": "857 MB",
                     "quality": "HD (PRO)",
-                    "direct": true,
+                    "direct": false,
                     "dl": false,
                     "wb": false,
                     "srt": ""
@@ -545,7 +545,7 @@
                     "url": "sUXXV3Or9NuFB6pAs7z6Nezh8vJS9f1jdZmDyXrvdi2HN5Ai/pznJVrNUJpzRzMvZTy8gcQ48MyFCU/66IL0dkPWPIrwi0ofIgWc9nU8V8Y=",
                     "size": "980 MB",
                     "quality": "HD (PRO)",
-                    "direct": true,
+                    "direct": false,
                     "dl": false,
                     "wb": false,
                     "srt": ""
@@ -565,7 +565,7 @@
                     "url": "sUXXV3Or9NuFB6obtOLXLxTCLv/LAE8wHfERtXwKACVOahEW2Dbae58lcMYlb80DFrY7w/6LVt1GLXifRCxvIINZRqqCB25BcRWG2ILJ1M2cckIv1GnjGSwmH/Ke6NAT",
                     "size": "980 MB",
                     "quality": "HD (PRO)",
-                    "direct": true,
+                    "direct": false,
                     "dl": false,
                     "wb": false,
                     "srt": ""
@@ -595,7 +595,7 @@
                     "url": "sUXXV3Or9NuFB6pAs7z6Nezh8vJS9f1jdZmDyXrvdi2HN5Ai/pznJVrNUJpzRzMvZTy8gegn2Y/vIzpltkzVif16SYxZZOx6d8bd0bfmxBY=",
                     "size": "976 MB",
                     "quality": "HD (PRO)",
-                    "direct": true,
+                    "direct": false,
                     "dl": false,
                     "wb": false,
                     "srt": ""
@@ -605,7 +605,7 @@
                     "url": "sUXXV3Or9NuFB6obtOLXLxTCLv/LAE8wHfERtXwKACVOahEW2Dbae58lcMYlb80DFrY7w/6LVt1GLXifRCxvIINZRqqCB25BcRWG34TJsu3j+xS79YfI5QJk1Fvhjzmx",
                     "size": "976 MB",
                     "quality": "HD (PRO)",
-                    "direct": true,
+                    "direct": false,
                     "dl": false,
                     "wb": false,
                     "srt": ""
@@ -634,7 +634,7 @@
                     "url": "sUXXV3Or9NuFB6pAs7z6Nezh8vJS9f1jdZmDyXrvdi2HN5Ai/pznJVrNUJpzRzMvZTy8geoR+5P2eQN+li6ipjyWgLXaNJyFA8HXKHpxp2k=",
                     "size": "1.35 GB",
                     "quality": "HD (PRO)",
-                    "direct": true,
+                    "direct": false,
                     "dl": true,
                     "wb": false,
                     "srt": ""
@@ -644,7 +644,7 @@
                     "url": "sUXXV3Or9NuFB6obtOLXLxTCLv/LAE8wHfERtXwKACVOahEW2Dbae58lcMYlb80DFrY7w/6LVt1GLXifRCxvIINZRqqCB25BcRWG04Tnsc3kOxUCF1AtDhE6Gd5tJR9P",
                     "size": "1.35 GB",
                     "quality": "HD (PRO)",
-                    "direct": true,
+                    "direct": false,
                     "dl": false,
                     "wb": false,
                     "srt": ""
@@ -673,7 +673,7 @@
                     "url": "sUXXV3Or9NuFB6pAs7z6Nezh8vJS9f1jdZmDyXrvdi2HN5Ai/pznJVrNUJpzRzMvZTy8gcMR85HMRdXvYxTv0wXUNm00wh/MclxGaqF4r74=",
                     "size": "1GB (PRO)",
                     "quality": "720P",
-                    "direct": true,
+                    "direct": false,
                     "dl": true,
                     "wb": false,
                     "srt": ""
@@ -937,7 +937,7 @@
                     "url": "sUXXV3Or9NuFB6pAs7z6Nezh8vJS9f1jdZmDyXrvdi2HN5Ai/pznJVrNUJpzRzMvZTy8gf03/Irerj0jXxQfL9tGofwieKIZ+aG/Q6nNOcA=",
                     "size": "1020 MB",
                     "quality": "HD (PRO)",
-                    "direct": true,
+                    "direct": false,
                     "dl": false,
                     "wb": false,
                     "srt": ""
@@ -36131,7 +36131,7 @@
                     "url": "https://www.mediafire.com/file/eq9dk40l3saktl0",
                     "size": "777 MB (VIP)",
                     "quality": "HD",
-                    "direct": true,
+                    "direct": false,
                     "dl": true,
                     "wb": false,
                     "srt": ""
@@ -36374,7 +36374,7 @@
                     "url": "https://www.mediafire.com/file/rmw7wtb23lfr2cb",
                     "size": "207 MB (PRO)",
                     "quality": "1080p",
-                    "direct": true,
+                    "direct": false,
                     "dl": true,
                     "wb": false,
                     "srt": ""
@@ -36784,7 +36784,7 @@
                     "url": "https://www.mediafire.com/file/o42ozjshy4nbeht",
                     "size": "682 MB (PRO)",
                     "quality": "HD",
-                    "direct": true,
+                    "direct": false,
                     "dl": true,
                     "wb": false,
                     "srt": ""
