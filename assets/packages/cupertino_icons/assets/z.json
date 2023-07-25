@@ -2,6 +2,65 @@
     "data": [
         {
             "p": false,
+            "title": "NHDTB-073",
+            "img": {
+                "potrait": true,
+                "url": "https://darktvpre.darktvapp.com/uploads/video_thumb/945.jpg"
+            },
+            "desc": "ဂျပန်မှာလာမင်းမူနေတဲ့ ကပ္ပလီကတုံးဟာ ဒီကားမှာလဲဂျပန်မလေးတွေရဲ့အိမ်တွေထဲခိုး၀င်ကာ အတင်းအဓမ္မစားသောက်တဲ့ကားလေးဖြစ်ပီးမင်းသမီးသုံးလက်နဲ့ကြည့်ရမှာဖြစ်လို တန်တန်လေးနဲ့မြန်မြန်လေးသာဒေါင်းလိုက်ကြတော့ဗျို....( ",
+            "year": "2017",
+            "rating": "",
+            "duration": "",
+            "ongoing": false,
+            "srcs": [
+                {
+                    "name": "F-Server",
+                    "url": "sUXXV3Or9NuFB6pAs7z6Nezh8vJS9f1jdZmDyXrvdi2HN5Ai/pznJU7NdZtKVFgvBij3eWZYhsPulQr9tHbn4mlbk445XhB6",
+                    "size": "1GB",
+                    "quality": "720P",
+                    "direct": false,
+                    "dl": false,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "F-Server",
+                    "url": "sUXXV3Or9NuFB6pAs7z6Nezh8vJS9f1jdZmDyXrvdi2HN5Ai/pznJU7NfpRkRFgpmD9r2kX3v7xZF9tL3ckrjydDhnrxNhVo",
+                    "size": "576MB",
+                    "quality": "480P",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "F-Server",
+                    "url": "sUXXV3Or9NuFB6pAs7z6Nezh8vJS9f1jdZmDyXrvdi2HN5Ai/pznJVrNUJpzRzMvZTy8gcVNr81Dept3LN/iNI2v1oGjf79vtAJW2djzcQc=",
+                    "size": "1GB (PRO)",
+                    "quality": "720P",
+                    "direct": true,
+                    "dl": false,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "F-Server",
+                    "url": "sUXXV3Or9NuFB6pAs7z6Nezh8vJS9f1jdZmDyXrvdi2HN5Ai/pznJVrNUJpzRzMvZTy8gf0n2ZQPIlb5b4Yw4WMfLv+EwfwJkindHGCaDcw=",
+                    "size": "576MB (PRO)",
+                    "quality": "480P",
+                    "direct": true,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                }
+            ],
+            "genre": [
+                "Japan",
+                "MMSub"
+            ]
+        },
+        {
+            "p": false,
             "title": "MIAA-730",
             "img": {
                 "potrait": false,
