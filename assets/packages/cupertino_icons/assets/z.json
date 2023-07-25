@@ -2,6 +2,84 @@
     "data": [
         {
             "p": false,
+            "title": "WANZ-834",
+            "img": {
+                "potrait": true,
+                "url": "https://darktvpre.darktvapp.com/uploads/video_thumb/100.jpg"
+            },
+            "desc": "ကောင်မလေးကို လိမ္မော်ရည်ထဲဆေးခတ်ပြီး တိုက်ဖို့ကြံစည်တဲ့ နှာဗူး MC တစ်ယောက် ကိုယ့်အတတ်ကိုယ်စူးပြီး ကိုယ့်အစ်မအရင်းကို ဆေးခတ်မိလျက်သားဖြစ်သွားခဲံပါတယ် အပြင်ကပြန်လာပြီး လိမ္မော်ရည်ကိုတွေ့လို့ အငမ်းမရသောက်မိတဲ့ Aika တစ်ယောက် မောင်အရင်းကို သူ့ကောင်မလေးရှေ့တင် ဒီဂျေပေးမိလျက်သားဖြစ်သွားခဲ့ပါတယ် နဂိုတည်းက night club မျိုးစုံမှာကဲလေ့ရှိတဲ့ Aika လေးဟာ သူမရဲ့မောင်လေးကို ဘယ်လို ပါ၀ါတွေထုတ်သုံးပြီး တောက်လျှောက်အနိုင်ကျင့်မလဲဆိုတာကတော့....",
+            "year": "2019",
+            "rating": "",
+            "duration": "",
+            "ongoing": false,
+            "srcs": [
+                {
+                    "name": "F-Server",
+                    "url": "sUXXV3Or9NuFB6pAs7z6Nezh8vJS9f1jdZmDyXrvdi2HN5Ai/pznJU7MdddLV2UmhCp0sdgO/jWojhb8AEM3cfn+vcUJzyYz",
+                    "size": "1GB",
+                    "quality": "720P",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "F-Server",
+                    "url": "sUXXV3Or9NuFB6pAs7z6Nezh8vJS9f1jdZmDyXrvdi2HN5Ai/pznJU6EX9JnelclEbu4+LEbgjD+m62jKxNA3ZwocE83J+JD",
+                    "size": "366MB",
+                    "quality": "480P",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                }
+            ],
+            "genre": [
+                "Japan",
+                "MMSub"
+            ]
+        },
+        {
+            "p": false,
+            "title": "PRED-233",
+            "img": {
+                "potrait": true,
+                "url": "https://darktvpre.darktvapp.com/uploads/video_thumb/101.jpg"
+            },
+            "desc": "ဖျင်ကိုင်ကြမ်းတဲ့ တင်လှိုင်သန်းအကြောင်းပါ MC တစ်ယောက် တိုကျိုက အကို့အိမ်ကိုရောက်ခါစ toilet နဲ့ ရေချိုးခန်းမှားပြီး မရီးဖျင်ကြီးကိုမြင်မိရာမှ ဇာတ်လမ်း စပါတယ် မရီးကိုမြင်တိုင်း မျက်နှာကိုတည့်တည့်မကြည့်ဘဲ ဖျင်ကြီးကိုပဲ ကြည့်နေမိတဲ့ MC တျောက် အကို့မိန်းမကို ဘယ်လို မူလီ ကူလီ ကြာကူလီ လုပ်ပြီး ဖျင်ကိုင်ခွင့်ရဖို့ကြိုးစားမလဲဆိုတာကတော့......",
+            "year": "2020",
+            "rating": "",
+            "duration": "",
+            "ongoing": false,
+            "srcs": [
+                {
+                    "name": "F-Server",
+                    "url": "sUXXV3Or9NuFB6pAs7z6Nezh8vJS9f1jdZmDyXrvdi2HN5Ai/pznJU6ERJRwfkwwBf3Wjktx9QtU0iea14S2R8rBcVkpbeWL",
+                    "size": "1GB",
+                    "quality": "720P",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "F-Server",
+                    "url": "sUXXV3Or9NuFB6pAs7z6Nezh8vJS9f1jdZmDyXrvdi2HN5Ai/pznJU7NfotzIjcq9drArezd7nNGgR6yRMHeuHwes++legsb",
+                    "size": "413MB",
+                    "quality": "480P",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                }
+            ],
+            "genre": [
+                "Japan",
+                "MMSub"
+            ]
+        },
+        {
+            "p": false,
             "title": "NHDTB-073",
             "img": {
                 "potrait": true,
