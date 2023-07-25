@@ -2,6 +2,35 @@
     "data": [
         {
             "p": false,
+            "title": "Chica Peligrosa",
+            "img": {
+                "potrait": true,
+                "url": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/0daa8a5063b15512d8dac6f9a36bba83609bc57039652b36ec51789bd4647ee4._RI_TTW_.png"
+            },
+            "desc": "",
+            "year": "2023",
+            "rating": "",
+            "duration": "1h 51m",
+            "ongoing": false,
+            "srcs": [
+                {
+                    "name": "F-Server",
+                    "url": "sUXXV3Or9NuFB6pAs7z6Nezh8vJS9f1jdZmDyXrvdi2HN5Ai/pznJU7Meo5Kek9sPQj5zp8LCo0gZGGh4uZ3OMqrLDOBQfJ9",
+                    "size": "794 MB",
+                    "quality": "HD",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                }
+            ],
+            "genre": [
+                "US",
+                "MMSub"
+            ]
+        },
+        {
+            "p": false,
             "title": "EBOD-462",
             "img": {
                 "potrait": false,
