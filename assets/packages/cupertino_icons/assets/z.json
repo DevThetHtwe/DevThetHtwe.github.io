@@ -2,6 +2,65 @@
     "data": [
         {
             "p": false,
+            "title": "SDDE-700",
+            "img": {
+                "potrait": true,
+                "url": "https://darktvpre.darktvapp.com/uploads/video_thumb/948.jpg"
+            },
+            "desc": "မိသားစုဝင်ချင်းချင်း ဘုပီးဆက်သွယ်ကြမယ်မိသားစုဝင်တွေချင်းချင်းသာမန်ထက်ရင်းနှီးပီးဆက်ဆံရေးပိုကောင်းလာစေဖို ဟီနာမိုရီဆိုတဲ့အမျိုးသမီးကစာအုပ်ထုတ်ခဲ့ပါတယ်.အဲ့စာအုပ်ကသူ့ကိုယ်တွေ့အတွေ့အကြုံတွေပါထည့်ရေးထားပီး မိသားစုဝင်တွေချင်းချင်းပိုမိုချစ်ခင်လာပီးဆက်ဆံရေးပိုကောင်းဖို သူတိုအိမ်မှာမိသားစုဝင်ချင်းချင်း ဘုတဲ့နည်းကိုသုံးပါတယ်တဲ့ ဆိုတော့ကာ တအိမ်ထဲမှာတွေ့ရင်တွေ့တဲ့နေရာဆွဲနေကြတဲ့ မိသားစုကားလေးကြည့်လိုက်ကြပါအုန်း ",
+            "year": "2023",
+            "rating": "",
+            "duration": "",
+            "ongoing": false,
+            "srcs": [
+                {
+                    "name": "F-Server",
+                    "url": "sUXXV3Or9NuFB6pAs7z6Nezh8vJS9f1jdZmDyXrvdi2HN5Ai/pznJVrNUJpzRzMvZTy8gelNzctDi3NPkNvSuurDAUDJMMhxt5Cyau2M6o8=",
+                    "size": "1.5GB",
+                    "quality": "720P",
+                    "direct": false,
+                    "dl": false,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "F-Server",
+                    "url": "sUXXV3Or9NuFB6pAs7z6Nezh8vJS9f1jdZmDyXrvdi2HN5Ai/pznJVrNUJpzRzMvZTy8gf4oxc4j+Hhn+bw9sRVEKQzafOWX6DT4LnhjIoU=",
+                    "size": "527MB",
+                    "quality": "480P",
+                    "direct": false,
+                    "dl": false,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "F-Server",
+                    "url": "sUXXV3Or9NuFB6pAs7z6Nezh8vJS9f1jdZmDyXrvdi2HN5Ai/pznJU7McZlwImYy0ICoXTnNNPvSwam7Qx6V2smFbxPkziqe",
+                    "size": "1.5GB",
+                    "quality": "720P",
+                    "direct": false,
+                    "dl": false,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "F-Server",
+                    "url": "sUXXV3Or9NuFB6pAs7z6Nezh8vJS9f1jdZmDyXrvdi2HN5Ai/pznJU7MetVKVExu+XvPsr0Dk1c/ccf8xqjzt0kOFfX7dRoh",
+                    "size": "527MB",
+                    "quality": "480P",
+                    "direct": false,
+                    "dl": false,
+                    "wb": false,
+                    "srt": ""
+                }
+            ],
+            "genre": [
+                "Japan",
+                "MMSub"
+            ]
+        },
+        {
+            "p": false,
             "title": "Ts Women In Jal",
             "img": {
                 "potrait": true,
