@@ -2,6 +2,35 @@
     "data": [
         {
             "p": false,
+            "title": "Bugaw",
+            "img": {
+                "potrait": true,
+                "url": "https://m.media-amazon.com/images/M/MV5BMGQ0ZmIxZTItMDZlOC00OGZjLTk3ZDQtZGRmNmVkYzQ0N2IyXkEyXkFqcGdeQXVyNDQ4NjgyNzg@._V1_.jpg"
+            },
+            "desc": "",
+            "year": "2023",
+            "rating": "",
+            "duration": "1h 30m",
+            "ongoing": false,
+            "srcs": [
+                {
+                    "name": "F-Server",
+                    "url": "sUXXV3Or9NuFB6pAs7z6Nezh8vJS9f1jdZmDyXrvdi2HN5Ai/pznJU7NX9FkfTNuWyWlO9PFDuyDFOeVmXmk+3Cc8Fjc89jb",
+                    "size": "685 MB",
+                    "quality": "HD",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                }
+            ],
+            "genre": [
+                "Philippines",
+                "MMSub"
+            ]
+        },
+        {
+            "p": false,
             "title": "Over Her Head",
             "img": {
                 "potrait": true,
@@ -155,6 +184,35 @@
                 "Japan",
                 "MMSub",
                 "Zkar"
+            ]
+        },
+        {
+            "p": false,
+            "title": "Sisid",
+            "img": {
+                "potrait": true,
+                "url": "https://m.media-amazon.com/images/M/MV5BNDQwYTBjODUtZmMwNy00MTg2LWEwN2UtZDA3MTNhY2I1OThjXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_FMjpg_UX1000_.jpg"
+            },
+            "desc": "BL ဘက်ကိုနွယ်တဲ့ဇာတ်ကားဖြစ်ပေမယ့် မင်းသမီးတွေဘက်ကိုလဲ အသားပေးမှုမလျော့တာကြောင့် လင်းတဲ့အခန်းတွေလင်းပေမယ့် မှောင်တဲ့အခန်းတွေလဲတော်တော်မှောင်ပါတယ်။",
+            "year": "2022",
+            "rating": "6.1",
+            "duration": "1h 55m",
+            "ongoing": false,
+            "srcs": [
+                {
+                    "name": "F-Server",
+                    "url": "sUXXV3Or9NuFB6pAs7z6Nezh8vJS9f1jdZmDyXrvdi2HN5Ai/pznJU6EQJNwR2UoJlhiq+vX9sAEoLdZOokv4gL3S5NHxvxp",
+                    "size": "1.09 GB",
+                    "quality": "HD",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                }
+            ],
+            "genre": [
+                "Philippines",
+                "MMSub"
             ]
         },
         {
