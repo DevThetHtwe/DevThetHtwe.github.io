@@ -1,5 +1,42 @@
 [
     {
+        "league": "FIFA Women's World Cup",
+        "date": "Jul 28",
+        "time": "06:30 AM",
+        "himg": "https://ssl.gstatic.com/onebox/media/sports/logos/1xBWyjjkA6vEWopPK3lIPA_96x96.png",
+        "aimg": "https://ssl.gstatic.com/onebox/media/sports/logos/EGwD4_SUlmwZWbnHhcmTPA_96x96.png",
+        "teams": "Argentina Vs South Africa",
+        "hteam": "Argentina",
+        "ateam": "South Africa",
+        "hotmat": "",
+        "link": [
+            {
+                "type": "Live",
+                "livelink": "https://pull01.rrwes.live/live/stream-991121_lsd.m3u8?txSecret=0808305c0f6503cab14a5541574aee35&txTime=64beab5c"
+            },
+            {
+                "type": "Live",
+                "livelink": "https://pull01.rrwes.live/live/stream-434154_lsd.m3u8?txSecret=b61fe698f0a6df08fab00f2d028dfbde&txTime=64beab98"
+            },
+            {
+                "type": "Live - HD",
+                "livelink": "https://pull01.rrwes.live/live/stream-991121_lhd.m3u8?txSecret=58875999e1c2b93fe978115d3e5cbb3f&txTime=64beab5c"
+            },
+            {
+                "type": "Live - HD",
+                "livelink": "https://pull01.rrwes.live/live/stream-434154_lhd.m3u8?txSecret=445d9a548aaf117d47e7e881f75dd202&txTime=64beab98"
+            },
+            {
+                "type": "Live - HD",
+                "livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
+            },
+            {
+                "type": "Live",
+                "livelink": "https://obevcimanyd179314182.thapcam.link/live/may1FHD/chunklist.m3u8"
+            }
+        ]
+    },
+    {
         "league": "Club Friendly",
         "date": "Jul 28",
         "time": "09:00 AM",
@@ -13,6 +50,30 @@
             {
                 "type": "HB Live",
                 "livelink": "<iframe allowfullscreen=\"\" autoplay=\"off\" frameborder=\"1\" height=\"400px\" marginheight=\"400px\" marginwidth=\"700px\" name=\"myiFrame\" opacity=\"0\" scrolling=\"no\" src=\"https://player.huminbird.cn/detail.html?v=102&amp;type=1&amp;pid=6&amp;isTips=1&amp;&amp;sbtcolor=0044d6&amp;isLogin=1&amp;pfont=65px&amp;mid=3976970\" style=\"border: 0px #ffffff none;\" width=\"550px\"></iframe>"
+            },
+            {
+                "type": "Live",
+                "livelink": "https://pullalilive.livnvess.com/live/stream-991140_ld.m3u8?auth_key=1690216348-0-0-b2686796d4ce1f31d636069536857638"
+            },
+            {
+                "type": "Live",
+                "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991128_lsd.m3u8?auth_key=1690198348-0-0-0bbb01696ad90d74fd869041bb8c4cca&user_session_id=6db1b1bec8a8c8378382d143f4443fcc&edge_slice=true&sub_m3u8=true"
+            },
+            {
+                "type": "Live - HD",
+                "livelink": "https://pullalilive.livnvess.com/live/stream-991140.m3u8?auth_key=1690216348-0-0-5c6e82768e15b64321386b18033b5b5b"
+            },
+            {
+                "type": "Live - HD",
+                "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991128_lhd.m3u8?auth_key=1690198348-0-0-94558db165876d4a7b8d184ec82e98be&user_session_id=8d4eae36d018f4f826c32c4b29199051&edge_slice=true&sub_m3u8=true"
+            },
+            {
+                "type": "Live - HD",
+                "livelink": "https://pull01.rrwes.live/live/stream-201313_lsd.m3u8?txSecret=2b6ddec256cce1830747f8d7f270cf81&txTime=64bea7d8"
+            },
+            {
+                "type": "Live",
+                "livelink": "https://pull01.rrwes.live/live/stream-201313_lhd.m3u8?txSecret=759e7c67d558267b6d58f3dee4068c2f&txTime=64bea7d8"
             }
         ]
     }
