@@ -2,6 +2,74 @@
     "data": [
         {
             "p": false,
+            "title": "My Sister-in-law’s Secret",
+            "img": {
+                "potrait": true,
+                "url": "https://i.mydramalist.com/Q7PWgf.jpg"
+            },
+            "desc": "အချစ်ဆိုတဲ့ အရာက ရသတမျိုးလို့လဲဆိုနိုင်သလိုခံစားချက်တစ်ခုလို့လဲဆိုနိုင်မယ်ထင်တယ်ဒီဇာတ်လမ်းလေးမှာတော့ နတ်သမီးလေး နှစ်‌‌ယောက်ရဲ့\r\nစိတ်ခံစားချက်တွေကို မည်သို့ မည်ပုံ ဖေါ်ကျူးထားမလဲဆိုတာကို တဝကြီး  ကြည့်ရှုခံစားရမှာပဲ ဖြစ်ပါတယ်.. ဇာတ်ကွက်တွေလှပသေသပ်ပြီး အဖေါ်ချွတ်ခန်းတွေဖောသီတာကြောင့်DS Fans တွေအတွက် တင်ဆက်ပေးလိုက်ပါတယ်",
+            "year": "2019",
+            "rating": "",
+            "duration": "1h 10m",
+            "ongoing": false,
+            "srcs": [
+                {
+                    "name": "F-Server",
+                    "url": "sUXXV3Or9NuFB6pAs7z6Nezh8vJS9f1jdZmDyXrvdi2HN5Ai/pznJU7NSIhMVEwnbB2t4eASKd7LhDxr12hHN7tYHDg8g+TB",
+                    "size": "517 MB",
+                    "quality": "HD",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                }
+            ],
+            "genre": [
+                "Korea",
+                "MMSub"
+            ]
+        },
+        {
+            "p": false,
+            "title": "JUQ-244",
+            "img": {
+                "potrait": true,
+                "url": "https://darktvpre.darktvapp.com/uploads/video_thumb/951.jpg"
+            },
+            "desc": "JUQ 244(Decensored)အဆောင်မှူးရီရီကိုဆီမှာနေတဲ့တာကာရှီဟာ တလလောက်မဘာဘဲနေတဲ့အချိန်မှာ စိတ်တွေထိန်းမရဖြစ်ပီ အပျိုကြီးအဆောင်မှူးကိုသွားကလိပါတော့တယ် ရီရီကိုဟာအပြင်ပန်းမှာတည်ငြိမ်သလိုပေမယ့်တကယ်တမ်းမှာတကယ့်အာသာမပြေမာမာဝေကြီးမှန်းတာကာရှီတယောက်သိလိုက်ချိန်မှာတော့သူလဲမလွတ်တော့ပါဖူး ရီရီကိုကားတွေမတင်ဆက်တာကြာပီဖြစ်တဲ့အတွက်လွမ်းနေကြမယ်ထင်ပါတယ် ကဲ ကြည့်လိုက်ကြပါအုန်း bro တို့.....( ",
+            "year": "2023",
+            "rating": "",
+            "duration": "",
+            "ongoing": false,
+            "srcs": [
+                {
+                    "name": "F-Server",
+                    "url": "sUXXV3Or9NuFB6pAs7z6Nezh8vJS9f1jdZmDyXrvdi2HN5Ai/pznJU7MQNdLSEApAx7Qt+TODavrVzKAZ8VWEoY4sWNafA3e",
+                    "size": "1.1GB",
+                    "quality": "720P",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "F-Server",
+                    "url": "sUXXV3Or9NuFB6pAs7z6Nezh8vJS9f1jdZmDyXrvdi2HN5Ai/pznJU7NU5pwfUwwa2MOJhWywhJ3o9RBNDePJ3TlmhX+Fv5U",
+                    "size": "548MB",
+                    "quality": "480P",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                }
+            ],
+            "genre": [
+                "Japan",
+                "MMSub"
+            ]
+        },
+        {
+            "p": false,
             "title": "True Story of a Woman in Jail",
             "img": {
                 "potrait": false,
