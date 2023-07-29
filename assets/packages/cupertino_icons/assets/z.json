@@ -2,6 +2,45 @@
     "data": [
         {
             "p": false,
+            "title": "May Dec Jan",
+            "img": {
+                "potrait": true,
+                "url": "https://m.media-amazon.com/images/M/MV5BN2E0MWJiOGItZDcxYS00MWJmLWE3MjYtNzUyYjVjMmE3ZjUyXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_.jpg"
+            },
+            "desc": "ဇာတ်ကားနာမည်လေးအတိုင်း ဇာတ်ကောင်လေးသုံးယောက်ပါဝင်ပြီး\r\nဂေးတစ်ယောက်ရယ် သူ့ရဲ့ ခပ်ဟော့ဟော့အမေရယ် သူချစ်တဲ့\r\nသူငယ်ချင်းရယ် သုံးပွင့်ဆိုင်ဇာတ်လမ်းလေးကို ရှုစားနိုင်ဖို့ တင်ဆက်ပေးလိုက်ပါတယ်\r\nထုံးစံအတိုင်း မြူးဇစ်နဲ့‌ဖော်ချွတ်‌လေးတွေလဲပါတာမို့\r\nမိသားစုနှင့်‌တော့ကြည့်ရန်မသင့်တော်ပါကြောင်း….",
+            "year": "2022",
+            "rating": "6.4",
+            "duration": "1h 35m",
+            "ongoing": false,
+            "srcs": [
+                {
+                    "name": "F-Server",
+                    "url": "https://www.mediafire.com/file_premium/dkfjozz8z1hbqn0",
+                    "size": "582 MB",
+                    "quality": "HD",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "F-Server",
+                    "url": "https://www.mediafire.com/file_premium/4gus8bmi4jgz302",
+                    "size": "1.48 GB",
+                    "quality": "FHD",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                }
+            ],
+            "genre": [
+                "Philippines",
+                "MMSub"
+            ]
+        },
+        {
+            "p": false,
             "title": "ADN-219",
             "img": {
                 "potrait": true,
@@ -76,6 +115,46 @@
             ],
             "genre": [
                 "Japan",
+                "MMSub"
+            ]
+        },
+        
+        {
+            "p": false,
+            "title": "PVT Chat",
+            "img": {
+                "potrait": true,
+                "url": "https://m.media-amazon.com/images/M/MV5BOGY0YmVlOTYtMmYyMS00ZGY0LTk2Y2MtNDg2YmViNTkzMzMwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg"
+            },
+            "desc": "လူနှစ်ဦးကြားက စိတ်ကူးယဉ်ဘဝနဲ့ လက်ရှိဘဝလေးကို ချိန်ထိုးပြထားတဲ့ ဇာတ်လမ်းလေးပါ။ ဝတ်လစ်စလစ်ခန်းတွေ ရှင်းရှင်းလင်းလင်းပါပေမယ့်လည်း အပြာကားပုံစံ\r\nမဟုတ်ပဲ romanceဖြစ်လောက်အောင်အထိ ဇာတ်လမ်းဇာတ်ကွက်ဆန်းတဲ့အတွက်ကြောင့် တင်ဆက်ပေးလိုက်ပါတယ်။",
+            "year": "2020",
+            "rating": "5.9",
+            "duration": "1h 38m",
+            "ongoing": false,
+            "srcs": [
+                {
+                    "name": "F-Server",
+                    "url": "https://www.mediafire.com/file_premium/ysloz5h6uz8ybyy",
+                    "size": "288 MB",
+                    "quality": "SD",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "F-Server",
+                    "url": "https://www.mediafire.com/file_premium/dd4965a6465brgf",
+                    "size": "539 MB",
+                    "quality": "HD",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                }
+            ],
+            "genre": [
+                "US",
                 "MMSub"
             ]
         },
