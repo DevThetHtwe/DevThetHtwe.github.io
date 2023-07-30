@@ -2,6 +2,45 @@
     "data": [
         {
             "p": false,
+            "title": "My Sister's Friend II",
+            "img": {
+                "potrait": true,
+                "url": "https://www.themoviedb.org/t/p/w500/seU3L8xkrRT5fdugLWmUBBS5XQH.jpg"
+            },
+            "desc": "ကားနာမည်အတိုင်းပါပဲ…အစ်မရဲ့ ဘော်ဒါ မမကိုမှကြွေမိသွားတဲ့ကောင်ဆိုးလေးတစ်ယောက်ရဲ့  အချစ်ဇာတ်လမ်းပေါ့…..ကွီးယား ၁၈+ ဖြစ်သည့်အတိုင်းမမချောချောကြီးတွေနဲ့\r\nအလန်းစားအခန်းတွေမို့ထွေထူးမညွှန်းတော့ပါဘူး…",
+            "year": "2017",
+            "rating": "",
+            "duration": "1h 38m",
+            "ongoing": false,
+            "srcs": [
+                {
+                    "name": "F-Server",
+                    "url": "sUXXV3Or9NuFB6pAs7z6Nezh8vJS9f1jdZmDyXrvdi2HN5Ai/pznJU7MfpRIfWpuAHIJIaNNDQDk9wy9dbWFS4iODdRr4zPA",
+                    "size": "736 MB",
+                    "quality": "HD",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "CM",
+                    "url": "https://channelmyanmar.org/my-sisters-friend-22017/",
+                    "size": "736 MB",
+                    "quality": "HD",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                }
+            ],
+            "genre": [
+                "Korea",
+                "MMSub"
+            ]
+        },
+        {
+            "p": false,
             "title": "ADN-430",
             "img": {
                 "potrait": false,
