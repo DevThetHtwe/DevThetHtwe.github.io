@@ -2,6 +2,86 @@
     "data": [
         {
             "p": false,
+            "title": "MVSD-533",
+            "img": {
+                "potrait": true,
+                "url": "https://darktvpre.darktvapp.com/uploads/video_thumb/953.jpg"
+            },
+            "desc": "မြိုမှာအလုပ်သွားလုပ်တဲ့MCတယောက် အိမ်ပြန်လာချိန်မှာတော့အဖေ့ရဲ့နောက်မိန်းမအသစ်ဟာအလန်းစားလေးဖြစ်နေပီး အတင့်ရဲကာအထာတွေပေးလာချိန်မှာတော့ သားအဖနှစ်ယောက်လုံးသူ့စက်ကွင်းကမလွတ်ဘဲသားကိုပါဒိုင်စားသွားတဲ့ကားလေးကြည့်လိုက်ကြပါအုန်း မင်းသမီးရဲ့အမူအရာတွေbodyတွေနဲ့တင်ကိုဒီကားကတန်လွန်းနေပီ.....( ",
+            "year": "2022",
+            "rating": "",
+            "duration": "",
+            "ongoing": false,
+            "srcs": [
+                {
+                    "name": "F-Server",
+                    "url": "sUXXV3Or9NuFB6pAs7z6Nezh8vJS9f1jdZmDyXrvdi2HN5Ai/pznJU7NdpdnI0QmRywCIRdzwopWsmW7Z7qgAtDJZM0GcYEH",
+                    "size": "1.2GB",
+                    "quality": "720P",
+                    "direct": false,
+                    "dl": false,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "F-Server",
+                    "url": "sUXXV3Or9NuFB6pAs7z6Nezh8vJS9f1jdZmDyXrvdi2HN5Ai/pznJU7NQIpKVGYw4m5nBu+p9Rg9WwWzsAPgAh2ZaLvaPxqU",
+                    "size": "554MB",
+                    "quality": "480P",
+                    "direct": false,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                }
+            ],
+            "genre": [
+                "Japan",
+                "Decensored",
+                "MMSub"
+            ]
+        },
+        {
+            "p": false,
+            "title": "FOCS-108",
+            "img": {
+                "potrait": true,
+                "url": "https://darktvpre.darktvapp.com/uploads/video_thumb/952.jpg"
+            },
+            "desc": "ဘေးအိမ်ကိုအသစ်ပြောင်းလာတဲ့ကောင်မလေးမီဆာကီကဘေးခန်းက ငနဲကိုဘယ်လိုတွေပေါ်တင်အထာပေးပီးခေါ်စားမလဲကြည့်လိုက်ကြပါအုန်းသိပ်မတွေ့ဖူးတဲ့မျက်နှာသစ်လေးဖြစ်ဖိုများပီး ပိန်ပိန်လေးနဲ့တကယ်လှတဲ့အလန်းလေးကိုလက်မနှေးဘဲအမြန်ဒေါင်းလိုက်ကြပါအုန်းညိုကီတို.....( ",
+            "year": "2023",
+            "rating": "",
+            "duration": "",
+            "ongoing": false,
+            "srcs": [
+                {
+                    "name": "F-Server",
+                    "url": "sUXXV3Or9NuFB6pAs7z6Nezh8vJS9f1jdZmDyXrvdi2HN5Ai/pznJU7NYpJKalgmTlAp1hsgB3SNgOeDRTZExImrLGy5NxA9",
+                    "size": "1.3GB",
+                    "quality": "720P",
+                    "direct": false,
+                    "dl": false,
+                    "wb": false,
+                    "srt": ""
+                },
+                {
+                    "name": "F-Server",
+                    "url": "sUXXV3Or9NuFB6pAs7z6Nezh8vJS9f1jdZmDyXrvdi2HN5Ai/pznJU7NWIlnRFQw34iJrrGiu8A/tQtMZ6pMsqzEN3I3lnjt",
+                    "size": "590MB",
+                    "quality": "480P",
+                    "direct": true,
+                    "dl": true,
+                    "wb": false,
+                    "srt": ""
+                }
+            ],
+            "genre": [
+                "Japan",
+                "Decensored",
+                "MMSub"
+            ]
+        },
+        {
+            "p": false,
             "title": "May Dec Jan",
             "img": {
                 "potrait": true,
@@ -118,7 +198,6 @@
                 "MMSub"
             ]
         },
-        
         {
             "p": false,
             "title": "PVT Chat",
