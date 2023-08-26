@@ -1,10 +1,10 @@
 <ptha>
 {
-    "checkI": false,
-    "useX": false,
+    "checkI": true,
+    "useX": true,
     "useP": true,
-    "force": false,
-    "version": "2.0.8",
+    "force": true,
+    "version": "3.0.4",
     "api": "sUXXV3Or9NuFB6oKjtf6NaEOj5l8o0UzkSdyXYKLExFpG43Yx9K8PuO9fTvoEYc8VnHoSXuGG7qBpBd9YeB1a9HH6b8b1rt82emvU5T7Z6a7O/MPPOczMP+BPFsGcISMiSb7qpUJ2KSFxwaY2tOp9mzVJDlZmOpFjHS0C6Z7WxprLQ8OtBK3LQB+PydUK1Y3",
     "pwd": "5FTGJiS6+qz8XadQmqlaKJ9vbqzS0e8T",
     "pwd_desc": "5FTGPSS6+tXds3uHm3iysSPG12Qh6GD4/VCOhHYRnWW/wzt1CSkaVPWkvYN38VMRM+TADn5SS14eyAKogneWzxuKMwvUmhKfEG2VtcJh3NN4FVQ4pju67m5KTO0j7UVEGV2nNm0E7QY=",
