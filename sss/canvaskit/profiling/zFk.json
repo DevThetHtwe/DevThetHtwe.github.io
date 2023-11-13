@@ -11,6 +11,16 @@
         ]
     },
     {
+        "title": "Daung",
+        "img": "https://i.imgur.com/hxYQjxS.jpg",
+        "desc": "Daung is a Burmese film and television actor and former footballer. He first gained widespread fame in Myanmar through his role in the 2019 film The Only Mom. Daung is known for his method acting performances, in contrast to the more typical melodramatic forms of acting popular in Burmese cinema.",
+        "cate": [
+            "Actress",
+            "Singer",
+            "About"
+        ]
+    },
+    {
         "title": "Paing Phyoe Thu",
         "img": "https://www.themoviedb.org/t/p/w500/tOWzCWpajQ07a1IpJy7Ezw7ilA.jpg",
         "desc": "Paing Phyo Thu is a Myanmar Academy Award winning Burmese film actress and a medical doctor. She won the Myanmar Academy Award for Best Supporting Actress in 2017 Myanmar Motion Picture Academy Awards with the film, 3Girls. Paing Phyo Thu is considered one of the promising and prominent actresses in Myanmar.",
@@ -98,6 +108,16 @@
         "title": "Chit Thu Wai",
         "img": "https://assets.mycast.io/actor_images/actor-chit-thu-wai-89309_large.jpg?1589141127",
         "desc": "Chit Thu Wai is a Burmese actress, singer and medical doctor. She has achieved fame and success as an actress and singer. In 2015, she represented Myanmar at the United Nations General Assembly as a Hand-washing Ambassador.",
+        "cate": [
+            "Actress",
+            "Singer",
+            "About"
+        ]
+    },
+    {
+        "title": "Myint Myat",
+        "img": "https://i.imgur.com/V0PoSGr.jpg",
+        "desc": "Myint Myat (Burmese: မြင့်မြတ်; born 7 August 1986) is a Myanmar Motion Picture Academy Awards-winning Burmese actor. He began his career in June 2006.",
         "cate": [
             "Actress",
             "Singer",
